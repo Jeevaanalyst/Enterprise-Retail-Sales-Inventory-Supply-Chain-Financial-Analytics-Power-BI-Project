@@ -33,21 +33,48 @@ https://app.powerbi.com/groups/me/reports/9fae2459-e27d-430c-a9f4-42780d7045fd/0
 
 EXECUTIVE DASHBOARD
 
+
 Total Sales = SUM(fact_sales[sales])
+
 
 Total Profit = SUM(fact_sales[profit])
 
+
 Total Cost = SUM(fact_sales[cost])
+
 
 Total Orders = DISTINCTCOUNT(fact_sales[order_id])
 
+
 Customer Count = DISTINCTCOUNT(fact_sales[customer_id])
+
 
 Profit Margin % = DIVIDE([Total Profit],[Total Sales],0)*100
 
+
 Average Order Value = DIVIDE([Total Sales],[Total Orders],0)
 
+
+
 SALES ANALYSIS
+
+YoY Sales Growth % =
+VAR current_year = [Total Sales]
+VAR prior_year =
+    CALCULATE(
+        [Total Sales],
+        SAMEPERIODLASTYEAR(dim_calendar[date])
+    )
+RETURN
+DIVIDE(current_year - prior_year, prior_year, 0) * 100
+
+YTD Sales Last Year =
+CALCULATE(
+    [Total Sales],
+    DATESYTD(SAMEPERIODLASTYEAR(dim_calendar[date]))
+)
+
+
 
 Discount Band =
 SWITCH(TRUE(),
@@ -58,7 +85,12 @@ SWITCH(TRUE(),
     "30%+"
 )
 
+
+
+
 CUSTOMER ANALYTICS
+
+
 
 Age Band =
 SWITCH(TRUE(),
@@ -69,6 +101,8 @@ SWITCH(TRUE(),
     "55+"
 )
 
+
+
 Repeat Customer % =
 VAR repeat_custs =
     COUNTROWS(FILTER(
@@ -76,6 +110,8 @@ VAR repeat_custs =
         [orders]>=2
     ))
 RETURN DIVIDE(repeat_custs, [Customer Count], 0)*100
+
+
 
 Avg CLV = AVERAGEX(VALUES(dim_customer[customer_id]), CALCULATE([Total Sales]))
 
@@ -90,27 +126,45 @@ VAR repeat_in_period =
 RETURN DIVIDE(repeat_in_period, [Customer Count], 0)*100
 
 
+
+
 INVENTORY DASHBOARD
+
+
+
 
 Inventory Turnover =
 DIVIDE(SUM(fact_inventory[units_sold_this_month]), AVERAGE(fact_inventory[stock]), 0)
 
+
 Reorder Alert Count =
 CALCULATE(COUNTROWS(fact_inventory), fact_inventory[stock] < fact_inventory[reorder_level])
+
 
 Dead Stock Flag =
 IF(CALCULATE(SUM(fact_inventory[units_sold_this_month]))=0, "Dead Stock", "Active")
 
 
+
+
 SUPPLY CHAIN DASHBOARD
+
+
 
 On-Time Delivery % =
 DIVIDE(CALCULATE(COUNTROWS(fact_shipment), fact_shipment[delay_days]<=2), COUNTROWS(fact_shipment), 0)*100
 
+
 Avg Delivery Delay = AVERAGE(fact_shipment[delay_days])
+
+
 Total Freight Cost = SUM(fact_shipment[freight_cost])
 
+
+
 FINANCIAL DASHBOARD (WITH WATERFALL)
+
+
 
 PnL Value =
 SWITCH(
@@ -124,6 +178,8 @@ SWITCH(
     "Net Profit", [Total Profit]-[Total Freight Cost]
 )
 
+
+
 3 Month Moving Avg =
 CALCULATE(
     AVERAGEX(
@@ -131,6 +187,9 @@ CALCULATE(
         [Total Sales]
     )
 )
+
+
+
 
 
 Row-Level Security
