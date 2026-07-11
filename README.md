@@ -29,9 +29,9 @@ https://app.powerbi.com/groups/me/reports/9fae2459-e27d-430c-a9f4-42780d7045fd/0
         Scan to View 
 
 
-         DAX 
+         
 
-EXECUTIVE DASHBOARD : 
+EXECUTIVE DASHBOARD :  ( DAX )
 --------------------
 
 
