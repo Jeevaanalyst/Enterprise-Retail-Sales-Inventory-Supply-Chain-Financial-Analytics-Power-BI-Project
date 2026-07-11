@@ -1,4 +1,4 @@
-<img width="190" height="217" alt="image" src="https://github.com/user-attachments/assets/edaf2fff-165b-4e6f-b7a4-457d3bb773e7" />Dataset Description :
+Dataset Description :
 
 fact_sales.csv -  Order ID, Order Date, Product ID, Customer ID, Store ID, Employee ID, Quantity, Sales, Cost, Profit, Discount 
 
@@ -20,7 +20,9 @@ dim_calendar.csv-  Date, Year, Quarter, Month, Week, Fiscal Year
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Power BI Analytics ( Reports & Dashboards )
+Power BI Analytics ( Reports & Dashboards ) : Enterprise Retail Sales, Inventory & Supply Chain Analytics
 
 https://app.powerbi.com/groups/me/reports/9fae2459-e27d-430c-a9f4-42780d7045fd/09e091f06e23b12e0234?experience=power-bi
+
+<img width="190" height="217" alt="image" src="https://github.com/user-attachments/assets/edaf2fff-165b-4e6f-b7a4-457d3bb773e7" />
 
