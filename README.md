@@ -31,7 +31,8 @@ https://app.powerbi.com/groups/me/reports/9fae2459-e27d-430c-a9f4-42780d7045fd/0
 
          DAX 
 
-EXECUTIVE DASHBOARD
+EXECUTIVE DASHBOARD : 
+--------------------
 
 
 Total Sales = SUM(fact_sales[sales])
@@ -54,9 +55,10 @@ Profit Margin % = DIVIDE([Total Profit],[Total Sales],0)*100
 
 Average Order Value = DIVIDE([Total Sales],[Total Orders],0)
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-SALES ANALYSIS
+SALES ANALYSIS :
+---------------
 
 YoY Sales Growth % =
 VAR current_year = [Total Sales]
@@ -86,9 +88,10 @@ SWITCH(TRUE(),
 )
 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-CUSTOMER ANALYTICS
+CUSTOMER ANALYTICS :
+--------------------
 
 
 
@@ -125,10 +128,11 @@ VAR repeat_in_period =
     )
 RETURN DIVIDE(repeat_in_period, [Customer Count], 0)*100
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-
-INVENTORY DASHBOARD
+INVENTORY DASHBOARD :
+---------------------
 
 
 
@@ -145,9 +149,10 @@ Dead Stock Flag =
 IF(CALCULATE(SUM(fact_inventory[units_sold_this_month]))=0, "Dead Stock", "Active")
 
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-SUPPLY CHAIN DASHBOARD
+SUPPLY CHAIN DASHBOARD :
+-------------------------
 
 
 
@@ -160,9 +165,10 @@ Avg Delivery Delay = AVERAGE(fact_shipment[delay_days])
 
 Total Freight Cost = SUM(fact_shipment[freight_cost])
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-FINANCIAL DASHBOARD (WITH WATERFALL)
+FINANCIAL DASHBOARD (WITH WATERFALL) :
+----------------------------------------
 
 
 
@@ -189,7 +195,7 @@ CALCULATE(
 )
 
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 Row-Level Security
