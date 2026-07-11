@@ -24,9 +24,7 @@ Power BI Analytic Dashboards  - Enterprise Retail Sales, Inventory & Supply Chai
 
 https://app.powerbi.com/groups/me/reports/9fae2459-e27d-430c-a9f4-42780d7045fd/09e091f06e23b12e0234?experience=power-bi
 
-<img width="190" height="217" alt="image" src="https://github.com/user-attachments/assets/edaf2fff-165b-4e6f-b7a4-457d3bb773e7" />
 
-        Scan to View 
 
 
          
