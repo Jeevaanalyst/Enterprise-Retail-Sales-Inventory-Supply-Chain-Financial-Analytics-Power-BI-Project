@@ -1,0 +1,221 @@
+store_id,store_name,region,state,city,manager,store_type,store_size_sqft,open_date,is_active
+ST0001,"Phoenix Marketcity, Mumbai",West,Maharashtra,Mumbai,Vikram Nair,Standard,9276,11/24/2022,1
+ST0002,"Inorbit Mall, Mumbai",West,Maharashtra,Mumbai,Anita Sinha,Standard,21072,6/7/2021,1
+ST0003,"R City Mall, Mumbai",West,Maharashtra,Mumbai,Sunita Rao,Standard,6076,4/14/2022,1
+ST0004,"Linking Road, Mumbai",West,Maharashtra,Mumbai,Divya Menon,Standard,18215,5/4/2020,1
+ST0005,"Bandra West, Mumbai",West,Maharashtra,Mumbai,Shalini Agarwal,Outlet,18119,3/22/2015,1
+ST0006,"Powai Hiranandani, Mumbai",West,Maharashtra,Mumbai,Deepak Chopra,Express,2717,12/29/2017,1
+ST0007,"Select Citywalk, Delhi",North,Delhi,Delhi,Harish Patel,Standard,6339,9/13/2019,1
+ST0008,"DLF Promenade, Delhi",North,Delhi,Delhi,Sanjay Joshi,Standard,13068,11/10/2016,1
+ST0009,"Connaught Place, Delhi",North,Delhi,Delhi,Shalini Agarwal,Standard,12127,11/9/2019,1
+ST0010,"Rajouri Garden, Delhi",North,Delhi,Delhi,Manoj Pillai,Standard,8578,1/13/2019,0
+ST0011,"Lajpat Nagar, Delhi",North,Delhi,Delhi,Anita Sinha,Standard,14355,3/16/2021,1
+ST0012,"Karol Bagh, Delhi",North,Delhi,Delhi,Ramesh Babu,Standard,12983,7/28/2021,1
+ST0013,"Orion Mall, Bengaluru",South,Karnataka,Bengaluru,Manoj Pillai,Outlet,21242,3/26/2017,1
+ST0014,"Phoenix Marketcity, Bengaluru",South,Karnataka,Bengaluru,Deepak Chopra,Standard,17162,7/22/2019,1
+ST0015,"Forum Mall Koramangala, Bengaluru",South,Karnataka,Bengaluru,Gopal Krishnan,Express,4627,8/12/2018,1
+ST0016,"Indiranagar 100ft Road, Bengaluru",South,Karnataka,Bengaluru,Vikram Nair,Standard,5125,2/3/2023,1
+ST0017,"Whitefield, Bengaluru",South,Karnataka,Bengaluru,Kavita Iyer,Express,22802,12/23/2022,1
+ST0018,"MG Road, Bengaluru",South,Karnataka,Bengaluru,Rajesh Kumar,Flagship,1999,10/24/2022,1
+ST0019,"Inorbit Mall, Hyderabad",South,Telangana,Hyderabad,Neha Gupta,Express,16630,11/7/2015,1
+ST0020,"GVK One Mall, Hyderabad",South,Telangana,Hyderabad,Suresh Reddy,Outlet,21047,6/13/2019,1
+ST0021,"Banjara Hills, Hyderabad",South,Telangana,Hyderabad,Divya Menon,Standard,9397,7/11/2017,1
+ST0022,"Hitech City, Hyderabad",South,Telangana,Hyderabad,Anjali Mehta,Standard,7579,4/17/2023,1
+ST0023,"Jubilee Hills, Hyderabad",South,Telangana,Hyderabad,Vinod Chandran,Express,7582,5/6/2020,1
+ST0024,"Express Avenue, Chennai",South,Tamil Nadu,Chennai,Rajesh Kumar,Express,7281,12/17/2018,1
+ST0025,"Phoenix Marketcity, Chennai",South,Tamil Nadu,Chennai,Prakash Menon,Express,1736,9/29/2023,1
+ST0026,"T Nagar, Chennai",South,Tamil Nadu,Chennai,Deepa Krishnan,Standard,11430,4/30/2017,1
+ST0027,"Anna Nagar, Chennai",South,Tamil Nadu,Chennai,Sanjay Joshi,Outlet,9165,4/23/2015,1
+ST0028,"VR Mall, Chennai",South,Tamil Nadu,Chennai,Gopal Krishnan,Outlet,17213,5/13/2022,0
+ST0029,"South City Mall, Kolkata",East,West Bengal,Kolkata,Vikram Nair,Standard,12801,11/30/2022,1
+ST0030,"Quest Mall, Kolkata",East,West Bengal,Kolkata,Deepa Krishnan,Standard,16648,5/30/2023,1
+ST0031,"Salt Lake City Centre, Kolkata",East,West Bengal,Kolkata,Shalini Agarwal,Flagship,23726,2/28/2021,1
+ST0032,"Park Street, Kolkata",East,West Bengal,Kolkata,Nandini Krishnan,Outlet,3849,7/14/2016,1
+ST0033,"Phoenix Marketcity, Pune",West,Maharashtra,Pune,Sunita Rao,Express,16685,10/23/2017,1
+ST0034,"Amanora Mall, Pune",West,Maharashtra,Pune,Manoj Pillai,Standard,8979,9/26/2017,0
+ST0035,"FC Road, Pune",West,Maharashtra,Pune,Divya Menon,Express,16330,6/9/2015,1
+ST0036,"Camp Area, Pune",West,Maharashtra,Pune,Priya Sharma,Standard,12525,10/17/2021,1
+ST0037,"Viman Nagar, Pune",West,Maharashtra,Pune,Rajesh Kumar,Standard,21182,4/1/2019,1
+ST0038,"Hinjewadi, Pune",West,Maharashtra,Pune,Karthik Subramaniam,Standard,14756,11/16/2016,1
+ST0039,"Alpha One Mall, Ahmedabad",West,Gujarat,Ahmedabad,Radha Krishnan,Standard,12626,9/10/2022,1
+ST0040,"Vastrapur, Ahmedabad",West,Gujarat,Ahmedabad,Sneha Reddy,Flagship,11305,6/21/2017,1
+ST0041,"Navrangpura, Ahmedabad",West,Gujarat,Ahmedabad,Harish Patel,Express,4634,3/10/2019,1
+ST0042,"World Trade Park, Jaipur",North,Rajasthan,Jaipur,Kavita Iyer,Standard,17419,6/9/2019,1
+ST0043,"MI Road, Jaipur",North,Rajasthan,Jaipur,Shalini Agarwal,Standard,7713,6/3/2022,1
+ST0044,"C Scheme, Jaipur",North,Rajasthan,Jaipur,Arjun Singh,Standard,18290,4/12/2020,1
+ST0045,"Phoenix Palassio, Lucknow",North,Uttar Pradesh,Lucknow,Nandini Krishnan,Express,18436,2/9/2023,1
+ST0046,"Hazratganj, Lucknow",North,Uttar Pradesh,Lucknow,Rajesh Kumar,Express,8463,2/4/2022,0
+ST0047,"Elante Mall, Chandigarh",North,Punjab,Chandigarh,Kavita Iyer,Standard,5550,1/19/2019,1
+ST0048,"Sector 17, Chandigarh",North,Punjab,Chandigarh,Shalini Agarwal,Standard,8221,2/9/2020,1
+ST0049,"Treasure Island Mall, Indore",Central,Madhya Pradesh,Indore,Harish Patel,Express,6537,2/27/2020,1
+ST0050,"Vijay Nagar, Indore",Central,Madhya Pradesh,Indore,Vijay Anand,Standard,20881,5/28/2023,1
+ST0051,"Empress Mall, Nagpur",Central,Maharashtra,Nagpur,Swati Kapoor,Express,11772,5/5/2020,1
+ST0052,"Sitabuldi, Nagpur",Central,Maharashtra,Nagpur,Ashok Verma,Standard,14159,6/20/2021,1
+ST0053,"VR Surat, Surat",West,Gujarat,Surat,Nandini Krishnan,Standard,10592,2/27/2016,1
+ST0054,"Vesu, Surat",West,Gujarat,Surat,Sangeeta Rao,Standard,12793,4/16/2018,1
+ST0055,"Lulu Mall, Kochi",South,Kerala,Kochi,Sunita Rao,Standard,5672,8/30/2022,1
+ST0056,"MG Road Kochi, Kochi",South,Kerala,Kochi,Geeta Iyer,Standard,9024,8/29/2021,1
+ST0057,"Brookefields Mall, Coimbatore",South,Tamil Nadu,Coimbatore,Sangeeta Rao,Express,16860,3/10/2017,1
+ST0058,"RS Puram, Coimbatore",South,Tamil Nadu,Coimbatore,Divya Menon,Standard,21185,3/2/2017,1
+ST0059,"DB City Mall, Bhopal",Central,Madhya Pradesh,Bhopal,Geeta Iyer,Express,23794,10/28/2017,1
+ST0060,"MP Nagar, Bhopal",Central,Madhya Pradesh,Bhopal,Vikram Nair,Express,20261,7/4/2018,1
+ST0061,"P&M Mall, Patna",East,Bihar,Patna,Divya Menon,Flagship,7474,9/1/2018,1
+ST0062,"Boring Road, Patna",East,Bihar,Patna,Sangeeta Rao,Standard,18003,3/28/2018,1
+ST0063,"Inorbit Mall, Vadodara",West,Gujarat,Vadodara,Mohan Das,Standard,21811,4/28/2016,1
+ST0064,"Alkapuri, Vadodara",West,Gujarat,Vadodara,Suman Tiwari,Express,24967,4/17/2021,1
+ST0065,"CMR Central, Visakhapatnam",South,Andhra Pradesh,Visakhapatnam,Deepa Krishnan,Standard,23056,8/2/2017,1
+ST0066,"MVP Colony, Visakhapatnam",South,Andhra Pradesh,Visakhapatnam,Sneha Reddy,Standard,4326,2/9/2016,1
+ST0067,"College Road, Nashik",West,Maharashtra,Nashik,Lakshmi Narayan,Express,23140,2/18/2021,1
+ST0068,"Gangapur Road, Nashik",West,Maharashtra,Nashik,Radha Krishnan,Flagship,19751,11/15/2022,1
+ST0069,"MBD Mall, Ludhiana",North,Punjab,Ludhiana,Amit Verma,Standard,15443,11/4/2019,1
+ST0070,"Ferozepur Road, Ludhiana",North,Punjab,Ludhiana,Divya Menon,Standard,1823,7/18/2015,1
+ST0071,"Sadar Bazaar, Agra",North,Uttar Pradesh,Agra,Rohit Malhotra,Flagship,9163,1/19/2021,1
+ST0072,"Sanjay Place, Agra",North,Uttar Pradesh,Agra,Swati Kapoor,Express,6223,3/19/2020,1
+ST0073,"Z Square Mall, Kanpur",North,Uttar Pradesh,Kanpur,Sunita Rao,Standard,2339,9/10/2019,1
+ST0074,"Mall Road, Kanpur",North,Uttar Pradesh,Kanpur,Neha Gupta,Express,18508,3/22/2022,1
+ST0075,"Crystal Mall, Rajkot",West,Gujarat,Rajkot,Karthik Subramaniam,Standard,12524,8/10/2021,1
+ST0076,"Race Course Road, Rajkot",West,Gujarat,Rajkot,Ravi Shankar,Standard,4130,6/24/2018,1
+ST0077,"Sigra, Varanasi",North,Uttar Pradesh,Varanasi,Sneha Reddy,Outlet,6371,11/18/2017,1
+ST0078,"Cantonment, Varanasi",North,Uttar Pradesh,Varanasi,Deepa Krishnan,Standard,2857,4/8/2020,1
+ST0079,"Goodricke Mall, Madurai",South,Tamil Nadu,Madurai,Ravi Shankar,Flagship,16876,10/14/2017,1
+ST0080,"Anna Nagar Madurai, Madurai",South,Tamil Nadu,Madurai,Sunita Rao,Express,22744,12/7/2023,1
+ST0081,"Mall of Mysore, Mysuru",South,Karnataka,Mysuru,Sanjay Joshi,Standard,20958,10/31/2015,1
+ST0082,"Devaraja Mohalla, Mysuru",South,Karnataka,Mysuru,Ajay Bhatt,Standard,19267,5/29/2015,1
+ST0083,"City Centre Mall, Guwahati",East,Assam,Guwahati,Meera Pillai,Express,7264,9/9/2017,1
+ST0084,"GS Road, Guwahati",East,Assam,Guwahati,Nandini Krishnan,Standard,16798,9/24/2018,1
+ST0085,"Esplanade One, Bhubaneswar",East,Odisha,Bhubaneswar,Vikram Nair,Express,14841,2/12/2019,1
+ST0086,"Saheed Nagar, Bhubaneswar",East,Odisha,Bhubaneswar,Manoj Pillai,Standard,23233,11/5/2020,1
+ST0087,"Trivandrum Spencer Junction, Thiruvananthapuram",South,Kerala,Thiruvananthapuram,Ramesh Babu,Standard,4764,1/18/2022,1
+ST0088,"MG Road, Thiruvananthapuram",South,Kerala,Thiruvananthapuram,Shalini Agarwal,Flagship,9393,3/15/2018,1
+ST0089,"Ranchi Club Road, Ranchi",East,Jharkhand,Ranchi,Pooja Desai,Standard,11583,5/16/2015,1
+ST0090,"Main Road, Ranchi",East,Jharkhand,Ranchi,Deepak Chopra,Outlet,2631,6/23/2021,1
+ST0091,"Phoenix Marketcity, Mumbai - 2",West,Maharashtra,Mumbai,Sunita Rao,Standard,18123,7/3/2021,1
+ST0092,"Inorbit Mall, Mumbai - 2",West,Maharashtra,Mumbai,Sneha Reddy,Standard,15545,6/20/2018,1
+ST0093,"R City Mall, Mumbai - 2",West,Maharashtra,Mumbai,Ravi Shankar,Standard,20651,9/14/2020,1
+ST0094,"Linking Road, Mumbai - 2",West,Maharashtra,Mumbai,Ravi Shankar,Express,20576,10/24/2018,1
+ST0095,"Bandra West, Mumbai - 2",West,Maharashtra,Mumbai,Meera Pillai,Standard,13937,11/1/2021,1
+ST0096,"Powai Hiranandani, Mumbai - 2",West,Maharashtra,Mumbai,Sneha Reddy,Express,12407,9/19/2021,1
+ST0097,"Select Citywalk, Delhi - 2",North,Delhi,Delhi,Manoj Pillai,Standard,2952,2/29/2020,1
+ST0098,"DLF Promenade, Delhi - 2",North,Delhi,Delhi,Gopal Krishnan,Outlet,23380,3/28/2018,1
+ST0099,"Connaught Place, Delhi - 2",North,Delhi,Delhi,Suresh Reddy,Standard,23462,1/2/2018,1
+ST0100,"Rajouri Garden, Delhi - 2",North,Delhi,Delhi,Swati Kapoor,Flagship,8055,11/28/2016,1
+ST0101,"Lajpat Nagar, Delhi - 2",North,Delhi,Delhi,Geeta Iyer,Outlet,15921,5/1/2019,1
+ST0102,"Karol Bagh, Delhi - 2",North,Delhi,Delhi,Kavita Iyer,Standard,10485,5/30/2020,1
+ST0103,"Orion Mall, Bengaluru - 2",South,Karnataka,Bengaluru,Lakshmi Narayan,Express,8521,5/30/2017,1
+ST0104,"Phoenix Marketcity, Bengaluru - 2",South,Karnataka,Bengaluru,Anjali Mehta,Standard,14751,5/18/2015,1
+ST0105,"Forum Mall Koramangala, Bengaluru - 2",South,Karnataka,Bengaluru,Ashok Verma,Flagship,12636,10/3/2016,1
+ST0106,"Indiranagar 100ft Road, Bengaluru - 2",South,Karnataka,Bengaluru,Sneha Reddy,Standard,18157,2/12/2023,0
+ST0107,"Whitefield, Bengaluru - 2",South,Karnataka,Bengaluru,Ramesh Babu,Standard,15654,8/26/2020,1
+ST0108,"MG Road, Bengaluru - 2",South,Karnataka,Bengaluru,Rajesh Kumar,Standard,15475,10/17/2016,1
+ST0109,"Inorbit Mall, Hyderabad - 2",South,Telangana,Hyderabad,Naveen Kumar,Flagship,16323,5/9/2016,1
+ST0110,"GVK One Mall, Hyderabad - 2",South,Telangana,Hyderabad,Prakash Menon,Flagship,16815,5/5/2022,0
+ST0111,"Banjara Hills, Hyderabad - 2",South,Telangana,Hyderabad,Ravi Shankar,Outlet,22824,11/25/2017,1
+ST0112,"Hitech City, Hyderabad - 2",South,Telangana,Hyderabad,Suresh Reddy,Flagship,21008,3/30/2023,0
+ST0113,"Jubilee Hills, Hyderabad - 2",South,Telangana,Hyderabad,Prakash Menon,Standard,17374,11/9/2017,0
+ST0114,"Express Avenue, Chennai - 2",South,Tamil Nadu,Chennai,Sneha Reddy,Standard,19619,12/29/2017,1
+ST0115,"Phoenix Marketcity, Chennai - 2",South,Tamil Nadu,Chennai,Gopal Krishnan,Standard,4024,2/13/2019,1
+ST0116,"T Nagar, Chennai - 2",South,Tamil Nadu,Chennai,Lakshmi Narayan,Express,7233,11/4/2019,1
+ST0117,"Anna Nagar, Chennai - 2",South,Tamil Nadu,Chennai,Anjali Mehta,Outlet,15395,11/21/2017,1
+ST0118,"VR Mall, Chennai - 2",South,Tamil Nadu,Chennai,Meera Pillai,Standard,16087,10/17/2019,1
+ST0119,"South City Mall, Kolkata - 2",East,West Bengal,Kolkata,Ravi Shankar,Flagship,15000,11/19/2022,1
+ST0120,"Quest Mall, Kolkata - 2",East,West Bengal,Kolkata,Harish Patel,Outlet,4293,8/18/2017,1
+ST0121,"Salt Lake City Centre, Kolkata - 2",East,West Bengal,Kolkata,Suman Tiwari,Flagship,16462,11/11/2017,1
+ST0122,"Park Street, Kolkata - 2",East,West Bengal,Kolkata,Deepa Krishnan,Standard,4741,11/27/2019,1
+ST0123,"Phoenix Marketcity, Pune - 2",West,Maharashtra,Pune,Shalini Agarwal,Standard,13718,8/11/2020,1
+ST0124,"Amanora Mall, Pune - 2",West,Maharashtra,Pune,Swati Kapoor,Express,7439,6/7/2019,1
+ST0125,"FC Road, Pune - 2",West,Maharashtra,Pune,Vikram Nair,Express,6881,6/13/2015,1
+ST0126,"Camp Area, Pune - 2",West,Maharashtra,Pune,Geeta Iyer,Standard,21848,5/19/2015,1
+ST0127,"Viman Nagar, Pune - 2",West,Maharashtra,Pune,Ravi Shankar,Standard,4315,10/29/2019,1
+ST0128,"Hinjewadi, Pune - 2",West,Maharashtra,Pune,Neha Gupta,Express,9087,9/26/2016,1
+ST0129,"Alpha One Mall, Ahmedabad - 2",West,Gujarat,Ahmedabad,Suresh Reddy,Express,12036,6/6/2023,1
+ST0130,"Vastrapur, Ahmedabad - 2",West,Gujarat,Ahmedabad,Sangeeta Rao,Express,4832,7/14/2018,1
+ST0131,"Navrangpura, Ahmedabad - 2",West,Gujarat,Ahmedabad,Swati Kapoor,Express,22500,11/21/2023,0
+ST0132,"World Trade Park, Jaipur - 2",North,Rajasthan,Jaipur,Swati Kapoor,Flagship,24093,4/5/2017,1
+ST0133,"MI Road, Jaipur - 2",North,Rajasthan,Jaipur,Mohan Das,Standard,24286,5/1/2022,0
+ST0134,"C Scheme, Jaipur - 2",North,Rajasthan,Jaipur,Harish Patel,Standard,6087,5/28/2017,1
+ST0135,"Phoenix Palassio, Lucknow - 2",North,Uttar Pradesh,Lucknow,Ravi Shankar,Standard,13865,4/18/2020,1
+ST0136,"Hazratganj, Lucknow - 2",North,Uttar Pradesh,Lucknow,Ravi Shankar,Express,21095,6/3/2016,1
+ST0137,"Elante Mall, Chandigarh - 2",North,Punjab,Chandigarh,Ashok Verma,Standard,1564,11/16/2015,1
+ST0138,"Sector 17, Chandigarh - 2",North,Punjab,Chandigarh,Kavita Iyer,Express,13798,3/19/2021,1
+ST0139,"Treasure Island Mall, Indore - 2",Central,Madhya Pradesh,Indore,Swati Kapoor,Standard,6469,7/15/2017,1
+ST0140,"Vijay Nagar, Indore - 2",Central,Madhya Pradesh,Indore,Gopal Krishnan,Express,8276,4/17/2015,1
+ST0141,"Empress Mall, Nagpur - 2",Central,Maharashtra,Nagpur,Meera Pillai,Standard,4429,11/20/2023,1
+ST0142,"Sitabuldi, Nagpur - 2",Central,Maharashtra,Nagpur,Rohit Malhotra,Standard,13559,2/24/2020,1
+ST0143,"VR Surat, Surat - 2",West,Gujarat,Surat,Harish Patel,Standard,13819,7/14/2023,1
+ST0144,"Vesu, Surat - 2",West,Gujarat,Surat,Karthik Subramaniam,Standard,14695,7/23/2022,1
+ST0145,"Lulu Mall, Kochi - 2",South,Kerala,Kochi,Anjali Mehta,Outlet,20987,3/20/2023,1
+ST0146,"MG Road Kochi, Kochi - 2",South,Kerala,Kochi,Nandini Krishnan,Standard,22976,5/26/2018,1
+ST0147,"Brookefields Mall, Coimbatore - 2",South,Tamil Nadu,Coimbatore,Pooja Desai,Express,12005,6/27/2016,1
+ST0148,"RS Puram, Coimbatore - 2",South,Tamil Nadu,Coimbatore,Vijay Anand,Standard,16569,1/8/2020,1
+ST0149,"DB City Mall, Bhopal - 2",Central,Madhya Pradesh,Bhopal,Shalini Agarwal,Flagship,24874,5/24/2017,1
+ST0150,"MP Nagar, Bhopal - 2",Central,Madhya Pradesh,Bhopal,Radha Krishnan,Express,22046,3/30/2015,1
+ST0151,"P&M Mall, Patna - 2",East,Bihar,Patna,Sangeeta Rao,Flagship,3751,3/2/2022,1
+ST0152,"Boring Road, Patna - 2",East,Bihar,Patna,Geeta Iyer,Express,17365,5/2/2023,0
+ST0153,"Inorbit Mall, Vadodara - 2",West,Gujarat,Vadodara,Sanjay Joshi,Flagship,14933,12/2/2015,1
+ST0154,"Alkapuri, Vadodara - 2",West,Gujarat,Vadodara,Vijay Anand,Express,13085,3/27/2019,0
+ST0155,"CMR Central, Visakhapatnam - 2",South,Andhra Pradesh,Visakhapatnam,Prakash Menon,Standard,18366,8/13/2023,1
+ST0156,"MVP Colony, Visakhapatnam - 2",South,Andhra Pradesh,Visakhapatnam,Radha Krishnan,Standard,14491,4/1/2021,1
+ST0157,"College Road, Nashik - 2",West,Maharashtra,Nashik,Gopal Krishnan,Outlet,22113,6/10/2021,1
+ST0158,"Gangapur Road, Nashik - 2",West,Maharashtra,Nashik,Rohit Malhotra,Standard,13387,4/20/2016,1
+ST0159,"MBD Mall, Ludhiana - 2",North,Punjab,Ludhiana,Deepa Krishnan,Express,24471,1/11/2020,1
+ST0160,"Ferozepur Road, Ludhiana - 2",North,Punjab,Ludhiana,Deepa Krishnan,Express,17934,2/19/2015,1
+ST0161,"Sadar Bazaar, Agra - 2",North,Uttar Pradesh,Agra,Pooja Desai,Standard,13266,11/19/2017,1
+ST0162,"Sanjay Place, Agra - 2",North,Uttar Pradesh,Agra,Swati Kapoor,Express,21426,12/29/2019,1
+ST0163,"Z Square Mall, Kanpur - 2",North,Uttar Pradesh,Kanpur,Priya Sharma,Outlet,6476,6/8/2023,1
+ST0164,"Mall Road, Kanpur - 2",North,Uttar Pradesh,Kanpur,Radha Krishnan,Standard,12513,7/2/2018,1
+ST0165,"Crystal Mall, Rajkot - 2",West,Gujarat,Rajkot,Sanjay Joshi,Standard,4995,9/30/2017,1
+ST0166,"Race Course Road, Rajkot - 2",West,Gujarat,Rajkot,Karthik Subramaniam,Standard,13662,7/7/2019,1
+ST0167,"Sigra, Varanasi - 2",North,Uttar Pradesh,Varanasi,Anita Sinha,Express,18272,1/20/2019,1
+ST0168,"Cantonment, Varanasi - 2",North,Uttar Pradesh,Varanasi,Sangeeta Rao,Flagship,17610,6/12/2019,1
+ST0169,"Goodricke Mall, Madurai - 2",South,Tamil Nadu,Madurai,Swati Kapoor,Standard,15683,8/9/2018,1
+ST0170,"Anna Nagar Madurai, Madurai - 2",South,Tamil Nadu,Madurai,Divya Menon,Express,4111,3/12/2016,1
+ST0171,"Mall of Mysore, Mysuru - 2",South,Karnataka,Mysuru,Rohit Malhotra,Express,3213,11/25/2018,1
+ST0172,"Devaraja Mohalla, Mysuru - 2",South,Karnataka,Mysuru,Rajesh Kumar,Standard,17682,1/9/2020,1
+ST0173,"City Centre Mall, Guwahati - 2",East,Assam,Guwahati,Pooja Desai,Express,22886,6/19/2020,1
+ST0174,"GS Road, Guwahati - 2",East,Assam,Guwahati,Arjun Singh,Standard,23429,10/1/2017,1
+ST0175,"Esplanade One, Bhubaneswar - 2",East,Odisha,Bhubaneswar,Geeta Iyer,Express,6076,5/1/2017,1
+ST0176,"Saheed Nagar, Bhubaneswar - 2",East,Odisha,Bhubaneswar,Harish Patel,Standard,15187,3/31/2023,0
+ST0177,"Trivandrum Spencer Junction, Thiruvananthapuram - 2",South,Kerala,Thiruvananthapuram,Manoj Pillai,Standard,11158,9/18/2018,1
+ST0178,"MG Road, Thiruvananthapuram - 2",South,Kerala,Thiruvananthapuram,Sangeeta Rao,Express,8303,8/19/2015,1
+ST0179,"Ranchi Club Road, Ranchi - 2",East,Jharkhand,Ranchi,Ashok Verma,Express,22920,7/19/2023,1
+ST0180,"Main Road, Ranchi - 2",East,Jharkhand,Ranchi,Anita Sinha,Express,24750,12/20/2021,1
+ST0181,"Phoenix Marketcity, Mumbai - 3",West,Maharashtra,Mumbai,Harish Patel,Outlet,23445,1/24/2019,1
+ST0182,"Inorbit Mall, Mumbai - 3",West,Maharashtra,Mumbai,Kavita Iyer,Standard,10716,1/1/2019,0
+ST0183,"R City Mall, Mumbai - 3",West,Maharashtra,Mumbai,Meera Pillai,Standard,11240,2/23/2016,1
+ST0184,"Linking Road, Mumbai - 3",West,Maharashtra,Mumbai,Rajesh Kumar,Standard,2569,4/26/2022,1
+ST0185,"Bandra West, Mumbai - 3",West,Maharashtra,Mumbai,Rohit Malhotra,Standard,1777,12/10/2016,1
+ST0186,"Powai Hiranandani, Mumbai - 3",West,Maharashtra,Mumbai,Deepak Chopra,Standard,22764,10/29/2020,1
+ST0187,"Select Citywalk, Delhi - 3",North,Delhi,Delhi,Rajesh Kumar,Standard,1674,6/16/2022,0
+ST0188,"DLF Promenade, Delhi - 3",North,Delhi,Delhi,Deepa Krishnan,Standard,15287,2/4/2020,1
+ST0189,"Connaught Place, Delhi - 3",North,Delhi,Delhi,Prakash Menon,Standard,21912,1/30/2022,1
+ST0190,"Rajouri Garden, Delhi - 3",North,Delhi,Delhi,Anjali Mehta,Flagship,1966,10/13/2021,1
+ST0191,"Lajpat Nagar, Delhi - 3",North,Delhi,Delhi,Swati Kapoor,Standard,10987,10/4/2022,1
+ST0192,"Karol Bagh, Delhi - 3",North,Delhi,Delhi,Karthik Subramaniam,Standard,6982,1/18/2020,1
+ST0193,"Orion Mall, Bengaluru - 3",South,Karnataka,Bengaluru,Neha Gupta,Standard,13014,10/8/2021,1
+ST0194,"Phoenix Marketcity, Bengaluru - 3",South,Karnataka,Bengaluru,Vijay Anand,Outlet,7608,8/24/2023,1
+ST0195,"Forum Mall Koramangala, Bengaluru - 3",South,Karnataka,Bengaluru,Ashok Verma,Standard,11119,12/9/2016,1
+ST0196,"Indiranagar 100ft Road, Bengaluru - 3",South,Karnataka,Bengaluru,Anjali Mehta,Standard,15526,6/3/2018,1
+ST0197,"Whitefield, Bengaluru - 3",South,Karnataka,Bengaluru,Harish Patel,Standard,18897,12/4/2016,0
+ST0198,"MG Road, Bengaluru - 3",South,Karnataka,Bengaluru,Sneha Reddy,Standard,21447,2/10/2017,1
+ST0199,"Inorbit Mall, Hyderabad - 3",South,Telangana,Hyderabad,Radha Krishnan,Standard,6197,10/8/2016,1
+ST0200,"GVK One Mall, Hyderabad - 3",South,Telangana,Hyderabad,Kavita Iyer,Outlet,3356,3/28/2015,1
+ST0201,"Banjara Hills, Hyderabad - 3",South,Telangana,Hyderabad,Harish Patel,Standard,12340,2/10/2019,1
+ST0202,"Hitech City, Hyderabad - 3",South,Telangana,Hyderabad,Sanjay Joshi,Express,14339,10/2/2019,1
+ST0203,"Jubilee Hills, Hyderabad - 3",South,Telangana,Hyderabad,Pooja Desai,Express,15500,8/12/2016,1
+ST0204,"Express Avenue, Chennai - 3",South,Tamil Nadu,Chennai,Divya Menon,Standard,21377,5/27/2020,1
+ST0205,"Phoenix Marketcity, Chennai - 3",South,Tamil Nadu,Chennai,Pooja Desai,Outlet,19542,12/9/2022,1
+ST0206,"T Nagar, Chennai - 3",South,Tamil Nadu,Chennai,Vinod Chandran,Standard,19818,11/20/2020,1
+ST0207,"Anna Nagar, Chennai - 3",South,Tamil Nadu,Chennai,Sunita Rao,Standard,3063,12/13/2023,1
+ST0208,"VR Mall, Chennai - 3",South,Tamil Nadu,Chennai,Kavita Iyer,Express,6031,10/6/2020,1
+ST0209,"South City Mall, Kolkata - 3",East,West Bengal,Kolkata,Vijay Anand,Standard,2253,3/6/2021,1
+ST0210,"Quest Mall, Kolkata - 3",East,West Bengal,Kolkata,Sangeeta Rao,Express,4318,11/26/2017,1
+ST0211,"Salt Lake City Centre, Kolkata - 3",East,West Bengal,Kolkata,Neha Gupta,Standard,8146,8/14/2023,0
+ST0212,"Park Street, Kolkata - 3",East,West Bengal,Kolkata,Geeta Iyer,Outlet,22676,7/31/2015,1
+ST0213,"Phoenix Marketcity, Pune - 3",West,Maharashtra,Pune,Vikram Nair,Standard,6237,10/3/2019,1
+ST0214,"Amanora Mall, Pune - 3",West,Maharashtra,Pune,Gopal Krishnan,Standard,4042,1/30/2020,1
+ST0215,"FC Road, Pune - 3",West,Maharashtra,Pune,Radha Krishnan,Standard,17694,5/16/2017,1
+ST0216,"Camp Area, Pune - 3",West,Maharashtra,Pune,Mohan Das,Express,17867,3/13/2019,1
+ST0217,"Viman Nagar, Pune - 3",West,Maharashtra,Pune,Sanjay Joshi,Express,20986,9/21/2018,1
+ST0218,"Hinjewadi, Pune - 3",West,Maharashtra,Pune,Ravi Shankar,Standard,1829,10/28/2021,1
+ST0219,"Alpha One Mall, Ahmedabad - 3",West,Gujarat,Ahmedabad,Karthik Subramaniam,Standard,19123,6/29/2019,1
+ST0220,"Vastrapur, Ahmedabad - 3",West,Gujarat,Ahmedabad,Ramesh Babu,Standard,20684,12/19/2020,1

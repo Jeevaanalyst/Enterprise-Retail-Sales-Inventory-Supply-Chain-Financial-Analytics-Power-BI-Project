@@ -1,0 +1,801 @@
+product_id,product_name,category,subcategory,brand,price,cost_price,launch_date,is_active
+PRD00001,Appliances Item 1,Home & Kitchen,Appliances,IKEA,17537.74,9998.16,2022-09-14,1
+PRD00002,Mens Wear Item 2,Fashion,Mens Wear,Decathlon,2677.78,1954.31,2019-09-29,1
+PRD00003,Storage Item 3,Home & Kitchen,Storage,Puma,13972.15,9673.13,2020-09-14,1
+PRD00004,Sportswear Item 4,Sports & Fitness,Sportswear,Adidas,11091.59,5946.94,2021-10-28,1
+PRD00005,Mens Wear Item 5,Fashion,Mens Wear,Sony,1359.75,701.9,2023-03-13,1
+PRD00006,Accessories Item 6,Electronics,Accessories,Decathlon,50877.08,36810.47,2019-03-14,1
+PRD00007,Kids Wear Item 7,Fashion,Kids Wear,IKEA,1914.62,1323.24,2022-03-20,1
+PRD00008,Accessories Item 8,Fashion,Accessories,Himalaya,6197.11,3071.08,2021-02-26,1
+PRD00009,Laptops Item 9,Electronics,Laptops,Decathlon,72418.56,45081.87,2022-02-03,1
+PRD00010,Footwear Item 10,Fashion,Footwear,Nestlé,3591.49,1953.7,2019-11-21,1
+PRD00011,Footwear Item 11,Fashion,Footwear,Bata,4330.24,2966.28,2019-08-04,1
+PRD00012,Dairy Item 12,Grocery,Dairy,Prestige,1796.05,885.36,2023-01-30,0
+PRD00013,Footwear Item 13,Fashion,Footwear,Whirlpool,6367.37,3376.14,2023-09-11,1
+PRD00014,Kids Wear Item 14,Fashion,Kids Wear,Samsung,4039.48,2184.31,2021-08-30,1
+PRD00015,Dairy Item 15,Grocery,Dairy,IKEA,310.46,148.79,2019-05-14,1
+PRD00016,Mens Wear Item 16,Fashion,Mens Wear,Sony,5454.05,3289.73,2022-02-12,1
+PRD00017,Tablets Item 17,Electronics,Tablets,Bata,64717.22,37770.45,2020-11-18,1
+PRD00018,Snacks Item 18,Grocery,Snacks,Puma,1627.65,873.78,2023-10-16,1
+PRD00019,Smartphones Item 19,Electronics,Smartphones,IKEA,45159.73,29503.62,2020-12-08,1
+PRD00020,Storage Item 20,Home & Kitchen,Storage,Sony,1987.59,1466.53,2020-04-08,1
+PRD00021,Mens Wear Item 21,Fashion,Mens Wear,Decathlon,6618.25,4068.06,2020-11-20,1
+PRD00022,Decor Item 22,Home & Kitchen,Decor,Nike,18287.66,12580.43,2023-05-03,1
+PRD00023,Snacks Item 23,Grocery,Snacks,Whirlpool,1680.93,1112.26,2022-09-02,1
+PRD00024,Cycling Item 24,Sports & Fitness,Cycling,Apple,1866.34,1011.35,2023-03-02,1
+PRD00025,Sportswear Item 25,Sports & Fitness,Sportswear,IKEA,9544.36,6285.5,2020-12-02,0
+PRD00026,Accessories Item 26,Fashion,Accessories,Bata,1372.26,992.77,2021-02-19,0
+PRD00027,Kids Wear Item 27,Fashion,Kids Wear,Adidas,4362.24,2644.23,2020-05-16,1
+PRD00028,Accessories Item 28,Electronics,Accessories,Bata,31656.91,23578.76,2019-11-06,1
+PRD00029,Mens Wear Item 29,Fashion,Mens Wear,Adidas,4884.32,2883.67,2023-01-08,1
+PRD00030,Laptops Item 30,Electronics,Laptops,Samsung,48937.04,24038.29,2021-04-27,1
+PRD00031,Personal Care Item 31,Grocery,Personal Care,Bata,1328.38,835.31,2021-09-25,1
+PRD00032,Footwear Item 32,Fashion,Footwear,IKEA,721.44,428.26,2022-12-20,1
+PRD00033,Audio Item 33,Electronics,Audio,Nestlé,38863.07,26142.71,2023-01-02,1
+PRD00034,Staples Item 34,Grocery,Staples,Samsung,1453.58,755.21,2020-05-27,1
+PRD00035,Cookware Item 35,Home & Kitchen,Cookware,Sony,2560.91,1629.76,2019-10-11,1
+PRD00036,Dairy Item 36,Grocery,Dairy,Apple,1988.77,927.06,2021-05-23,1
+PRD00037,Cookware Item 37,Home & Kitchen,Cookware,Samsung,13785.19,8040.28,2019-10-22,1
+PRD00038,Sportswear Item 38,Sports & Fitness,Sportswear,Nike,13017.33,5981.68,2021-05-15,1
+PRD00039,Sportswear Item 39,Sports & Fitness,Sportswear,IKEA,14806.06,7903.97,2023-03-10,1
+PRD00040,Cycling Item 40,Sports & Fitness,Cycling,Adidas,12971.25,8585.82,2020-06-04,1
+PRD00041,Footwear Item 41,Fashion,Footwear,Nestlé,1238.47,682.64,2022-12-05,1
+PRD00042,Mens Wear Item 42,Fashion,Mens Wear,Whirlpool,1355.06,684.95,2021-09-08,1
+PRD00043,Footwear Item 43,Fashion,Footwear,Adidas,3097.2,2207.6,2022-05-20,1
+PRD00044,Beverages Item 44,Grocery,Beverages,Whirlpool,231.47,127.72,2020-02-06,1
+PRD00045,Mens Wear Item 45,Fashion,Mens Wear,IKEA,6801.22,3310.49,2023-05-11,1
+PRD00046,Womens Wear Item 46,Fashion,Womens Wear,Adidas,7302.61,3379.81,2021-05-02,1
+PRD00047,Tablets Item 47,Electronics,Tablets,Titan,36158.26,25596.2,2020-05-06,1
+PRD00048,Cookware Item 48,Home & Kitchen,Cookware,Samsung,15548.7,10898.49,2023-09-24,0
+PRD00049,Dairy Item 49,Grocery,Dairy,LG,1219.73,654.62,2021-03-24,0
+PRD00050,Snacks Item 50,Grocery,Snacks,Apple,1407.85,764.59,2020-04-29,1
+PRD00051,Furniture Item 51,Home & Kitchen,Furniture,Nestlé,19507.82,9470.4,2021-12-17,1
+PRD00052,Accessories Item 52,Fashion,Accessories,Prestige,1731.9,921.71,2020-01-26,1
+PRD00053,Fitness Equipment Item 53,Sports & Fitness,Fitness Equipment,Adidas,837.88,591.44,2022-05-27,0
+PRD00054,Laptops Item 54,Electronics,Laptops,Prestige,8864.24,5638.3,2023-10-10,1
+PRD00055,Footwear Item 55,Fashion,Footwear,Apple,1778.52,1040.58,2020-11-11,0
+PRD00056,Sportswear Item 56,Sports & Fitness,Sportswear,Himalaya,13876.28,7638.01,2019-09-27,1
+PRD00057,Sportswear Item 57,Sports & Fitness,Sportswear,Apple,2397.9,1574.56,2021-07-05,1
+PRD00058,Laptops Item 58,Electronics,Laptops,Whirlpool,72606.52,39205.29,2023-10-06,1
+PRD00059,Snacks Item 59,Grocery,Snacks,Bata,1431.08,846.33,2023-01-05,1
+PRD00060,Accessories Item 60,Electronics,Accessories,Prestige,26245.38,15057.24,2023-03-16,1
+PRD00061,Womens Wear Item 61,Fashion,Womens Wear,Sony,5884.71,2801.84,2019-02-10,1
+PRD00062,Smartphones Item 62,Electronics,Smartphones,Titan,7460.15,5257.0,2022-10-07,1
+PRD00063,Smartphones Item 63,Electronics,Smartphones,Samsung,26238.65,13080.19,2020-01-03,1
+PRD00064,Personal Care Item 64,Grocery,Personal Care,Prestige,1102.42,589.48,2020-08-08,1
+PRD00065,Audio Item 65,Electronics,Audio,Apple,68803.5,35115.87,2021-11-03,1
+PRD00066,Womens Wear Item 66,Fashion,Womens Wear,IKEA,4165.46,2621.03,2019-04-17,1
+PRD00067,Footwear Item 67,Fashion,Footwear,Titan,3880.78,2762.29,2021-05-07,0
+PRD00068,Womens Wear Item 68,Fashion,Womens Wear,Samsung,2315.48,1350.98,2023-09-13,1
+PRD00069,Outdoor Item 69,Sports & Fitness,Outdoor,Samsung,8620.54,4993.51,2023-09-16,1
+PRD00070,Womens Wear Item 70,Fashion,Womens Wear,Puma,3097.07,2128.88,2023-07-12,1
+PRD00071,Personal Care Item 71,Grocery,Personal Care,Samsung,1494.75,695.63,2022-07-13,1
+PRD00072,Accessories Item 72,Fashion,Accessories,Nestlé,3874.37,2481.24,2022-09-21,1
+PRD00073,Laptops Item 73,Electronics,Laptops,Prestige,15941.58,9491.73,2022-02-18,1
+PRD00074,Audio Item 74,Electronics,Audio,Decathlon,40226.68,29652.71,2020-02-02,1
+PRD00075,Womens Wear Item 75,Fashion,Womens Wear,Adidas,4342.88,2759.84,2021-06-12,1
+PRD00076,Audio Item 76,Electronics,Audio,IKEA,32614.31,15060.62,2023-01-20,1
+PRD00077,Mens Wear Item 77,Fashion,Mens Wear,LG,6761.07,4539.72,2022-07-23,1
+PRD00078,Appliances Item 78,Home & Kitchen,Appliances,Puma,21145.62,12169.04,2022-09-24,1
+PRD00079,Storage Item 79,Home & Kitchen,Storage,Nestlé,26962.96,13008.19,2019-06-29,1
+PRD00080,Decor Item 80,Home & Kitchen,Decor,Nike,6075.39,3353.62,2022-03-24,1
+PRD00081,Tablets Item 81,Electronics,Tablets,Whirlpool,51284.52,29699.07,2020-01-13,1
+PRD00082,Staples Item 82,Grocery,Staples,Adidas,1277.94,684.9,2022-03-23,1
+PRD00083,Footwear Item 83,Fashion,Footwear,Decathlon,5723.38,3720.64,2020-06-30,1
+PRD00084,Womens Wear Item 84,Fashion,Womens Wear,LG,7462.27,3565.58,2020-06-29,1
+PRD00085,Staples Item 85,Grocery,Staples,Whirlpool,1587.94,968.23,2021-02-18,1
+PRD00086,Laptops Item 86,Electronics,Laptops,Nestlé,28976.52,20848.8,2021-04-29,1
+PRD00087,Fitness Equipment Item 87,Sports & Fitness,Fitness Equipment,Nestlé,10872.76,5519.09,2019-11-03,1
+PRD00088,Audio Item 88,Electronics,Audio,IKEA,37142.11,19829.83,2020-09-27,1
+PRD00089,Audio Item 89,Electronics,Audio,Puma,19904.94,9464.6,2020-04-04,1
+PRD00090,Beverages Item 90,Grocery,Beverages,Titan,567.97,278.9,2020-04-22,0
+PRD00091,Fitness Equipment Item 91,Sports & Fitness,Fitness Equipment,Nestlé,5052.68,3541.55,2023-09-21,1
+PRD00092,Womens Wear Item 92,Fashion,Womens Wear,Nike,682.39,458.7,2021-07-08,1
+PRD00093,Personal Care Item 93,Grocery,Personal Care,Titan,1045.66,558.81,2019-02-08,1
+PRD00094,Kids Wear Item 94,Fashion,Kids Wear,LG,1117.43,583.24,2019-10-10,1
+PRD00095,Beverages Item 95,Grocery,Beverages,Decathlon,142.65,84.15,2021-03-01,1
+PRD00096,Accessories Item 96,Electronics,Accessories,Prestige,54155.41,31484.33,2022-05-21,1
+PRD00097,Accessories Item 97,Electronics,Accessories,Nike,3762.25,2664.57,2021-10-17,1
+PRD00098,Accessories Item 98,Fashion,Accessories,Titan,7113.02,3413.17,2020-03-11,0
+PRD00099,Sportswear Item 99,Sports & Fitness,Sportswear,Whirlpool,13003.05,6961.57,2023-06-13,1
+PRD00100,Storage Item 100,Home & Kitchen,Storage,Decathlon,8985.3,6086.04,2022-08-26,1
+PRD00101,Laptops Item 101,Electronics,Laptops,IKEA,4971.84,2493.74,2019-04-22,1
+PRD00102,Storage Item 102,Home & Kitchen,Storage,Nike,9794.71,6911.29,2021-06-09,1
+PRD00103,Beverages Item 103,Grocery,Beverages,LG,51.74,31.55,2020-04-29,1
+PRD00104,Accessories Item 104,Electronics,Accessories,Decathlon,30041.49,18706.82,2019-01-16,1
+PRD00105,Staples Item 105,Grocery,Staples,Titan,824.7,504.06,2023-01-22,0
+PRD00106,Storage Item 106,Home & Kitchen,Storage,Whirlpool,9759.97,4982.84,2020-09-30,1
+PRD00107,Footwear Item 107,Fashion,Footwear,Puma,2617.44,1771.84,2020-07-30,1
+PRD00108,Personal Care Item 108,Grocery,Personal Care,Adidas,99.86,58.43,2022-06-14,1
+PRD00109,Nutrition Item 109,Sports & Fitness,Nutrition,Bata,2129.23,1449.41,2019-03-09,1
+PRD00110,Beverages Item 110,Grocery,Beverages,LG,88.17,49.78,2019-09-13,0
+PRD00111,Audio Item 111,Electronics,Audio,Puma,30704.92,17391.02,2022-08-28,1
+PRD00112,Sportswear Item 112,Sports & Fitness,Sportswear,Decathlon,11321.07,6752.29,2020-07-23,1
+PRD00113,Cycling Item 113,Sports & Fitness,Cycling,Prestige,9501.83,6273.51,2022-05-08,0
+PRD00114,Outdoor Item 114,Sports & Fitness,Outdoor,Nestlé,12010.37,6522.74,2019-08-09,1
+PRD00115,Kids Wear Item 115,Fashion,Kids Wear,Whirlpool,7650.06,4917.71,2021-03-14,0
+PRD00116,Kids Wear Item 116,Fashion,Kids Wear,Himalaya,5142.32,3655.47,2020-10-19,1
+PRD00117,Furniture Item 117,Home & Kitchen,Furniture,Himalaya,10056.13,6314.41,2022-12-19,1
+PRD00118,Kids Wear Item 118,Fashion,Kids Wear,LG,2058.15,1068.42,2021-05-15,1
+PRD00119,Laptops Item 119,Electronics,Laptops,Sony,9573.29,4472.81,2023-09-06,0
+PRD00120,Smartphones Item 120,Electronics,Smartphones,Prestige,25949.7,14941.85,2020-03-08,1
+PRD00121,Cookware Item 121,Home & Kitchen,Cookware,IKEA,28045.75,18184.94,2021-09-17,1
+PRD00122,Snacks Item 122,Grocery,Snacks,Prestige,1038.69,750.95,2020-01-15,1
+PRD00123,Storage Item 123,Home & Kitchen,Storage,Puma,25985.24,19012.44,2020-04-22,1
+PRD00124,Fitness Equipment Item 124,Sports & Fitness,Fitness Equipment,Himalaya,1431.7,1072.4,2023-07-18,1
+PRD00125,Appliances Item 125,Home & Kitchen,Appliances,Whirlpool,26381.38,13618.43,2022-06-23,1
+PRD00126,Audio Item 126,Electronics,Audio,Titan,23904.54,12843.03,2021-10-06,1
+PRD00127,Storage Item 127,Home & Kitchen,Storage,Bata,6103.22,3686.08,2023-01-31,1
+PRD00128,Mens Wear Item 128,Fashion,Mens Wear,Puma,1579.62,888.94,2023-09-26,1
+PRD00129,Sportswear Item 129,Sports & Fitness,Sportswear,Prestige,5072.61,3638.8,2020-01-29,1
+PRD00130,Footwear Item 130,Fashion,Footwear,Samsung,4315.94,2875.01,2023-11-02,1
+PRD00131,Staples Item 131,Grocery,Staples,Titan,63.26,28.84,2023-05-17,1
+PRD00132,Decor Item 132,Home & Kitchen,Decor,Puma,1202.36,743.76,2023-08-04,1
+PRD00133,Nutrition Item 133,Sports & Fitness,Nutrition,Puma,11921.5,7070.58,2022-07-13,1
+PRD00134,Sportswear Item 134,Sports & Fitness,Sportswear,LG,7413.61,5397.64,2022-06-15,1
+PRD00135,Mens Wear Item 135,Fashion,Mens Wear,IKEA,7683.31,4546.02,2023-09-30,0
+PRD00136,Staples Item 136,Grocery,Staples,Nike,1997.61,1390.69,2022-06-04,1
+PRD00137,Accessories Item 137,Electronics,Accessories,Prestige,38676.14,18266.76,2020-11-14,1
+PRD00138,Footwear Item 138,Fashion,Footwear,Samsung,2292.07,1656.89,2021-04-28,1
+PRD00139,Sportswear Item 139,Sports & Fitness,Sportswear,Puma,14419.05,9898.11,2019-10-10,1
+PRD00140,Kids Wear Item 140,Fashion,Kids Wear,Titan,6064.98,4540.4,2022-10-28,0
+PRD00141,Audio Item 141,Electronics,Audio,Puma,7995.82,5942.79,2023-09-29,1
+PRD00142,Personal Care Item 142,Grocery,Personal Care,Nike,469.98,226.12,2022-03-15,1
+PRD00143,Beverages Item 143,Grocery,Beverages,IKEA,754.53,524.52,2022-07-26,1
+PRD00144,Kids Wear Item 144,Fashion,Kids Wear,LG,2145.27,1276.98,2020-02-23,1
+PRD00145,Kids Wear Item 145,Fashion,Kids Wear,Titan,5732.27,2965.39,2020-10-02,1
+PRD00146,Audio Item 146,Electronics,Audio,Bata,38854.43,18412.4,2023-10-22,1
+PRD00147,Accessories Item 147,Electronics,Accessories,IKEA,18915.75,11821.05,2023-11-25,1
+PRD00148,Kids Wear Item 148,Fashion,Kids Wear,Whirlpool,3825.83,2388.71,2020-12-13,1
+PRD00149,Outdoor Item 149,Sports & Fitness,Outdoor,Bata,8345.2,4626.71,2021-10-24,1
+PRD00150,Kids Wear Item 150,Fashion,Kids Wear,Sony,2771.68,1391.13,2022-03-28,1
+PRD00151,Dairy Item 151,Grocery,Dairy,Himalaya,1647.07,915.84,2023-09-17,1
+PRD00152,Cycling Item 152,Sports & Fitness,Cycling,Nestlé,3045.42,2068.32,2020-10-19,1
+PRD00153,Appliances Item 153,Home & Kitchen,Appliances,Puma,29506.89,16864.14,2021-03-19,1
+PRD00154,Cookware Item 154,Home & Kitchen,Cookware,Nestlé,2297.2,1713.59,2022-04-17,1
+PRD00155,Beverages Item 155,Grocery,Beverages,Nike,846.44,619.04,2019-03-15,1
+PRD00156,Accessories Item 156,Electronics,Accessories,Prestige,26608.42,14001.23,2021-10-24,1
+PRD00157,Dairy Item 157,Grocery,Dairy,Titan,442.81,295.23,2023-10-21,1
+PRD00158,Audio Item 158,Electronics,Audio,Nike,65471.67,45178.15,2021-10-13,1
+PRD00159,Snacks Item 159,Grocery,Snacks,LG,548.25,317.8,2020-04-05,1
+PRD00160,Snacks Item 160,Grocery,Snacks,Puma,1296.08,704.87,2019-12-21,1
+PRD00161,Nutrition Item 161,Sports & Fitness,Nutrition,Puma,6255.9,3145.51,2020-04-18,1
+PRD00162,Tablets Item 162,Electronics,Tablets,Decathlon,22608.62,16847.31,2023-05-24,1
+PRD00163,Fitness Equipment Item 163,Sports & Fitness,Fitness Equipment,Adidas,1745.35,1104.64,2022-02-17,1
+PRD00164,Accessories Item 164,Fashion,Accessories,IKEA,315.99,173.84,2020-06-06,1
+PRD00165,Laptops Item 165,Electronics,Laptops,Apple,47673.8,27812.34,2020-06-26,1
+PRD00166,Cookware Item 166,Home & Kitchen,Cookware,Whirlpool,27917.63,16785.19,2020-03-16,1
+PRD00167,Kids Wear Item 167,Fashion,Kids Wear,Samsung,1326.29,777.9,2019-11-22,1
+PRD00168,Laptops Item 168,Electronics,Laptops,Puma,67560.94,32712.32,2023-11-23,1
+PRD00169,Furniture Item 169,Home & Kitchen,Furniture,Nestlé,19533.66,13517.92,2019-05-13,1
+PRD00170,Storage Item 170,Home & Kitchen,Storage,Nike,26039.04,14003.71,2020-10-11,1
+PRD00171,Kids Wear Item 171,Fashion,Kids Wear,Samsung,6421.59,3088.56,2022-10-13,1
+PRD00172,Nutrition Item 172,Sports & Fitness,Nutrition,Sony,7115.46,5145.9,2022-01-20,1
+PRD00173,Personal Care Item 173,Grocery,Personal Care,Decathlon,169.05,107.59,2019-05-08,1
+PRD00174,Outdoor Item 174,Sports & Fitness,Outdoor,Prestige,5898.86,4107.63,2023-05-08,1
+PRD00175,Snacks Item 175,Grocery,Snacks,Adidas,1477.12,1045.01,2021-10-14,1
+PRD00176,Outdoor Item 176,Sports & Fitness,Outdoor,Adidas,11878.62,8661.91,2019-04-07,0
+PRD00177,Smartphones Item 177,Electronics,Smartphones,Whirlpool,62859.29,34845.09,2019-03-07,1
+PRD00178,Beverages Item 178,Grocery,Beverages,Whirlpool,1761.06,860.29,2020-11-01,1
+PRD00179,Snacks Item 179,Grocery,Snacks,Nike,889.48,457.01,2019-07-29,1
+PRD00180,Cookware Item 180,Home & Kitchen,Cookware,Apple,2031.01,1196.44,2019-08-18,0
+PRD00181,Appliances Item 181,Home & Kitchen,Appliances,Titan,12179.63,5722.19,2021-04-17,0
+PRD00182,Nutrition Item 182,Sports & Fitness,Nutrition,Adidas,5458.2,3683.54,2022-10-01,1
+PRD00183,Accessories Item 183,Fashion,Accessories,Sony,1264.43,607.89,2023-08-07,1
+PRD00184,Nutrition Item 184,Sports & Fitness,Nutrition,Prestige,6845.76,4095.09,2020-03-13,1
+PRD00185,Decor Item 185,Home & Kitchen,Decor,Himalaya,4461.92,3181.96,2021-02-14,1
+PRD00186,Personal Care Item 186,Grocery,Personal Care,Nestlé,523.43,364.39,2023-01-11,1
+PRD00187,Cookware Item 187,Home & Kitchen,Cookware,Himalaya,10534.9,5029.42,2023-08-17,1
+PRD00188,Dairy Item 188,Grocery,Dairy,Nestlé,392.7,223.97,2021-04-18,1
+PRD00189,Dairy Item 189,Grocery,Dairy,Whirlpool,236.79,164.77,2019-08-13,1
+PRD00190,Footwear Item 190,Fashion,Footwear,Decathlon,2411.44,1403.99,2021-09-14,1
+PRD00191,Personal Care Item 191,Grocery,Personal Care,Decathlon,1788.37,993.88,2019-10-10,1
+PRD00192,Mens Wear Item 192,Fashion,Mens Wear,Samsung,6911.22,3270.55,2022-12-20,1
+PRD00193,Tablets Item 193,Electronics,Tablets,Decathlon,45487.42,28906.6,2023-05-21,1
+PRD00194,Beverages Item 194,Grocery,Beverages,Titan,131.3,78.67,2020-06-19,1
+PRD00195,Furniture Item 195,Home & Kitchen,Furniture,Titan,13186.89,6066.33,2023-02-10,1
+PRD00196,Snacks Item 196,Grocery,Snacks,LG,451.1,209.5,2021-04-24,1
+PRD00197,Tablets Item 197,Electronics,Tablets,Puma,73225.58,52981.31,2019-01-16,1
+PRD00198,Mens Wear Item 198,Fashion,Mens Wear,Samsung,3000.99,2030.01,2019-04-25,0
+PRD00199,Nutrition Item 199,Sports & Fitness,Nutrition,Apple,14764.52,11002.21,2019-10-24,1
+PRD00200,Decor Item 200,Home & Kitchen,Decor,LG,13951.03,7389.94,2023-04-11,1
+PRD00201,Sportswear Item 201,Sports & Fitness,Sportswear,Prestige,13623.39,7042.28,2019-10-03,1
+PRD00202,Cycling Item 202,Sports & Fitness,Cycling,LG,7909.11,4005.89,2022-02-09,1
+PRD00203,Mens Wear Item 203,Fashion,Mens Wear,Nike,4263.84,2936.39,2023-07-22,1
+PRD00204,Accessories Item 204,Fashion,Accessories,Titan,1818.31,1115.52,2019-03-09,0
+PRD00205,Beverages Item 205,Grocery,Beverages,Apple,266.74,163.03,2021-11-10,1
+PRD00206,Accessories Item 206,Electronics,Accessories,Titan,3694.28,2140.08,2022-04-26,1
+PRD00207,Staples Item 207,Grocery,Staples,Puma,343.96,155.49,2021-06-28,0
+PRD00208,Sportswear Item 208,Sports & Fitness,Sportswear,Puma,3805.5,2026.46,2022-08-13,1
+PRD00209,Cycling Item 209,Sports & Fitness,Cycling,Prestige,9533.4,4912.8,2021-11-01,1
+PRD00210,Beverages Item 210,Grocery,Beverages,Sony,909.56,456.99,2021-03-23,1
+PRD00211,Appliances Item 211,Home & Kitchen,Appliances,Himalaya,2391.62,1270.98,2021-11-18,1
+PRD00212,Beverages Item 212,Grocery,Beverages,Adidas,75.68,40.86,2021-01-23,1
+PRD00213,Snacks Item 213,Grocery,Snacks,Nike,1311.52,931.92,2021-05-23,1
+PRD00214,Laptops Item 214,Electronics,Laptops,Puma,68515.29,47680.0,2021-09-11,1
+PRD00215,Smartphones Item 215,Electronics,Smartphones,Titan,72436.29,34420.91,2022-01-26,1
+PRD00216,Accessories Item 216,Electronics,Accessories,Samsung,72355.01,39059.18,2020-06-25,1
+PRD00217,Beverages Item 217,Grocery,Beverages,Bata,769.06,367.43,2020-01-21,0
+PRD00218,Furniture Item 218,Home & Kitchen,Furniture,Prestige,21385.34,15950.32,2019-11-07,1
+PRD00219,Smartphones Item 219,Electronics,Smartphones,Whirlpool,49619.85,30974.23,2019-05-10,1
+PRD00220,Accessories Item 220,Fashion,Accessories,LG,3733.33,2364.48,2020-11-13,1
+PRD00221,Snacks Item 221,Grocery,Snacks,Decathlon,1992.52,1276.17,2022-12-02,1
+PRD00222,Beverages Item 222,Grocery,Beverages,LG,1784.22,1022.86,2020-03-25,1
+PRD00223,Sportswear Item 223,Sports & Fitness,Sportswear,IKEA,2335.82,1071.3,2020-07-09,1
+PRD00224,Laptops Item 224,Electronics,Laptops,Adidas,26418.63,14424.7,2022-07-11,0
+PRD00225,Outdoor Item 225,Sports & Fitness,Outdoor,Himalaya,12803.4,8313.27,2021-04-22,1
+PRD00226,Tablets Item 226,Electronics,Tablets,Decathlon,2281.99,1324.9,2022-01-11,1
+PRD00227,Audio Item 227,Electronics,Audio,Nike,54080.66,38580.79,2023-06-21,1
+PRD00228,Beverages Item 228,Grocery,Beverages,IKEA,372.21,193.93,2021-01-01,1
+PRD00229,Storage Item 229,Home & Kitchen,Storage,Adidas,8045.69,3690.97,2023-07-01,1
+PRD00230,Cookware Item 230,Home & Kitchen,Cookware,Decathlon,2049.55,1142.88,2020-07-04,1
+PRD00231,Mens Wear Item 231,Fashion,Mens Wear,Samsung,4657.06,3309.72,2019-02-19,1
+PRD00232,Snacks Item 232,Grocery,Snacks,LG,1444.22,733.22,2023-11-18,1
+PRD00233,Womens Wear Item 233,Fashion,Womens Wear,Nike,4404.53,2823.86,2023-05-06,1
+PRD00234,Womens Wear Item 234,Fashion,Womens Wear,Titan,7460.5,4357.4,2023-03-05,1
+PRD00235,Audio Item 235,Electronics,Audio,Adidas,30949.85,22595.69,2022-04-24,1
+PRD00236,Cookware Item 236,Home & Kitchen,Cookware,Nestlé,29543.45,16474.22,2020-12-04,1
+PRD00237,Smartphones Item 237,Electronics,Smartphones,Titan,13769.05,10180.1,2019-05-01,1
+PRD00238,Snacks Item 238,Grocery,Snacks,Adidas,29.64,21.27,2019-11-29,1
+PRD00239,Tablets Item 239,Electronics,Tablets,Sony,40371.48,26460.18,2022-04-12,1
+PRD00240,Appliances Item 240,Home & Kitchen,Appliances,Himalaya,6521.21,2972.99,2022-04-30,1
+PRD00241,Womens Wear Item 241,Fashion,Womens Wear,Nike,5537.93,3169.81,2023-04-14,1
+PRD00242,Staples Item 242,Grocery,Staples,Titan,82.4,52.47,2021-05-07,0
+PRD00243,Storage Item 243,Home & Kitchen,Storage,Titan,24403.68,17162.03,2020-01-14,1
+PRD00244,Dairy Item 244,Grocery,Dairy,Samsung,179.73,129.82,2020-11-10,1
+PRD00245,Audio Item 245,Electronics,Audio,Bata,16909.06,11693.22,2022-03-27,1
+PRD00246,Nutrition Item 246,Sports & Fitness,Nutrition,Samsung,937.93,528.15,2020-11-03,1
+PRD00247,Footwear Item 247,Fashion,Footwear,Whirlpool,7694.82,4622.96,2022-11-01,1
+PRD00248,Decor Item 248,Home & Kitchen,Decor,Titan,1865.57,1299.92,2022-11-13,0
+PRD00249,Cycling Item 249,Sports & Fitness,Cycling,Nestlé,7584.73,4931.59,2023-04-10,1
+PRD00250,Staples Item 250,Grocery,Staples,Samsung,315.78,192.93,2021-02-11,1
+PRD00251,Furniture Item 251,Home & Kitchen,Furniture,Nike,2880.21,1743.99,2019-09-18,1
+PRD00252,Mens Wear Item 252,Fashion,Mens Wear,Nike,6488.44,4131.13,2020-04-12,1
+PRD00253,Mens Wear Item 253,Fashion,Mens Wear,Apple,1320.02,859.04,2019-01-16,1
+PRD00254,Accessories Item 254,Fashion,Accessories,Himalaya,304.83,146.25,2021-09-18,1
+PRD00255,Audio Item 255,Electronics,Audio,Apple,10364.57,4713.56,2020-11-20,1
+PRD00256,Womens Wear Item 256,Fashion,Womens Wear,Samsung,5665.01,3635.58,2019-08-02,1
+PRD00257,Beverages Item 257,Grocery,Beverages,Prestige,271.07,155.96,2020-03-28,1
+PRD00258,Womens Wear Item 258,Fashion,Womens Wear,Prestige,5692.68,4018.76,2022-01-07,1
+PRD00259,Staples Item 259,Grocery,Staples,Sony,959.6,705.39,2020-02-02,1
+PRD00260,Storage Item 260,Home & Kitchen,Storage,Adidas,14992.29,10369.27,2020-03-21,1
+PRD00261,Beverages Item 261,Grocery,Beverages,Adidas,1184.05,790.73,2023-04-04,1
+PRD00262,Personal Care Item 262,Grocery,Personal Care,Himalaya,1064.97,513.36,2022-05-10,1
+PRD00263,Laptops Item 263,Electronics,Laptops,Bata,13453.92,7293.72,2020-08-14,1
+PRD00264,Cycling Item 264,Sports & Fitness,Cycling,Titan,4617.7,3415.51,2019-08-16,1
+PRD00265,Tablets Item 265,Electronics,Tablets,Apple,57156.4,27034.22,2020-03-12,1
+PRD00266,Mens Wear Item 266,Fashion,Mens Wear,Titan,5865.32,3000.07,2019-08-14,1
+PRD00267,Mens Wear Item 267,Fashion,Mens Wear,Nestlé,1826.11,922.31,2021-02-05,1
+PRD00268,Accessories Item 268,Fashion,Accessories,Samsung,1275.11,772.41,2022-12-14,1
+PRD00269,Accessories Item 269,Electronics,Accessories,Sony,44079.09,24811.14,2019-10-15,1
+PRD00270,Accessories Item 270,Electronics,Accessories,LG,52917.99,31013.74,2021-07-04,1
+PRD00271,Storage Item 271,Home & Kitchen,Storage,Sony,3658.18,2743.04,2023-12-28,1
+PRD00272,Decor Item 272,Home & Kitchen,Decor,Whirlpool,4877.42,3170.76,2020-11-07,1
+PRD00273,Cookware Item 273,Home & Kitchen,Cookware,Puma,9678.93,4652.66,2020-01-23,1
+PRD00274,Tablets Item 274,Electronics,Tablets,Sony,60295.48,35658.54,2023-09-26,1
+PRD00275,Nutrition Item 275,Sports & Fitness,Nutrition,Bata,11396.78,6879.99,2019-04-28,1
+PRD00276,Outdoor Item 276,Sports & Fitness,Outdoor,LG,8780.62,4408.04,2021-07-23,1
+PRD00277,Smartphones Item 277,Electronics,Smartphones,Sony,55956.78,41894.04,2020-07-13,1
+PRD00278,Audio Item 278,Electronics,Audio,Prestige,1976.21,1110.02,2022-07-07,1
+PRD00279,Mens Wear Item 279,Fashion,Mens Wear,Titan,7896.59,5092.22,2023-08-09,1
+PRD00280,Furniture Item 280,Home & Kitchen,Furniture,Apple,25158.62,18005.22,2020-12-18,1
+PRD00281,Accessories Item 281,Electronics,Accessories,Whirlpool,25409.01,15958.1,2023-02-12,1
+PRD00282,Cycling Item 282,Sports & Fitness,Cycling,Bata,3767.75,2102.52,2022-09-29,1
+PRD00283,Accessories Item 283,Electronics,Accessories,Nestlé,8289.87,5677.1,2021-12-06,1
+PRD00284,Furniture Item 284,Home & Kitchen,Furniture,LG,27650.59,14179.0,2020-10-29,1
+PRD00285,Accessories Item 285,Electronics,Accessories,Nestlé,69066.97,36522.68,2019-04-26,0
+PRD00286,Womens Wear Item 286,Fashion,Womens Wear,LG,2729.76,1270.34,2020-09-09,0
+PRD00287,Dairy Item 287,Grocery,Dairy,Titan,714.41,343.95,2022-10-09,1
+PRD00288,Womens Wear Item 288,Fashion,Womens Wear,Apple,1465.86,818.66,2021-07-24,1
+PRD00289,Kids Wear Item 289,Fashion,Kids Wear,Titan,663.63,322.8,2023-07-26,1
+PRD00290,Mens Wear Item 290,Fashion,Mens Wear,LG,4754.94,2145.37,2021-05-25,1
+PRD00291,Kids Wear Item 291,Fashion,Kids Wear,LG,1525.52,984.29,2021-04-14,1
+PRD00292,Beverages Item 292,Grocery,Beverages,Decathlon,1097.37,658.52,2022-02-12,1
+PRD00293,Laptops Item 293,Electronics,Laptops,Bata,1582.93,753.22,2022-11-27,0
+PRD00294,Footwear Item 294,Fashion,Footwear,Whirlpool,439.22,248.86,2022-03-16,1
+PRD00295,Staples Item 295,Grocery,Staples,Nike,1767.99,1247.25,2023-11-30,1
+PRD00296,Womens Wear Item 296,Fashion,Womens Wear,Nestlé,691.57,331.41,2022-05-29,0
+PRD00297,Beverages Item 297,Grocery,Beverages,Decathlon,916.45,574.85,2019-07-02,1
+PRD00298,Furniture Item 298,Home & Kitchen,Furniture,LG,25372.94,15537.4,2021-01-18,1
+PRD00299,Snacks Item 299,Grocery,Snacks,Bata,780.22,484.24,2020-12-09,1
+PRD00300,Cookware Item 300,Home & Kitchen,Cookware,IKEA,13785.57,9282.91,2023-11-13,0
+PRD00301,Kids Wear Item 301,Fashion,Kids Wear,Nike,5677.2,3151.16,2021-07-30,1
+PRD00302,Footwear Item 302,Fashion,Footwear,Prestige,5714.64,3403.53,2020-07-14,1
+PRD00303,Storage Item 303,Home & Kitchen,Storage,IKEA,11535.24,6446.58,2022-01-07,1
+PRD00304,Kids Wear Item 304,Fashion,Kids Wear,Adidas,5908.85,3150.93,2020-03-19,1
+PRD00305,Cookware Item 305,Home & Kitchen,Cookware,Decathlon,19572.51,12829.82,2019-04-25,1
+PRD00306,Furniture Item 306,Home & Kitchen,Furniture,IKEA,13018.41,6613.38,2020-01-04,1
+PRD00307,Beverages Item 307,Grocery,Beverages,Samsung,124.37,92.49,2023-01-09,1
+PRD00308,Cookware Item 308,Home & Kitchen,Cookware,IKEA,3194.17,1598.59,2019-02-25,1
+PRD00309,Cycling Item 309,Sports & Fitness,Cycling,Adidas,3862.45,2516.8,2022-06-12,1
+PRD00310,Personal Care Item 310,Grocery,Personal Care,Samsung,1960.41,1039.95,2019-07-11,1
+PRD00311,Decor Item 311,Home & Kitchen,Decor,Decathlon,17249.21,10074.14,2019-03-31,1
+PRD00312,Accessories Item 312,Fashion,Accessories,Prestige,2696.2,1265.78,2020-10-25,0
+PRD00313,Storage Item 313,Home & Kitchen,Storage,LG,8004.66,4458.84,2019-08-11,1
+PRD00314,Laptops Item 314,Electronics,Laptops,Himalaya,50069.71,25425.77,2023-10-26,0
+PRD00315,Accessories Item 315,Electronics,Accessories,Adidas,54083.15,37765.35,2019-08-28,1
+PRD00316,Accessories Item 316,Electronics,Accessories,Himalaya,40129.88,25830.75,2019-02-16,1
+PRD00317,Decor Item 317,Home & Kitchen,Decor,Prestige,29758.22,15888.81,2021-10-06,1
+PRD00318,Appliances Item 318,Home & Kitchen,Appliances,Bata,22604.76,11124.98,2022-05-12,1
+PRD00319,Appliances Item 319,Home & Kitchen,Appliances,Samsung,25765.72,15836.49,2019-09-11,1
+PRD00320,Fitness Equipment Item 320,Sports & Fitness,Fitness Equipment,IKEA,9972.97,5472.39,2019-06-15,1
+PRD00321,Kids Wear Item 321,Fashion,Kids Wear,LG,667.92,341.69,2020-05-17,1
+PRD00322,Laptops Item 322,Electronics,Laptops,Himalaya,66535.42,44617.01,2021-09-01,1
+PRD00323,Outdoor Item 323,Sports & Fitness,Outdoor,Apple,2232.09,1180.07,2019-07-01,1
+PRD00324,Staples Item 324,Grocery,Staples,Decathlon,551.21,277.95,2020-02-19,0
+PRD00325,Cycling Item 325,Sports & Fitness,Cycling,Nestlé,1317.89,815.3,2019-05-13,1
+PRD00326,Nutrition Item 326,Sports & Fitness,Nutrition,Bata,8037.1,5337.4,2023-03-24,1
+PRD00327,Accessories Item 327,Electronics,Accessories,Sony,40808.18,25983.09,2019-06-10,1
+PRD00328,Cookware Item 328,Home & Kitchen,Cookware,Decathlon,1867.97,1081.75,2019-11-14,1
+PRD00329,Furniture Item 329,Home & Kitchen,Furniture,Sony,21748.24,10054.75,2022-12-12,0
+PRD00330,Staples Item 330,Grocery,Staples,Nike,1897.43,1315.75,2019-02-14,1
+PRD00331,Tablets Item 331,Electronics,Tablets,Whirlpool,71037.61,45988.68,2019-09-24,1
+PRD00332,Sportswear Item 332,Sports & Fitness,Sportswear,Samsung,11355.77,5508.9,2019-07-23,1
+PRD00333,Cookware Item 333,Home & Kitchen,Cookware,Nike,11049.77,8189.33,2021-02-22,1
+PRD00334,Outdoor Item 334,Sports & Fitness,Outdoor,Samsung,6480.71,3454.78,2023-11-08,1
+PRD00335,Mens Wear Item 335,Fashion,Mens Wear,Titan,3292.8,1610.81,2020-06-19,1
+PRD00336,Laptops Item 336,Electronics,Laptops,Bata,58710.96,37123.27,2021-08-24,1
+PRD00337,Audio Item 337,Electronics,Audio,Puma,49653.25,33835.81,2020-03-16,1
+PRD00338,Accessories Item 338,Fashion,Accessories,Samsung,702.96,494.64,2023-01-18,1
+PRD00339,Personal Care Item 339,Grocery,Personal Care,Prestige,1499.53,1115.99,2019-03-16,1
+PRD00340,Storage Item 340,Home & Kitchen,Storage,Prestige,23859.18,11213.77,2023-06-05,1
+PRD00341,Personal Care Item 341,Grocery,Personal Care,Himalaya,1719.57,1238.93,2021-09-10,1
+PRD00342,Smartphones Item 342,Electronics,Smartphones,Nestlé,19376.62,11624.13,2021-05-24,1
+PRD00343,Cookware Item 343,Home & Kitchen,Cookware,Himalaya,29128.42,21560.81,2023-06-16,1
+PRD00344,Fitness Equipment Item 344,Sports & Fitness,Fitness Equipment,Nike,8475.22,4425.8,2021-10-30,1
+PRD00345,Accessories Item 345,Fashion,Accessories,Samsung,4024.6,1821.33,2020-04-10,1
+PRD00346,Mens Wear Item 346,Fashion,Mens Wear,Adidas,707.61,378.55,2021-07-10,1
+PRD00347,Mens Wear Item 347,Fashion,Mens Wear,Nestlé,3405.91,1690.87,2023-08-27,1
+PRD00348,Accessories Item 348,Electronics,Accessories,Decathlon,26113.28,16154.54,2020-04-12,1
+PRD00349,Smartphones Item 349,Electronics,Smartphones,Bata,6578.62,4776.15,2022-09-25,1
+PRD00350,Outdoor Item 350,Sports & Fitness,Outdoor,Samsung,13249.29,9589.57,2020-08-20,1
+PRD00351,Staples Item 351,Grocery,Staples,Samsung,951.99,510.36,2020-08-11,1
+PRD00352,Footwear Item 352,Fashion,Footwear,Whirlpool,3256.95,1937.44,2021-09-21,1
+PRD00353,Audio Item 353,Electronics,Audio,Sony,57867.79,36137.08,2019-06-26,1
+PRD00354,Outdoor Item 354,Sports & Fitness,Outdoor,Apple,7898.0,3830.72,2019-12-29,1
+PRD00355,Cycling Item 355,Sports & Fitness,Cycling,Prestige,4763.61,2267.6,2019-09-06,1
+PRD00356,Laptops Item 356,Electronics,Laptops,IKEA,54854.25,34396.43,2022-01-07,1
+PRD00357,Personal Care Item 357,Grocery,Personal Care,Nike,1310.7,802.47,2022-09-01,0
+PRD00358,Footwear Item 358,Fashion,Footwear,Apple,2961.56,1954.21,2023-08-02,1
+PRD00359,Storage Item 359,Home & Kitchen,Storage,Decathlon,15930.3,7499.85,2020-12-13,0
+PRD00360,Furniture Item 360,Home & Kitchen,Furniture,Apple,12449.47,8427.13,2023-11-30,1
+PRD00361,Snacks Item 361,Grocery,Snacks,Puma,832.99,555.87,2022-12-16,1
+PRD00362,Beverages Item 362,Grocery,Beverages,Himalaya,887.28,446.74,2019-03-25,1
+PRD00363,Womens Wear Item 363,Fashion,Womens Wear,Samsung,5916.5,3678.2,2021-02-07,1
+PRD00364,Accessories Item 364,Fashion,Accessories,IKEA,7180.03,3387.92,2020-01-31,1
+PRD00365,Smartphones Item 365,Electronics,Smartphones,Puma,48760.29,25545.73,2019-01-24,1
+PRD00366,Storage Item 366,Home & Kitchen,Storage,Decathlon,7894.75,3655.51,2020-02-26,1
+PRD00367,Tablets Item 367,Electronics,Tablets,Adidas,2109.27,1388.4,2023-09-18,1
+PRD00368,Accessories Item 368,Fashion,Accessories,Puma,4484.83,3093.12,2021-06-28,1
+PRD00369,Womens Wear Item 369,Fashion,Womens Wear,Nike,6004.8,3348.64,2022-06-30,1
+PRD00370,Kids Wear Item 370,Fashion,Kids Wear,Nestlé,2049.5,1204.7,2023-05-04,1
+PRD00371,Footwear Item 371,Fashion,Footwear,IKEA,5393.29,2975.86,2021-06-23,1
+PRD00372,Dairy Item 372,Grocery,Dairy,Prestige,278.29,159.89,2020-12-23,1
+PRD00373,Accessories Item 373,Fashion,Accessories,Nike,4853.02,2293.82,2022-05-19,1
+PRD00374,Laptops Item 374,Electronics,Laptops,IKEA,59164.49,28216.15,2020-11-03,1
+PRD00375,Kids Wear Item 375,Fashion,Kids Wear,Himalaya,2021.74,1162.48,2023-03-08,1
+PRD00376,Furniture Item 376,Home & Kitchen,Furniture,Adidas,5665.24,2954.07,2020-12-06,1
+PRD00377,Staples Item 377,Grocery,Staples,Himalaya,1148.97,811.22,2020-01-29,0
+PRD00378,Dairy Item 378,Grocery,Dairy,Nike,1500.24,858.69,2023-06-29,1
+PRD00379,Appliances Item 379,Home & Kitchen,Appliances,Himalaya,13707.67,6898.62,2022-03-31,0
+PRD00380,Mens Wear Item 380,Fashion,Mens Wear,LG,4906.04,2449.19,2022-08-03,0
+PRD00381,Cookware Item 381,Home & Kitchen,Cookware,Puma,29262.58,18529.64,2023-03-24,1
+PRD00382,Audio Item 382,Electronics,Audio,Nestlé,60656.09,38275.28,2021-03-29,1
+PRD00383,Personal Care Item 383,Grocery,Personal Care,Decathlon,639.17,298.12,2021-02-07,1
+PRD00384,Appliances Item 384,Home & Kitchen,Appliances,Puma,8522.59,6071.7,2019-04-15,0
+PRD00385,Fitness Equipment Item 385,Sports & Fitness,Fitness Equipment,Adidas,8348.07,4590.5,2021-12-24,1
+PRD00386,Staples Item 386,Grocery,Staples,Prestige,524.23,285.1,2020-09-10,1
+PRD00387,Tablets Item 387,Electronics,Tablets,Nike,47387.5,28935.94,2022-09-05,1
+PRD00388,Beverages Item 388,Grocery,Beverages,Adidas,1652.05,900.27,2020-12-09,1
+PRD00389,Tablets Item 389,Electronics,Tablets,Himalaya,59829.39,36053.5,2022-03-01,1
+PRD00390,Outdoor Item 390,Sports & Fitness,Outdoor,Prestige,10704.82,7386.82,2021-03-12,0
+PRD00391,Sportswear Item 391,Sports & Fitness,Sportswear,Apple,12204.35,7387.05,2021-06-30,1
+PRD00392,Womens Wear Item 392,Fashion,Womens Wear,Titan,985.37,538.96,2022-09-15,0
+PRD00393,Tablets Item 393,Electronics,Tablets,Sony,50547.14,37425.44,2021-02-27,1
+PRD00394,Beverages Item 394,Grocery,Beverages,Himalaya,189.11,103.88,2023-08-22,1
+PRD00395,Accessories Item 395,Fashion,Accessories,Puma,3389.64,1755.93,2022-10-14,0
+PRD00396,Staples Item 396,Grocery,Staples,Adidas,232.35,148.33,2022-12-08,0
+PRD00397,Cookware Item 397,Home & Kitchen,Cookware,Himalaya,7094.09,5230.69,2023-04-11,1
+PRD00398,Accessories Item 398,Electronics,Accessories,Apple,24169.44,15067.75,2020-10-29,1
+PRD00399,Accessories Item 399,Fashion,Accessories,Apple,2889.57,2042.28,2019-10-24,1
+PRD00400,Laptops Item 400,Electronics,Laptops,Himalaya,20506.6,9288.13,2019-11-26,1
+PRD00401,Womens Wear Item 401,Fashion,Womens Wear,Bata,337.61,172.88,2023-04-30,1
+PRD00402,Decor Item 402,Home & Kitchen,Decor,Nike,14033.24,8323.32,2019-01-20,1
+PRD00403,Cookware Item 403,Home & Kitchen,Cookware,Decathlon,3815.93,2083.57,2022-12-08,1
+PRD00404,Dairy Item 404,Grocery,Dairy,Nike,1265.17,668.96,2021-05-03,1
+PRD00405,Snacks Item 405,Grocery,Snacks,Bata,766.81,440.78,2023-08-28,1
+PRD00406,Nutrition Item 406,Sports & Fitness,Nutrition,Sony,4519.63,3057.61,2021-10-24,0
+PRD00407,Appliances Item 407,Home & Kitchen,Appliances,Sony,26034.29,13357.75,2021-05-01,1
+PRD00408,Storage Item 408,Home & Kitchen,Storage,LG,12329.95,6590.82,2021-03-26,1
+PRD00409,Accessories Item 409,Fashion,Accessories,Decathlon,4239.25,2071.41,2023-10-13,1
+PRD00410,Audio Item 410,Electronics,Audio,Decathlon,57659.76,39044.69,2020-12-17,1
+PRD00411,Nutrition Item 411,Sports & Fitness,Nutrition,Whirlpool,269.74,167.21,2021-07-01,0
+PRD00412,Tablets Item 412,Electronics,Tablets,Apple,73023.8,38182.95,2019-02-12,1
+PRD00413,Audio Item 413,Electronics,Audio,Bata,66655.61,40808.54,2021-10-09,1
+PRD00414,Mens Wear Item 414,Fashion,Mens Wear,Samsung,4391.32,3252.61,2022-09-17,1
+PRD00415,Mens Wear Item 415,Fashion,Mens Wear,Whirlpool,6848.31,4049.03,2021-01-15,1
+PRD00416,Smartphones Item 416,Electronics,Smartphones,Sony,41358.83,20689.39,2023-09-22,1
+PRD00417,Staples Item 417,Grocery,Staples,Nestlé,1351.12,825.51,2023-12-22,1
+PRD00418,Personal Care Item 418,Grocery,Personal Care,Himalaya,870.31,601.78,2019-09-03,1
+PRD00419,Fitness Equipment Item 419,Sports & Fitness,Fitness Equipment,Nestlé,3751.24,1867.7,2022-08-08,1
+PRD00420,Snacks Item 420,Grocery,Snacks,Prestige,1417.4,902.11,2020-12-31,1
+PRD00421,Accessories Item 421,Fashion,Accessories,Himalaya,6204.12,3512.49,2019-09-28,1
+PRD00422,Audio Item 422,Electronics,Audio,Titan,50951.23,26756.78,2019-05-02,1
+PRD00423,Decor Item 423,Home & Kitchen,Decor,Himalaya,26023.09,18756.47,2021-07-11,1
+PRD00424,Dairy Item 424,Grocery,Dairy,Whirlpool,1637.25,1158.56,2020-10-14,1
+PRD00425,Decor Item 425,Home & Kitchen,Decor,Puma,22087.93,12480.66,2022-12-14,1
+PRD00426,Dairy Item 426,Grocery,Dairy,Himalaya,1179.84,691.7,2023-08-03,0
+PRD00427,Nutrition Item 427,Sports & Fitness,Nutrition,Himalaya,12971.87,8888.22,2023-12-22,1
+PRD00428,Laptops Item 428,Electronics,Laptops,Himalaya,70002.49,45954.23,2022-10-07,1
+PRD00429,Smartphones Item 429,Electronics,Smartphones,Titan,34009.69,20683.9,2023-02-15,1
+PRD00430,Womens Wear Item 430,Fashion,Womens Wear,Apple,7136.35,3740.09,2019-09-14,1
+PRD00431,Womens Wear Item 431,Fashion,Womens Wear,Bata,2484.84,1590.64,2020-09-14,1
+PRD00432,Laptops Item 432,Electronics,Laptops,Decathlon,18778.17,9480.66,2020-05-11,1
+PRD00433,Accessories Item 433,Electronics,Accessories,Samsung,38173.93,17845.65,2020-07-28,1
+PRD00434,Furniture Item 434,Home & Kitchen,Furniture,Puma,666.36,386.38,2021-10-16,1
+PRD00435,Accessories Item 435,Electronics,Accessories,Sony,49326.37,26384.68,2021-02-16,1
+PRD00436,Audio Item 436,Electronics,Audio,Samsung,56895.51,27772.45,2022-12-22,1
+PRD00437,Accessories Item 437,Fashion,Accessories,Nestlé,636.19,338.85,2023-05-25,1
+PRD00438,Audio Item 438,Electronics,Audio,Nestlé,74715.35,39487.17,2021-11-20,1
+PRD00439,Beverages Item 439,Grocery,Beverages,Prestige,1765.34,1177.83,2020-07-02,0
+PRD00440,Accessories Item 440,Fashion,Accessories,IKEA,4281.81,2326.35,2023-11-10,1
+PRD00441,Dairy Item 441,Grocery,Dairy,Adidas,244.27,118.9,2022-12-29,1
+PRD00442,Furniture Item 442,Home & Kitchen,Furniture,Apple,14569.57,10687.31,2021-04-18,0
+PRD00443,Cookware Item 443,Home & Kitchen,Cookware,Adidas,27565.66,17583.52,2021-06-23,1
+PRD00444,Fitness Equipment Item 444,Sports & Fitness,Fitness Equipment,Whirlpool,7180.62,3801.74,2023-02-12,1
+PRD00445,Storage Item 445,Home & Kitchen,Storage,Puma,2683.47,1735.37,2020-02-16,0
+PRD00446,Outdoor Item 446,Sports & Fitness,Outdoor,Whirlpool,7871.19,5268.02,2020-08-07,1
+PRD00447,Beverages Item 447,Grocery,Beverages,Adidas,1731.79,1142.62,2022-01-01,1
+PRD00448,Decor Item 448,Home & Kitchen,Decor,LG,13964.3,7439.88,2022-06-30,1
+PRD00449,Outdoor Item 449,Sports & Fitness,Outdoor,Decathlon,12154.54,5822.58,2020-06-21,0
+PRD00450,Cookware Item 450,Home & Kitchen,Cookware,Decathlon,6631.64,3630.24,2023-05-23,1
+PRD00451,Personal Care Item 451,Grocery,Personal Care,Himalaya,981.29,713.07,2022-02-08,1
+PRD00452,Laptops Item 452,Electronics,Laptops,Sony,68657.84,40914.68,2023-09-14,1
+PRD00453,Snacks Item 453,Grocery,Snacks,Himalaya,1092.69,565.32,2019-09-28,0
+PRD00454,Sportswear Item 454,Sports & Fitness,Sportswear,Nestlé,13149.82,6361.66,2022-04-07,1
+PRD00455,Decor Item 455,Home & Kitchen,Decor,Decathlon,11741.67,8607.42,2023-02-14,1
+PRD00456,Mens Wear Item 456,Fashion,Mens Wear,Sony,5009.75,2415.82,2023-12-14,0
+PRD00457,Fitness Equipment Item 457,Sports & Fitness,Fitness Equipment,Adidas,14606.24,7149.31,2019-12-31,0
+PRD00458,Accessories Item 458,Fashion,Accessories,Puma,6916.8,4294.25,2023-03-08,1
+PRD00459,Accessories Item 459,Electronics,Accessories,Decathlon,57536.55,35279.31,2020-06-26,1
+PRD00460,Laptops Item 460,Electronics,Laptops,Apple,56723.09,39469.53,2021-04-11,1
+PRD00461,Decor Item 461,Home & Kitchen,Decor,Bata,24833.57,16155.83,2021-08-16,1
+PRD00462,Audio Item 462,Electronics,Audio,Samsung,64121.96,44882.99,2020-01-30,1
+PRD00463,Appliances Item 463,Home & Kitchen,Appliances,Decathlon,29471.2,19631.12,2019-05-21,1
+PRD00464,Mens Wear Item 464,Fashion,Mens Wear,Adidas,5458.64,2991.51,2023-12-28,1
+PRD00465,Laptops Item 465,Electronics,Laptops,Whirlpool,34038.16,24463.0,2020-03-17,0
+PRD00466,Cookware Item 466,Home & Kitchen,Cookware,Apple,13133.21,8509.81,2019-03-01,1
+PRD00467,Fitness Equipment Item 467,Sports & Fitness,Fitness Equipment,Decathlon,8640.63,4159.33,2021-09-14,1
+PRD00468,Smartphones Item 468,Electronics,Smartphones,IKEA,41230.22,30302.1,2019-02-25,1
+PRD00469,Staples Item 469,Grocery,Staples,Samsung,147.22,73.35,2021-01-15,0
+PRD00470,Decor Item 470,Home & Kitchen,Decor,Apple,11177.98,7718.24,2022-03-14,1
+PRD00471,Mens Wear Item 471,Fashion,Mens Wear,LG,5458.77,3952.79,2020-10-04,1
+PRD00472,Furniture Item 472,Home & Kitchen,Furniture,Bata,1323.92,771.26,2020-02-21,1
+PRD00473,Accessories Item 473,Fashion,Accessories,Bata,7789.22,3785.38,2019-03-29,0
+PRD00474,Mens Wear Item 474,Fashion,Mens Wear,LG,4979.26,3290.59,2023-06-18,1
+PRD00475,Personal Care Item 475,Grocery,Personal Care,Sony,1481.54,710.19,2022-12-09,1
+PRD00476,Nutrition Item 476,Sports & Fitness,Nutrition,Adidas,1032.45,573.72,2023-01-21,1
+PRD00477,Cycling Item 477,Sports & Fitness,Cycling,Whirlpool,9882.69,4870.15,2022-08-08,1
+PRD00478,Mens Wear Item 478,Fashion,Mens Wear,Bata,4246.84,2067.69,2023-02-18,1
+PRD00479,Snacks Item 479,Grocery,Snacks,Bata,1122.23,519.21,2020-10-05,1
+PRD00480,Fitness Equipment Item 480,Sports & Fitness,Fitness Equipment,Decathlon,11454.88,5759.8,2023-08-17,1
+PRD00481,Cycling Item 481,Sports & Fitness,Cycling,Puma,6916.93,3922.08,2022-09-07,1
+PRD00482,Accessories Item 482,Fashion,Accessories,Sony,6888.46,3490.54,2021-06-30,1
+PRD00483,Decor Item 483,Home & Kitchen,Decor,Adidas,12907.17,6276.6,2023-02-04,1
+PRD00484,Footwear Item 484,Fashion,Footwear,Nike,5562.45,3222.3,2020-09-07,1
+PRD00485,Beverages Item 485,Grocery,Beverages,Sony,1381.12,738.71,2023-01-25,0
+PRD00486,Accessories Item 486,Fashion,Accessories,Bata,1710.41,1045.02,2023-02-08,1
+PRD00487,Staples Item 487,Grocery,Staples,Nestlé,1792.17,1177.26,2021-04-20,1
+PRD00488,Personal Care Item 488,Grocery,Personal Care,Sony,1178.45,767.03,2021-04-05,1
+PRD00489,Laptops Item 489,Electronics,Laptops,Adidas,32986.35,17358.87,2020-06-16,1
+PRD00490,Snacks Item 490,Grocery,Snacks,Adidas,623.43,316.64,2020-11-02,1
+PRD00491,Accessories Item 491,Electronics,Accessories,LG,14750.77,8477.75,2021-12-10,1
+PRD00492,Appliances Item 492,Home & Kitchen,Appliances,Whirlpool,9565.1,6852.07,2021-11-12,1
+PRD00493,Accessories Item 493,Fashion,Accessories,Sony,3623.78,1655.76,2023-07-25,1
+PRD00494,Fitness Equipment Item 494,Sports & Fitness,Fitness Equipment,Adidas,4338.1,3138.82,2020-01-23,1
+PRD00495,Staples Item 495,Grocery,Staples,Nike,692.53,486.65,2022-06-10,1
+PRD00496,Decor Item 496,Home & Kitchen,Decor,Decathlon,6175.22,3588.69,2022-06-04,1
+PRD00497,Storage Item 497,Home & Kitchen,Storage,LG,29967.58,22329.43,2023-11-15,1
+PRD00498,Mens Wear Item 498,Fashion,Mens Wear,Samsung,6810.74,4931.96,2022-03-11,0
+PRD00499,Furniture Item 499,Home & Kitchen,Furniture,Nike,25099.1,15919.12,2022-12-11,1
+PRD00500,Mens Wear Item 500,Fashion,Mens Wear,Samsung,4785.78,2867.4,2023-08-01,1
+PRD00501,Storage Item 501,Home & Kitchen,Storage,Apple,13623.49,6352.14,2022-12-27,1
+PRD00502,Storage Item 502,Home & Kitchen,Storage,Samsung,20488.34,14217.78,2022-02-17,1
+PRD00503,Personal Care Item 503,Grocery,Personal Care,Bata,686.96,365.13,2023-06-20,1
+PRD00504,Accessories Item 504,Electronics,Accessories,Adidas,65137.34,42380.05,2019-05-12,1
+PRD00505,Accessories Item 505,Electronics,Accessories,Decathlon,59595.4,43737.87,2021-02-10,1
+PRD00506,Fitness Equipment Item 506,Sports & Fitness,Fitness Equipment,Puma,13970.64,7227.16,2023-09-05,1
+PRD00507,Laptops Item 507,Electronics,Laptops,Puma,61686.77,37923.83,2021-04-12,1
+PRD00508,Tablets Item 508,Electronics,Tablets,Decathlon,54310.02,33569.27,2023-02-04,0
+PRD00509,Beverages Item 509,Grocery,Beverages,IKEA,1179.04,829.8,2021-06-16,1
+PRD00510,Tablets Item 510,Electronics,Tablets,Nestlé,62826.41,37699.58,2020-02-20,1
+PRD00511,Audio Item 511,Electronics,Audio,Titan,62144.29,35304.45,2020-04-17,1
+PRD00512,Dairy Item 512,Grocery,Dairy,Decathlon,1978.65,1461.04,2020-06-12,1
+PRD00513,Kids Wear Item 513,Fashion,Kids Wear,Nike,5720.31,3556.92,2020-03-15,1
+PRD00514,Accessories Item 514,Fashion,Accessories,Samsung,3761.91,2305.2,2019-01-04,1
+PRD00515,Snacks Item 515,Grocery,Snacks,Prestige,1269.09,845.45,2020-01-16,0
+PRD00516,Fitness Equipment Item 516,Sports & Fitness,Fitness Equipment,Nestlé,12345.5,5903.84,2023-07-10,1
+PRD00517,Laptops Item 517,Electronics,Laptops,Bata,22914.52,11849.87,2020-09-28,1
+PRD00518,Furniture Item 518,Home & Kitchen,Furniture,Titan,20284.67,13510.21,2019-01-09,1
+PRD00519,Furniture Item 519,Home & Kitchen,Furniture,Apple,11734.95,8183.81,2021-11-22,1
+PRD00520,Accessories Item 520,Electronics,Accessories,Apple,54588.53,40901.81,2021-04-12,0
+PRD00521,Tablets Item 521,Electronics,Tablets,Decathlon,17963.51,9598.3,2020-11-10,1
+PRD00522,Staples Item 522,Grocery,Staples,Adidas,1830.59,1191.85,2021-02-22,1
+PRD00523,Fitness Equipment Item 523,Sports & Fitness,Fitness Equipment,Sony,3325.88,1791.81,2022-10-23,0
+PRD00524,Footwear Item 524,Fashion,Footwear,Adidas,600.91,328.19,2020-10-18,0
+PRD00525,Nutrition Item 525,Sports & Fitness,Nutrition,Titan,12943.29,6182.76,2023-11-30,1
+PRD00526,Cookware Item 526,Home & Kitchen,Cookware,Himalaya,11437.14,6657.91,2021-08-03,1
+PRD00527,Storage Item 527,Home & Kitchen,Storage,Apple,18255.38,13069.22,2022-05-05,1
+PRD00528,Laptops Item 528,Electronics,Laptops,Prestige,47049.93,29034.61,2022-03-07,1
+PRD00529,Womens Wear Item 529,Fashion,Womens Wear,Titan,3039.46,1517.95,2021-02-06,1
+PRD00530,Smartphones Item 530,Electronics,Smartphones,Apple,24513.54,16759.95,2022-04-16,1
+PRD00531,Accessories Item 531,Electronics,Accessories,Samsung,61043.66,41265.14,2019-09-17,1
+PRD00532,Staples Item 532,Grocery,Staples,Prestige,1291.71,862.68,2023-03-15,1
+PRD00533,Furniture Item 533,Home & Kitchen,Furniture,Nike,20268.16,13029.2,2021-04-13,1
+PRD00534,Accessories Item 534,Fashion,Accessories,Adidas,6227.25,3404.3,2022-05-08,1
+PRD00535,Cookware Item 535,Home & Kitchen,Cookware,Samsung,28054.39,20743.62,2022-01-05,1
+PRD00536,Outdoor Item 536,Sports & Fitness,Outdoor,Nike,8042.16,4959.26,2019-07-14,1
+PRD00537,Snacks Item 537,Grocery,Snacks,LG,355.41,192.59,2023-01-12,1
+PRD00538,Snacks Item 538,Grocery,Snacks,Sony,1767.29,1291.53,2021-01-16,1
+PRD00539,Dairy Item 539,Grocery,Dairy,Adidas,544.01,407.47,2020-04-29,1
+PRD00540,Appliances Item 540,Home & Kitchen,Appliances,Nike,23955.29,14762.55,2021-06-18,1
+PRD00541,Smartphones Item 541,Electronics,Smartphones,Bata,3280.25,1906.32,2021-04-01,1
+PRD00542,Tablets Item 542,Electronics,Tablets,Apple,52388.17,30268.21,2022-08-22,1
+PRD00543,Accessories Item 543,Electronics,Accessories,Nestlé,69682.51,33366.62,2020-08-09,1
+PRD00544,Kids Wear Item 544,Fashion,Kids Wear,Puma,4361.41,3218.19,2022-03-06,1
+PRD00545,Accessories Item 545,Electronics,Accessories,Sony,68664.54,45874.32,2021-12-31,1
+PRD00546,Storage Item 546,Home & Kitchen,Storage,Whirlpool,4350.68,2350.97,2021-03-10,1
+PRD00547,Kids Wear Item 547,Fashion,Kids Wear,Apple,6010.61,4366.26,2020-02-24,1
+PRD00548,Staples Item 548,Grocery,Staples,Nestlé,1780.85,933.45,2022-09-02,1
+PRD00549,Sportswear Item 549,Sports & Fitness,Sportswear,Puma,13398.94,6087.95,2023-09-08,1
+PRD00550,Kids Wear Item 550,Fashion,Kids Wear,Prestige,6973.52,4444.99,2019-10-15,1
+PRD00551,Personal Care Item 551,Grocery,Personal Care,Bata,1443.67,853.2,2021-11-11,1
+PRD00552,Womens Wear Item 552,Fashion,Womens Wear,Decathlon,2069.51,1143.02,2023-05-26,1
+PRD00553,Womens Wear Item 553,Fashion,Womens Wear,IKEA,3807.36,2042.61,2020-11-14,1
+PRD00554,Outdoor Item 554,Sports & Fitness,Outdoor,Adidas,12815.97,5860.96,2021-02-07,1
+PRD00555,Mens Wear Item 555,Fashion,Mens Wear,Nike,3602.43,2630.44,2021-01-08,1
+PRD00556,Staples Item 556,Grocery,Staples,Bata,482.49,256.11,2019-01-24,1
+PRD00557,Dairy Item 557,Grocery,Dairy,Whirlpool,774.84,515.92,2021-03-08,1
+PRD00558,Beverages Item 558,Grocery,Beverages,Samsung,461.72,292.97,2022-11-26,1
+PRD00559,Accessories Item 559,Electronics,Accessories,Apple,44329.16,32456.09,2020-03-20,1
+PRD00560,Cookware Item 560,Home & Kitchen,Cookware,Prestige,11681.95,7763.59,2020-07-19,1
+PRD00561,Snacks Item 561,Grocery,Snacks,LG,384.76,237.86,2019-01-25,1
+PRD00562,Audio Item 562,Electronics,Audio,Titan,3453.86,1718.25,2019-01-01,1
+PRD00563,Fitness Equipment Item 563,Sports & Fitness,Fitness Equipment,Himalaya,7172.04,4450.22,2022-06-27,1
+PRD00564,Accessories Item 564,Electronics,Accessories,Nike,46398.94,32939.92,2023-08-09,1
+PRD00565,Laptops Item 565,Electronics,Laptops,Whirlpool,52590.89,36864.41,2023-01-30,1
+PRD00566,Accessories Item 566,Fashion,Accessories,Sony,5393.15,2745.15,2021-06-08,1
+PRD00567,Audio Item 567,Electronics,Audio,LG,30648.79,22739.67,2019-07-21,1
+PRD00568,Fitness Equipment Item 568,Sports & Fitness,Fitness Equipment,IKEA,325.08,222.01,2023-07-29,0
+PRD00569,Sportswear Item 569,Sports & Fitness,Sportswear,Adidas,13094.72,8460.94,2022-12-30,1
+PRD00570,Womens Wear Item 570,Fashion,Womens Wear,Samsung,3820.67,2306.83,2020-04-27,1
+PRD00571,Snacks Item 571,Grocery,Snacks,Titan,1891.03,1077.98,2022-06-18,1
+PRD00572,Dairy Item 572,Grocery,Dairy,Nike,1421.41,1001.57,2020-01-16,0
+PRD00573,Accessories Item 573,Fashion,Accessories,Decathlon,7113.94,3893.93,2022-09-24,1
+PRD00574,Dairy Item 574,Grocery,Dairy,Adidas,108.43,53.03,2022-12-03,1
+PRD00575,Tablets Item 575,Electronics,Tablets,Sony,50453.43,30839.56,2023-11-28,1
+PRD00576,Furniture Item 576,Home & Kitchen,Furniture,Prestige,20545.26,12159.66,2019-12-15,1
+PRD00577,Appliances Item 577,Home & Kitchen,Appliances,Nestlé,29169.75,13822.86,2021-12-10,1
+PRD00578,Cookware Item 578,Home & Kitchen,Cookware,Whirlpool,25959.35,12421.86,2020-04-12,1
+PRD00579,Personal Care Item 579,Grocery,Personal Care,Whirlpool,1955.3,1033.87,2020-03-14,1
+PRD00580,Accessories Item 580,Fashion,Accessories,IKEA,3066.91,1714.57,2019-09-23,1
+PRD00581,Smartphones Item 581,Electronics,Smartphones,LG,29100.53,21553.16,2019-06-21,1
+PRD00582,Nutrition Item 582,Sports & Fitness,Nutrition,Nike,5316.81,2493.47,2023-01-26,1
+PRD00583,Beverages Item 583,Grocery,Beverages,Prestige,1762.26,872.48,2021-01-31,1
+PRD00584,Appliances Item 584,Home & Kitchen,Appliances,Adidas,29464.4,14394.97,2019-02-24,1
+PRD00585,Laptops Item 585,Electronics,Laptops,Titan,70237.52,52312.6,2022-02-12,1
+PRD00586,Laptops Item 586,Electronics,Laptops,Adidas,39105.59,21727.26,2023-03-05,1
+PRD00587,Accessories Item 587,Fashion,Accessories,Sony,1924.75,1124.37,2020-06-27,1
+PRD00588,Personal Care Item 588,Grocery,Personal Care,Nestlé,917.46,594.45,2022-01-23,1
+PRD00589,Audio Item 589,Electronics,Audio,Apple,45956.87,22290.98,2020-04-26,1
+PRD00590,Mens Wear Item 590,Fashion,Mens Wear,Himalaya,5730.86,3817.21,2023-08-02,1
+PRD00591,Fitness Equipment Item 591,Sports & Fitness,Fitness Equipment,Puma,6188.75,4189.55,2021-10-01,1
+PRD00592,Beverages Item 592,Grocery,Beverages,Puma,1682.03,1182.32,2021-01-09,1
+PRD00593,Beverages Item 593,Grocery,Beverages,Nestlé,1610.46,945.18,2021-11-10,1
+PRD00594,Kids Wear Item 594,Fashion,Kids Wear,Himalaya,4836.5,2510.27,2019-06-11,1
+PRD00595,Tablets Item 595,Electronics,Tablets,Apple,27028.03,15229.27,2023-11-20,1
+PRD00596,Snacks Item 596,Grocery,Snacks,Whirlpool,557.34,386.55,2021-07-11,0
+PRD00597,Sportswear Item 597,Sports & Fitness,Sportswear,Whirlpool,806.48,387.66,2023-04-18,1
+PRD00598,Snacks Item 598,Grocery,Snacks,LG,953.78,468.87,2021-01-30,1
+PRD00599,Dairy Item 599,Grocery,Dairy,LG,1311.92,746.86,2022-03-05,1
+PRD00600,Appliances Item 600,Home & Kitchen,Appliances,Puma,25858.18,13630.77,2023-07-20,1
+PRD00601,Fitness Equipment Item 601,Sports & Fitness,Fitness Equipment,Prestige,345.73,190.16,2019-05-25,1
+PRD00602,Footwear Item 602,Fashion,Footwear,Decathlon,3494.32,1644.96,2019-11-15,1
+PRD00603,Womens Wear Item 603,Fashion,Womens Wear,Decathlon,5924.21,3323.02,2022-01-21,0
+PRD00604,Kids Wear Item 604,Fashion,Kids Wear,Puma,1946.27,1397.21,2023-05-03,1
+PRD00605,Womens Wear Item 605,Fashion,Womens Wear,Nestlé,2068.71,1466.31,2019-07-27,1
+PRD00606,Cookware Item 606,Home & Kitchen,Cookware,Adidas,16156.21,11697.64,2019-03-15,1
+PRD00607,Mens Wear Item 607,Fashion,Mens Wear,Decathlon,2206.25,1646.92,2022-11-22,1
+PRD00608,Cycling Item 608,Sports & Fitness,Cycling,Nike,9144.83,5289.14,2019-08-16,1
+PRD00609,Beverages Item 609,Grocery,Beverages,Sony,624.32,284.33,2023-07-04,1
+PRD00610,Mens Wear Item 610,Fashion,Mens Wear,Nestlé,2164.81,1318.26,2022-07-21,0
+PRD00611,Staples Item 611,Grocery,Staples,Whirlpool,77.1,34.7,2020-03-04,1
+PRD00612,Dairy Item 612,Grocery,Dairy,Himalaya,482.55,299.25,2020-04-30,0
+PRD00613,Accessories Item 613,Fashion,Accessories,Adidas,2691.44,1989.37,2023-08-13,1
+PRD00614,Nutrition Item 614,Sports & Fitness,Nutrition,Nike,10612.22,4890.77,2019-11-14,0
+PRD00615,Tablets Item 615,Electronics,Tablets,Whirlpool,69143.36,38704.78,2019-07-06,1
+PRD00616,Snacks Item 616,Grocery,Snacks,IKEA,1887.18,1249.25,2022-01-27,1
+PRD00617,Footwear Item 617,Fashion,Footwear,Sony,5519.79,4078.22,2022-06-03,1
+PRD00618,Staples Item 618,Grocery,Staples,Prestige,765.1,348.77,2021-05-12,1
+PRD00619,Footwear Item 619,Fashion,Footwear,LG,5068.98,3501.49,2019-12-26,1
+PRD00620,Furniture Item 620,Home & Kitchen,Furniture,IKEA,8929.3,4548.67,2020-05-05,1
+PRD00621,Smartphones Item 621,Electronics,Smartphones,Adidas,934.45,699.66,2021-04-03,0
+PRD00622,Furniture Item 622,Home & Kitchen,Furniture,Decathlon,28109.32,15434.61,2023-12-28,1
+PRD00623,Accessories Item 623,Fashion,Accessories,Decathlon,1225.93,690.61,2020-04-08,1
+PRD00624,Decor Item 624,Home & Kitchen,Decor,Sony,20634.34,11807.41,2019-01-18,1
+PRD00625,Womens Wear Item 625,Fashion,Womens Wear,Samsung,2264.17,1058.64,2021-11-23,1
+PRD00626,Personal Care Item 626,Grocery,Personal Care,LG,1798.29,1013.94,2020-12-24,1
+PRD00627,Dairy Item 627,Grocery,Dairy,Adidas,1458.68,1037.68,2020-06-29,1
+PRD00628,Fitness Equipment Item 628,Sports & Fitness,Fitness Equipment,Himalaya,2690.25,1500.79,2022-06-28,1
+PRD00629,Kids Wear Item 629,Fashion,Kids Wear,Titan,1863.05,1132.79,2021-02-03,1
+PRD00630,Accessories Item 630,Electronics,Accessories,Titan,52943.18,25440.59,2022-01-14,1
+PRD00631,Beverages Item 631,Grocery,Beverages,Apple,1327.57,761.39,2020-07-19,1
+PRD00632,Accessories Item 632,Fashion,Accessories,Whirlpool,4849.71,2750.88,2022-12-06,0
+PRD00633,Audio Item 633,Electronics,Audio,Decathlon,19142.62,9207.86,2019-09-30,0
+PRD00634,Storage Item 634,Home & Kitchen,Storage,Whirlpool,2933.75,1739.15,2020-10-13,1
+PRD00635,Beverages Item 635,Grocery,Beverages,Puma,1321.1,784.78,2022-06-10,1
+PRD00636,Footwear Item 636,Fashion,Footwear,Decathlon,836.27,598.53,2021-05-17,1
+PRD00637,Furniture Item 637,Home & Kitchen,Furniture,Samsung,12183.38,6137.85,2021-09-10,0
+PRD00638,Sportswear Item 638,Sports & Fitness,Sportswear,Adidas,11993.35,6984.71,2021-01-31,1
+PRD00639,Nutrition Item 639,Sports & Fitness,Nutrition,Apple,14547.7,9970.43,2023-06-12,1
+PRD00640,Dairy Item 640,Grocery,Dairy,Adidas,1663.78,1070.35,2022-04-16,1
+PRD00641,Staples Item 641,Grocery,Staples,Nestlé,1037.13,533.56,2021-08-29,1
+PRD00642,Snacks Item 642,Grocery,Snacks,Whirlpool,688.74,473.91,2019-12-09,1
+PRD00643,Accessories Item 643,Fashion,Accessories,Nike,6923.95,3937.81,2019-11-07,1
+PRD00644,Tablets Item 644,Electronics,Tablets,Himalaya,8620.45,5679.73,2019-03-13,1
+PRD00645,Personal Care Item 645,Grocery,Personal Care,IKEA,1654.11,1192.5,2019-02-09,1
+PRD00646,Personal Care Item 646,Grocery,Personal Care,Adidas,1610.09,998.08,2020-12-01,1
+PRD00647,Outdoor Item 647,Sports & Fitness,Outdoor,Titan,5163.01,3539.35,2020-09-10,1
+PRD00648,Laptops Item 648,Electronics,Laptops,Whirlpool,72630.98,33666.4,2023-07-28,1
+PRD00649,Kids Wear Item 649,Fashion,Kids Wear,Sony,3659.52,2562.55,2023-05-29,1
+PRD00650,Tablets Item 650,Electronics,Tablets,Titan,21719.17,12839.11,2020-07-24,1
+PRD00651,Staples Item 651,Grocery,Staples,Nestlé,736.3,469.65,2021-06-18,1
+PRD00652,Kids Wear Item 652,Fashion,Kids Wear,Prestige,6944.88,3360.84,2023-05-20,1
+PRD00653,Staples Item 653,Grocery,Staples,Nike,1492.22,881.37,2020-09-01,1
+PRD00654,Tablets Item 654,Electronics,Tablets,Nike,12716.75,7687.0,2021-12-04,1
+PRD00655,Smartphones Item 655,Electronics,Smartphones,LG,19939.11,12985.31,2023-06-16,1
+PRD00656,Decor Item 656,Home & Kitchen,Decor,Adidas,28704.88,13689.06,2021-11-08,1
+PRD00657,Tablets Item 657,Electronics,Tablets,IKEA,43662.48,25541.41,2021-07-08,1
+PRD00658,Womens Wear Item 658,Fashion,Womens Wear,Adidas,6844.9,4185.76,2021-01-12,1
+PRD00659,Personal Care Item 659,Grocery,Personal Care,Prestige,498.18,224.42,2023-09-19,1
+PRD00660,Outdoor Item 660,Sports & Fitness,Outdoor,LG,6892.31,5076.69,2022-06-29,1
+PRD00661,Smartphones Item 661,Electronics,Smartphones,Titan,11919.82,7055.96,2023-11-23,1
+PRD00662,Tablets Item 662,Electronics,Tablets,IKEA,58922.11,28580.97,2019-01-05,1
+PRD00663,Nutrition Item 663,Sports & Fitness,Nutrition,Sony,3146.42,1459.55,2022-12-03,1
+PRD00664,Nutrition Item 664,Sports & Fitness,Nutrition,Whirlpool,6861.41,4406.49,2023-11-10,1
+PRD00665,Personal Care Item 665,Grocery,Personal Care,Himalaya,1314.97,694.33,2021-12-03,1
+PRD00666,Furniture Item 666,Home & Kitchen,Furniture,Prestige,23655.73,17007.09,2022-04-15,1
+PRD00667,Mens Wear Item 667,Fashion,Mens Wear,Whirlpool,7321.42,4706.57,2020-02-23,1
+PRD00668,Accessories Item 668,Electronics,Accessories,Whirlpool,72194.19,48923.6,2023-09-14,1
+PRD00669,Nutrition Item 669,Sports & Fitness,Nutrition,Sony,6664.3,4221.21,2019-04-25,1
+PRD00670,Laptops Item 670,Electronics,Laptops,Puma,4936.62,2474.88,2019-08-20,1
+PRD00671,Staples Item 671,Grocery,Staples,Prestige,1568.27,1155.61,2020-04-14,1
+PRD00672,Audio Item 672,Electronics,Audio,LG,54267.51,26646.47,2020-12-12,1
+PRD00673,Audio Item 673,Electronics,Audio,Adidas,7212.71,3537.92,2022-12-18,0
+PRD00674,Fitness Equipment Item 674,Sports & Fitness,Fitness Equipment,Puma,14674.3,8481.21,2020-11-03,1
+PRD00675,Kids Wear Item 675,Fashion,Kids Wear,Whirlpool,4566.79,2439.54,2021-08-27,1
+PRD00676,Personal Care Item 676,Grocery,Personal Care,LG,250.37,181.46,2022-02-22,0
+PRD00677,Outdoor Item 677,Sports & Fitness,Outdoor,Decathlon,10746.5,4991.95,2022-06-13,1
+PRD00678,Sportswear Item 678,Sports & Fitness,Sportswear,Whirlpool,4099.91,2885.76,2019-06-28,1
+PRD00679,Personal Care Item 679,Grocery,Personal Care,Decathlon,864.28,515.35,2021-10-28,1
+PRD00680,Personal Care Item 680,Grocery,Personal Care,Prestige,1277.61,611.3,2021-08-02,1
+PRD00681,Cookware Item 681,Home & Kitchen,Cookware,Adidas,9987.31,5349.29,2023-05-08,1
+PRD00682,Cycling Item 682,Sports & Fitness,Cycling,Bata,10178.04,7204.02,2022-06-09,1
+PRD00683,Appliances Item 683,Home & Kitchen,Appliances,Prestige,24155.91,13682.79,2022-12-22,0
+PRD00684,Outdoor Item 684,Sports & Fitness,Outdoor,Titan,9793.5,4897.89,2019-10-25,1
+PRD00685,Audio Item 685,Electronics,Audio,Adidas,58084.76,37711.29,2019-02-21,0
+PRD00686,Appliances Item 686,Home & Kitchen,Appliances,Prestige,14764.31,6994.68,2022-07-07,0
+PRD00687,Mens Wear Item 687,Fashion,Mens Wear,Himalaya,7635.34,4324.12,2021-06-18,1
+PRD00688,Womens Wear Item 688,Fashion,Womens Wear,Sony,837.94,459.73,2020-09-11,1
+PRD00689,Laptops Item 689,Electronics,Laptops,Nike,12570.88,8994.52,2019-09-13,1
+PRD00690,Beverages Item 690,Grocery,Beverages,Titan,1530.34,935.61,2019-09-16,1
+PRD00691,Audio Item 691,Electronics,Audio,Adidas,45422.91,30528.46,2023-11-22,0
+PRD00692,Smartphones Item 692,Electronics,Smartphones,Nike,39422.62,17756.21,2023-09-13,1
+PRD00693,Sportswear Item 693,Sports & Fitness,Sportswear,Himalaya,13215.08,7564.39,2020-02-03,1
+PRD00694,Cookware Item 694,Home & Kitchen,Cookware,Whirlpool,26373.68,14473.65,2020-10-02,1
+PRD00695,Cycling Item 695,Sports & Fitness,Cycling,Adidas,11433.62,5196.58,2020-05-15,1
+PRD00696,Dairy Item 696,Grocery,Dairy,Nike,1015.04,650.57,2023-05-15,1
+PRD00697,Kids Wear Item 697,Fashion,Kids Wear,IKEA,2299.0,1508.21,2019-04-21,1
+PRD00698,Nutrition Item 698,Sports & Fitness,Nutrition,Sony,4480.06,2762.9,2021-04-30,1
+PRD00699,Cookware Item 699,Home & Kitchen,Cookware,Adidas,24883.88,14319.16,2019-05-12,1
+PRD00700,Cookware Item 700,Home & Kitchen,Cookware,Prestige,9457.63,5925.92,2019-09-07,1
+PRD00701,Tablets Item 701,Electronics,Tablets,LG,72086.02,45065.11,2019-06-11,1
+PRD00702,Kids Wear Item 702,Fashion,Kids Wear,Decathlon,1867.22,1333.43,2021-11-24,0
+PRD00703,Accessories Item 703,Electronics,Accessories,IKEA,37749.84,27870.94,2021-08-20,1
+PRD00704,Laptops Item 704,Electronics,Laptops,LG,60956.2,31473.13,2019-06-24,1
+PRD00705,Laptops Item 705,Electronics,Laptops,Samsung,44870.39,27376.22,2023-02-17,0
+PRD00706,Outdoor Item 706,Sports & Fitness,Outdoor,Whirlpool,2807.68,1595.88,2022-08-22,1
+PRD00707,Accessories Item 707,Fashion,Accessories,Samsung,4967.76,2873.38,2019-10-23,1
+PRD00708,Audio Item 708,Electronics,Audio,Samsung,39305.15,22123.31,2020-03-30,1
+PRD00709,Footwear Item 709,Fashion,Footwear,Himalaya,3838.12,2680.98,2021-10-20,1
+PRD00710,Appliances Item 710,Home & Kitchen,Appliances,Sony,15330.86,10870.56,2019-03-27,1
+PRD00711,Beverages Item 711,Grocery,Beverages,Apple,1022.04,663.55,2019-04-27,1
+PRD00712,Staples Item 712,Grocery,Staples,LG,82.61,59.07,2022-08-08,1
+PRD00713,Dairy Item 713,Grocery,Dairy,LG,789.29,552.23,2021-03-29,1
+PRD00714,Laptops Item 714,Electronics,Laptops,Adidas,21880.53,10850.3,2020-08-08,1
+PRD00715,Mens Wear Item 715,Fashion,Mens Wear,LG,7862.0,4594.54,2019-02-12,1
+PRD00716,Appliances Item 716,Home & Kitchen,Appliances,Bata,5145.49,2982.08,2023-07-24,1
+PRD00717,Smartphones Item 717,Electronics,Smartphones,Nike,11896.56,7069.14,2021-01-30,1
+PRD00718,Storage Item 718,Home & Kitchen,Storage,Samsung,6229.23,3127.52,2020-04-19,1
+PRD00719,Smartphones Item 719,Electronics,Smartphones,Prestige,31788.81,14491.98,2023-04-06,1
+PRD00720,Kids Wear Item 720,Fashion,Kids Wear,Nestlé,1565.82,737.56,2020-11-07,1
+PRD00721,Mens Wear Item 721,Fashion,Mens Wear,Whirlpool,7288.65,3855.51,2020-07-19,1
+PRD00722,Storage Item 722,Home & Kitchen,Storage,Titan,10439.27,5419.98,2019-08-20,1
+PRD00723,Kids Wear Item 723,Fashion,Kids Wear,Titan,2760.32,1787.74,2021-11-08,1
+PRD00724,Laptops Item 724,Electronics,Laptops,Titan,55132.05,26688.11,2019-07-05,0
+PRD00725,Laptops Item 725,Electronics,Laptops,Puma,53974.09,29526.33,2020-09-23,1
+PRD00726,Furniture Item 726,Home & Kitchen,Furniture,Adidas,5071.79,3444.17,2022-06-09,1
+PRD00727,Audio Item 727,Electronics,Audio,Titan,31581.69,19156.84,2021-11-23,1
+PRD00728,Tablets Item 728,Electronics,Tablets,LG,3509.81,2268.69,2023-12-17,1
+PRD00729,Footwear Item 729,Fashion,Footwear,IKEA,2123.46,1588.01,2019-08-04,1
+PRD00730,Sportswear Item 730,Sports & Fitness,Sportswear,Adidas,6367.08,3885.66,2022-05-24,1
+PRD00731,Kids Wear Item 731,Fashion,Kids Wear,Nestlé,5346.7,3226.52,2022-11-07,1
+PRD00732,Accessories Item 732,Fashion,Accessories,Bata,4798.53,3287.0,2022-04-07,1
+PRD00733,Personal Care Item 733,Grocery,Personal Care,Puma,1755.06,1175.43,2020-06-14,1
+PRD00734,Nutrition Item 734,Sports & Fitness,Nutrition,Samsung,1107.22,654.47,2022-04-21,1
+PRD00735,Nutrition Item 735,Sports & Fitness,Nutrition,LG,1154.46,555.79,2023-06-18,1
+PRD00736,Dairy Item 736,Grocery,Dairy,Bata,45.26,31.67,2021-04-19,1
+PRD00737,Cookware Item 737,Home & Kitchen,Cookware,Adidas,27546.12,14248.99,2022-02-11,1
+PRD00738,Outdoor Item 738,Sports & Fitness,Outdoor,Whirlpool,2476.62,1361.9,2020-08-29,1
+PRD00739,Personal Care Item 739,Grocery,Personal Care,Samsung,896.97,649.63,2019-01-16,1
+PRD00740,Audio Item 740,Electronics,Audio,Puma,32619.85,15654.24,2019-07-15,1
+PRD00741,Audio Item 741,Electronics,Audio,Himalaya,1519.77,913.16,2022-05-08,1
+PRD00742,Audio Item 742,Electronics,Audio,Adidas,27889.21,15382.52,2023-06-08,1
+PRD00743,Storage Item 743,Home & Kitchen,Storage,Himalaya,19010.15,9397.17,2023-05-05,1
+PRD00744,Beverages Item 744,Grocery,Beverages,Bata,58.65,34.89,2020-12-29,0
+PRD00745,Storage Item 745,Home & Kitchen,Storage,Himalaya,17297.25,7982.0,2019-10-20,1
+PRD00746,Decor Item 746,Home & Kitchen,Decor,Prestige,17992.22,11294.3,2021-09-11,1
+PRD00747,Cycling Item 747,Sports & Fitness,Cycling,Prestige,6428.98,3223.47,2020-07-28,1
+PRD00748,Audio Item 748,Electronics,Audio,Adidas,7330.05,4808.34,2023-10-27,1
+PRD00749,Kids Wear Item 749,Fashion,Kids Wear,Bata,1182.0,861.42,2021-11-29,1
+PRD00750,Accessories Item 750,Electronics,Accessories,LG,69865.93,43111.76,2021-09-19,1
+PRD00751,Beverages Item 751,Grocery,Beverages,Titan,1138.34,811.11,2022-06-03,1
+PRD00752,Beverages Item 752,Grocery,Beverages,Nestlé,694.95,367.89,2021-01-04,1
+PRD00753,Storage Item 753,Home & Kitchen,Storage,Adidas,16881.64,11666.74,2022-03-06,1
+PRD00754,Decor Item 754,Home & Kitchen,Decor,Puma,16664.89,10481.26,2019-11-17,1
+PRD00755,Mens Wear Item 755,Fashion,Mens Wear,Puma,4568.28,2940.23,2022-01-05,1
+PRD00756,Footwear Item 756,Fashion,Footwear,IKEA,6149.85,3943.49,2019-01-11,1
+PRD00757,Footwear Item 757,Fashion,Footwear,Apple,7558.09,4563.38,2021-07-19,1
+PRD00758,Accessories Item 758,Electronics,Accessories,LG,42257.72,22769.29,2021-04-23,0
+PRD00759,Personal Care Item 759,Grocery,Personal Care,Titan,1134.37,524.5,2020-04-04,1
+PRD00760,Womens Wear Item 760,Fashion,Womens Wear,Samsung,4605.73,2628.46,2021-08-26,1
+PRD00761,Furniture Item 761,Home & Kitchen,Furniture,Samsung,2883.38,2088.54,2023-01-17,1
+PRD00762,Snacks Item 762,Grocery,Snacks,Nike,1324.71,911.98,2023-02-08,1
+PRD00763,Womens Wear Item 763,Fashion,Womens Wear,Apple,7018.82,4346.69,2023-08-29,1
+PRD00764,Laptops Item 764,Electronics,Laptops,Decathlon,21688.01,12127.28,2023-12-06,1
+PRD00765,Cookware Item 765,Home & Kitchen,Cookware,Samsung,3580.62,2365.81,2020-01-31,1
+PRD00766,Accessories Item 766,Electronics,Accessories,Apple,73224.44,42112.54,2019-09-22,1
+PRD00767,Kids Wear Item 767,Fashion,Kids Wear,Apple,7639.06,5563.29,2021-03-26,1
+PRD00768,Smartphones Item 768,Electronics,Smartphones,Nestlé,27347.64,18140.75,2021-12-05,1
+PRD00769,Nutrition Item 769,Sports & Fitness,Nutrition,Whirlpool,12214.83,6935.83,2019-01-16,1
+PRD00770,Personal Care Item 770,Grocery,Personal Care,Sony,1862.13,911.59,2019-10-17,1
+PRD00771,Decor Item 771,Home & Kitchen,Decor,IKEA,15707.65,10559.22,2022-12-26,1
+PRD00772,Smartphones Item 772,Electronics,Smartphones,Prestige,15974.22,10762.78,2020-01-05,1
+PRD00773,Accessories Item 773,Fashion,Accessories,Adidas,1364.39,963.54,2020-03-19,1
+PRD00774,Appliances Item 774,Home & Kitchen,Appliances,Nestlé,2502.33,1577.53,2019-12-26,1
+PRD00775,Cycling Item 775,Sports & Fitness,Cycling,Prestige,13681.01,8289.33,2022-03-31,1
+PRD00776,Snacks Item 776,Grocery,Snacks,Prestige,266.98,130.99,2020-05-28,0
+PRD00777,Personal Care Item 777,Grocery,Personal Care,LG,996.29,730.27,2022-01-21,1
+PRD00778,Smartphones Item 778,Electronics,Smartphones,IKEA,47092.56,29707.98,2020-02-07,1
+PRD00779,Cookware Item 779,Home & Kitchen,Cookware,Bata,12172.78,7878.63,2019-06-09,1
+PRD00780,Sportswear Item 780,Sports & Fitness,Sportswear,Decathlon,8857.89,5872.26,2020-12-21,1
+PRD00781,Dairy Item 781,Grocery,Dairy,LG,519.51,319.84,2022-03-23,1
+PRD00782,Snacks Item 782,Grocery,Snacks,LG,1242.36,758.06,2021-05-23,0
+PRD00783,Decor Item 783,Home & Kitchen,Decor,Bata,12828.16,7339.62,2022-02-22,1
+PRD00784,Beverages Item 784,Grocery,Beverages,Decathlon,1004.36,698.53,2021-12-27,1
+PRD00785,Laptops Item 785,Electronics,Laptops,Himalaya,16416.26,10635.23,2021-03-15,1
+PRD00786,Tablets Item 786,Electronics,Tablets,Samsung,25546.62,18853.5,2019-04-03,1
+PRD00787,Furniture Item 787,Home & Kitchen,Furniture,Puma,4309.18,2289.35,2021-11-13,1
+PRD00788,Accessories Item 788,Electronics,Accessories,Titan,45420.88,23598.78,2019-11-03,0
+PRD00789,Tablets Item 789,Electronics,Tablets,Whirlpool,32655.75,16334.09,2020-10-27,1
+PRD00790,Snacks Item 790,Grocery,Snacks,Himalaya,469.23,345.44,2022-01-17,1
+PRD00791,Kids Wear Item 791,Fashion,Kids Wear,Himalaya,6792.47,4762.65,2023-08-18,1
+PRD00792,Decor Item 792,Home & Kitchen,Decor,Decathlon,15365.34,11273.38,2021-08-24,1
+PRD00793,Outdoor Item 793,Sports & Fitness,Outdoor,Bata,6184.59,3712.83,2022-11-06,0
+PRD00794,Accessories Item 794,Fashion,Accessories,Samsung,4572.48,2145.85,2019-12-21,1
+PRD00795,Decor Item 795,Home & Kitchen,Decor,IKEA,27359.53,18795.06,2020-03-03,1
+PRD00796,Furniture Item 796,Home & Kitchen,Furniture,Puma,9024.98,6496.5,2020-10-20,1
+PRD00797,Appliances Item 797,Home & Kitchen,Appliances,Himalaya,7980.22,4730.54,2021-10-23,1
+PRD00798,Tablets Item 798,Electronics,Tablets,Sony,55298.94,27440.36,2021-02-26,1
+PRD00799,Storage Item 799,Home & Kitchen,Storage,Apple,12668.64,8344.16,2019-02-04,1
+PRD00800,Laptops Item 800,Electronics,Laptops,Adidas,34039.76,19915.97,2023-12-18,1

@@ -1,0 +1,61 @@
+supplier_id,supplier_name,country,reliability_score,contract_start
+SUP001,Honeywell Pvt Ltd,India,0.85,2020-02-27
+SUP002,Infosys Pvt Ltd,China,0.7,2018-02-19
+SUP003,Bosch Pvt Ltd,China,0.94,2021-09-18
+SUP004,Samsung Electronics Pvt Ltd,India,0.93,2022-11-18
+SUP005,ServiceNow Pvt Ltd,China,0.68,2018-05-11
+SUP006,HCL Technologies Pvt Ltd,Germany,0.94,2024-06-15
+SUP007,Tech Mahindra Pvt Ltd,India,0.95,2024-02-24
+SUP008,Schneider Electric Pvt Ltd,India,0.91,2018-03-17
+SUP009,NVIDIA Pvt Ltd,Bangladesh,0.67,2021-05-06
+SUP010,Intel Pvt Ltd,India,0.96,2023-10-04
+SUP011,Dixon Technologies Pvt Ltd,China,0.85,2023-11-21
+SUP012,Emerson Pvt Ltd,Thailand,0.93,2023-04-23
+SUP013,Ingram Micro Pvt Ltd,India,0.87,2024-04-07
+SUP014,Arrow Electronics Pvt Ltd,Vietnam,0.88,2021-09-06
+SUP015,Tata Consultancy Services Pvt Ltd,USA,0.89,2019-09-22
+SUP016,Lenovo Pvt Ltd,India,0.83,2021-09-07
+SUP017,Salesforce Pvt Ltd,China,0.97,2021-03-01
+SUP018,Lenovo Pvt Ltd,India,0.86,2018-06-02
+SUP019,Sony India Pvt Ltd,India,0.67,2020-10-20
+SUP020,Foxconn Pvt Ltd,China,0.97,2018-11-29
+SUP021,ABB Pvt Ltd,Bangladesh,0.97,2020-05-04
+SUP022,Cummins Pvt Ltd,India,0.75,2021-09-03
+SUP023,Bosch Pvt Ltd,China,0.83,2024-04-01
+SUP024,Dixon Technologies Pvt Ltd,China,0.86,2022-01-17
+SUP025,IBM Pvt Ltd,India,0.9,2019-08-08
+SUP026,Siemens Pvt Ltd,India,0.92,2024-12-12
+SUP027,Intel Pvt Ltd,Vietnam,0.82,2019-07-16
+SUP028,VMware Pvt Ltd,Vietnam,0.88,2018-07-13
+SUP029,Arrow Electronics Pvt Ltd,India,0.92,2018-04-15
+SUP030,Cummins Pvt Ltd,India,0.95,2021-03-10
+SUP031,HP Inc. Pvt Ltd,China,0.92,2022-09-25
+SUP032,ABB Pvt Ltd,China,0.91,2024-11-15
+SUP033,Kingston Pvt Ltd,India,0.72,2020-02-01
+SUP034,Honeywell Pvt Ltd,India,0.83,2020-12-27
+SUP035,Western Digital Pvt Ltd,India,0.71,2018-04-28
+SUP036,3M Pvt Ltd,China,0.91,2023-06-14
+SUP037,Belkin Pvt Ltd,China,0.84,2021-12-19
+SUP038,Bosch Pvt Ltd,India,0.73,2023-03-16
+SUP039,Samsung Electronics Pvt Ltd,India,0.7,2019-11-29
+SUP040,Zoho Pvt Ltd,India,0.7,2021-06-09
+SUP041,3M Pvt Ltd,China,0.94,2018-12-19
+SUP042,Hitachi Pvt Ltd,India,0.91,2021-04-27
+SUP043,Schneider Electric Pvt Ltd,Germany,0.92,2021-08-26
+SUP044,Arrow Electronics Pvt Ltd,India,0.89,2024-03-19
+SUP045,Panasonic Pvt Ltd,India,0.71,2019-08-31
+SUP046,Salesforce Pvt Ltd,Bangladesh,0.7,2021-06-22
+SUP047,SAP Pvt Ltd,China,0.78,2022-12-31
+SUP048,NetApp Pvt Ltd,India,0.9,2020-09-20
+SUP049,Kingston Pvt Ltd,India,0.95,2018-12-10
+SUP050,Foxconn Pvt Ltd,India,0.74,2022-04-29
+SUP051,Wipro Pvt Ltd,China,0.89,2024-09-05
+SUP052,ServiceNow Pvt Ltd,China,0.86,2023-10-08
+SUP053,Cummins Pvt Ltd,South Korea,0.72,2018-05-19
+SUP054,Redington Pvt Ltd,China,0.87,2018-10-07
+SUP055,Salesforce Pvt Ltd,India,0.74,2022-10-26
+SUP056,Intel Pvt Ltd,Germany,0.8,2018-03-07
+SUP057,NVIDIA Pvt Ltd,India,0.93,2022-09-21
+SUP058,HCL Technologies Pvt Ltd,China,0.82,2019-11-13
+SUP059,Arrow Electronics Pvt Ltd,India,0.66,2022-09-02
+SUP060,NVIDIA Pvt Ltd,Thailand,0.97,2018-02-28

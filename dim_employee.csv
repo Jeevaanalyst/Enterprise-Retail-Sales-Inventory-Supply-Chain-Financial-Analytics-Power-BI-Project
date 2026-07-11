@@ -1,0 +1,601 @@
+employee_id,salesperson_name,store_id,department,designation,hire_date,monthly_target,is_active
+EMP00001,Suman Tiwari,ST0193,Customer Service,Senior Associate,7/4/2021,405658.44,1
+EMP00002,Kunal Chauhan,ST0114,Cashier,Senior Associate,10/2/2021,503960.96,1
+EMP00003,Dhruv Mukherjee,ST0001,Cashier,Associate,11/2/2017,253921.85,1
+EMP00004,Tarun Iyer,ST0058,Sales,Associate,8/22/2022,599310.33,0
+EMP00005,Divya Sharma,ST0154,Sales,Senior Associate,9/20/2021,258918.25,1
+EMP00006,Vikram Kapoor,ST0109,Customer Service,Associate,8/17/2021,351700.51,1
+EMP00007,Zara Sharma,ST0148,Customer Service,Assistant Manager,2/26/2021,477174.33,1
+EMP00008,Manish Patel,ST0116,Sales,Team Lead,10/23/2020,667686.36,1
+EMP00009,Manoj Saxena,ST0087,Cashier,Assistant Manager,2/24/2018,630655,1
+EMP00010,Ashok Bhalla,ST0010,Inventory,Associate,1/28/2023,569597.33,1
+EMP00011,Chetan Bajaj,ST0059,Management,Assistant Manager,5/14/2017,251252.62,1
+EMP00012,Hemant Kohli,ST0203,Cashier,Associate,7/24/2022,505579.47,1
+EMP00013,Sapna Khanna,ST0041,Inventory,Associate,12/21/2020,206840.23,1
+EMP00014,Sapna Subramaniam,ST0105,Customer Service,Associate,4/3/2021,395286.06,1
+EMP00015,Sneha Babu,ST0133,Inventory,Associate,3/10/2020,418785.74,1
+EMP00016,Sneha Rao,ST0122,Sales,Senior Associate,2/13/2022,175877.44,1
+EMP00017,Madhuri Menon,ST0193,Inventory,Senior Associate,12/25/2021,328092.26,1
+EMP00018,Suresh Bajaj,ST0145,Sales,Associate,5/29/2024,771172.15,1
+EMP00019,Hemant Das,ST0022,Inventory,Senior Associate,9/4/2020,769861.2,1
+EMP00020,Chitra Bose,ST0098,Sales,Associate,1/4/2021,379012.59,1
+EMP00021,Rashmi Chatterjee,ST0169,Sales,Senior Associate,2/5/2023,178015.07,0
+EMP00022,Sunita Bhatia,ST0068,Sales,Associate,12/16/2019,266411.71,1
+EMP00023,Asha Babu,ST0197,Sales,Team Lead,3/24/2020,404941.57,1
+EMP00024,Rohit Yadav,ST0139,Inventory,Team Lead,8/23/2021,766056.8,1
+EMP00025,Nisha Shankar,ST0056,Inventory,Senior Associate,4/21/2017,241779.39,1
+EMP00026,Kunal Rajan,ST0179,Customer Service,Associate,12/25/2022,646285.3,1
+EMP00027,Yogesh Bhatt,ST0149,Sales,Associate,3/30/2023,220643.65,1
+EMP00028,Rohit Kumar,ST0099,Sales,Team Lead,4/13/2018,787817.43,1
+EMP00029,Girish Rajan,ST0076,Sales,Associate,8/11/2024,398050.72,1
+EMP00030,Mohan Agarwal,ST0026,Sales,Associate,12/4/2023,653902.45,1
+EMP00031,Madhuri Anand,ST0115,Cashier,Associate,3/25/2019,372684.2,1
+EMP00032,Naveen Joshi,ST0147,Sales,Senior Associate,6/26/2020,557984.77,1
+EMP00033,Rashmi Iyer,ST0109,Sales,Senior Associate,9/21/2019,274810.46,1
+EMP00034,Aarti Patel,ST0188,Sales,Team Lead,7/25/2022,244913.66,1
+EMP00035,Suresh Kohli,ST0199,Sales,Associate,11/19/2017,759741.69,1
+EMP00036,Komal Ghosh,ST0047,Customer Service,Associate,6/23/2019,746470.73,0
+EMP00037,Nandini Menon,ST0071,Inventory,Team Lead,3/22/2021,726854.81,0
+EMP00038,Hema Kohli,ST0154,Sales,Team Lead,6/23/2022,556531.74,1
+EMP00039,Kunal Bose,ST0040,Sales,Associate,12/21/2021,675374.34,1
+EMP00040,Hema Kapoor,ST0133,Sales,Senior Associate,4/7/2024,194874.01,1
+EMP00041,Jagdish Banerjee,ST0149,Sales,Associate,10/13/2023,367612.88,1
+EMP00042,Chitra Reddy,ST0206,Sales,Assistant Manager,5/28/2017,353907.03,1
+EMP00043,Vinod Pillai,ST0132,Cashier,Associate,2/16/2020,563169.46,1
+EMP00044,Gaurav Sharma,ST0023,Inventory,Assistant Manager,4/30/2019,381372.55,1
+EMP00045,Rohit Kapoor,ST0106,Customer Service,Senior Associate,1/2/2018,246529.41,1
+EMP00046,Rashmi Ghosh,ST0084,Customer Service,Senior Associate,12/7/2024,537703.6,1
+EMP00047,Swati Ghosh,ST0143,Customer Service,Associate,12/26/2019,679349.55,1
+EMP00048,Hemant Menon,ST0116,Customer Service,Senior Associate,8/1/2022,398380.27,1
+EMP00049,Manisha Rajan,ST0109,Inventory,Associate,10/31/2024,235974.66,1
+EMP00050,Urmila Chopra,ST0136,Inventory,Associate,6/24/2017,277847.33,1
+EMP00051,Mukesh Pandey,ST0041,Sales,Senior Associate,1/29/2022,304364.15,1
+EMP00052,Lakshmi Iyer,ST0112,Customer Service,Assistant Manager,8/11/2018,344933.44,1
+EMP00053,Arjun Pillai,ST0147,Customer Service,Senior Associate,5/10/2018,567816.8,1
+EMP00054,Anita Bhatia,ST0112,Cashier,Senior Associate,2/12/2020,540614.56,1
+EMP00055,Deepa Bhalla,ST0103,Inventory,Associate,11/20/2021,602451.91,1
+EMP00056,Deepak Iyer,ST0046,Customer Service,Associate,3/16/2020,385626.29,1
+EMP00057,Bindu Verma,ST0156,Sales,Associate,2/4/2017,685598.47,1
+EMP00058,Vikram Agarwal,ST0219,Inventory,Senior Associate,9/26/2019,282656.98,1
+EMP00059,Preeti Bhalla,ST0068,Sales,Assistant Manager,8/25/2020,454876.49,1
+EMP00060,Sangeeta Bose,ST0122,Sales,Senior Associate,1/30/2024,670610.17,1
+EMP00061,Esha Iyer,ST0015,Sales,Associate,8/29/2024,267103.12,1
+EMP00062,Komal Nair,ST0165,Inventory,Associate,11/4/2019,221411.02,1
+EMP00063,Vishal Arora,ST0129,Sales,Senior Associate,1/9/2018,724394.58,0
+EMP00064,Prakash Rajan,ST0195,Sales,Associate,2/18/2024,372904.28,1
+EMP00065,Prakash Gupta,ST0111,Cashier,Team Lead,12/22/2020,594515.58,1
+EMP00066,Harish Iyer,ST0024,Sales,Team Lead,10/18/2021,166476.59,1
+EMP00067,Radha Mishra,ST0027,Customer Service,Senior Associate,3/31/2023,598530.48,0
+EMP00068,Aditya Sethi,ST0040,Customer Service,Associate,12/6/2018,355465.85,1
+EMP00069,Manoj Bhatt,ST0191,Sales,Associate,7/17/2018,186231.55,1
+EMP00070,Tanvi Kumar,ST0189,Management,Associate,8/5/2024,546378.3,1
+EMP00071,Kiran Bhatt,ST0164,Sales,Associate,2/17/2022,306522.48,1
+EMP00072,Nandini Iyer,ST0024,Customer Service,Associate,10/25/2022,401424.71,1
+EMP00073,Hema Subramaniam,ST0024,Customer Service,Senior Associate,3/15/2018,202377.53,1
+EMP00074,Rahul Desai,ST0004,Inventory,Senior Associate,2/27/2022,245656.11,1
+EMP00075,Sandeep Kohli,ST0067,Inventory,Associate,6/3/2022,343685.2,1
+EMP00076,Arvind Kapoor,ST0034,Sales,Associate,11/30/2018,208343.68,1
+EMP00077,Naveen Kumar,ST0185,Sales,Associate,8/5/2020,742037.07,1
+EMP00078,Sandeep Patel,ST0177,Inventory,Associate,4/13/2021,153930.58,1
+EMP00079,Neha Bose,ST0215,Customer Service,Team Lead,11/23/2018,464509.14,1
+EMP00080,Sneha Agarwal,ST0181,Management,Associate,4/20/2023,230110.85,1
+EMP00081,Rashmi Gupta,ST0116,Management,Associate,4/15/2020,349991.41,1
+EMP00082,Rashmi Mukherjee,ST0023,Management,Associate,9/24/2023,751938.71,1
+EMP00083,Jyoti Mishra,ST0109,Customer Service,Team Lead,6/23/2021,255101.46,1
+EMP00084,Esha Desai,ST0069,Sales,Senior Associate,6/22/2021,777791.01,1
+EMP00085,Radha Reddy,ST0095,Management,Associate,5/7/2017,283766.35,1
+EMP00086,Naveen Joshi,ST0181,Customer Service,Senior Associate,2/15/2021,632017.97,1
+EMP00087,Amit Das,ST0062,Sales,Senior Associate,4/6/2020,505340.22,1
+EMP00088,Nandini Desai,ST0169,Cashier,Assistant Manager,3/24/2024,724911.17,1
+EMP00089,Divya Babu,ST0057,Cashier,Associate,10/21/2017,510095.62,0
+EMP00090,Hema Chatterjee,ST0188,Customer Service,Team Lead,9/28/2020,497463.49,1
+EMP00091,Priya Chopra,ST0054,Sales,Assistant Manager,10/17/2019,277047.7,1
+EMP00092,Vandana Verma,ST0070,Sales,Assistant Manager,6/16/2023,258049.09,1
+EMP00093,Neha Babu,ST0101,Management,Senior Associate,6/2/2024,745717.95,1
+EMP00094,Ishita Iyer,ST0057,Cashier,Senior Associate,1/20/2024,363094.83,1
+EMP00095,Suresh Babu,ST0138,Sales,Associate,2/1/2024,391853.47,1
+EMP00096,Girish Gupta,ST0168,Sales,Team Lead,2/23/2018,643885.38,1
+EMP00097,Gauri Anand,ST0135,Cashier,Senior Associate,3/20/2018,370235.26,1
+EMP00098,Vijay Bhatt,ST0103,Sales,Senior Associate,11/16/2018,768840.59,1
+EMP00099,Arjun Chauhan,ST0166,Customer Service,Associate,11/27/2024,629653.05,1
+EMP00100,Amit Chandran,ST0085,Cashier,Senior Associate,4/3/2023,538329.01,1
+EMP00101,Manoj Menon,ST0061,Sales,Team Lead,1/2/2021,722581.85,1
+EMP00102,Gaurav Sharma,ST0212,Inventory,Associate,3/12/2023,182243.84,1
+EMP00103,Lokesh Yadav,ST0003,Sales,Team Lead,3/26/2017,317090.75,1
+EMP00104,Lakshmi Chandran,ST0128,Sales,Senior Associate,10/12/2024,452273.62,1
+EMP00105,Tarun Kapoor,ST0179,Management,Team Lead,11/3/2021,297536.05,1
+EMP00106,Hemant Sethi,ST0086,Customer Service,Associate,3/26/2017,633538.37,1
+EMP00107,Prakash Pandey,ST0047,Cashier,Associate,4/29/2022,747485.22,1
+EMP00108,Sachin Nayar,ST0196,Customer Service,Assistant Manager,10/14/2022,425450.58,1
+EMP00109,Nisha Tiwari,ST0220,Sales,Associate,7/28/2021,372386.19,1
+EMP00110,Manisha Ghosh,ST0076,Sales,Team Lead,10/25/2018,775007.98,1
+EMP00111,Leela Bose,ST0038,Sales,Senior Associate,9/19/2018,439154.08,1
+EMP00112,Aditya Agarwal,ST0164,Sales,Senior Associate,3/5/2017,467881.46,1
+EMP00113,Leela Agarwal,ST0169,Sales,Associate,7/8/2019,378572.42,1
+EMP00114,Sunita Das,ST0197,Sales,Senior Associate,10/7/2020,741206.51,1
+EMP00115,Dinesh Joshi,ST0141,Customer Service,Associate,3/27/2020,519821.06,1
+EMP00116,Preeti Ghosh,ST0087,Inventory,Associate,6/1/2021,645413.48,1
+EMP00117,Anita Kapoor,ST0058,Inventory,Associate,5/6/2018,677674.37,1
+EMP00118,Urmila Kapoor,ST0050,Inventory,Associate,2/22/2022,372201.88,1
+EMP00119,Mukesh Khanna,ST0030,Sales,Assistant Manager,4/25/2022,431901.32,1
+EMP00120,Gopal Bose,ST0190,Sales,Assistant Manager,11/9/2017,701506.65,1
+EMP00121,Ramesh Kapoor,ST0101,Inventory,Associate,4/16/2024,386115.98,1
+EMP00122,Asha Rao,ST0025,Customer Service,Senior Associate,7/8/2019,666057.84,1
+EMP00123,Zara Malhotra,ST0112,Sales,Associate,2/26/2022,761645.01,1
+EMP00124,Arvind Tiwari,ST0155,Management,Senior Associate,3/24/2019,555086.74,1
+EMP00125,Dinesh Rajan,ST0179,Management,Team Lead,1/29/2021,632057.74,1
+EMP00126,Anita Bhatia,ST0206,Customer Service,Assistant Manager,8/19/2020,673313.25,1
+EMP00127,Sangeeta Pillai,ST0185,Sales,Associate,11/11/2018,699275.77,1
+EMP00128,Sunita Bajaj,ST0126,Management,Team Lead,3/11/2018,406784.67,1
+EMP00129,Vinod Kohli,ST0123,Customer Service,Associate,11/13/2018,183321.25,1
+EMP00130,Sunil Kapoor,ST0047,Management,Assistant Manager,3/4/2020,411219.58,0
+EMP00131,Ishita Iyer,ST0118,Management,Associate,12/10/2019,587941.55,1
+EMP00132,Meera Bhatia,ST0039,Management,Senior Associate,12/26/2020,442727.75,1
+EMP00133,Preeti Sinha,ST0016,Customer Service,Senior Associate,7/16/2023,636826.05,1
+EMP00134,Deepa Chauhan,ST0022,Sales,Senior Associate,7/23/2023,382038.58,1
+EMP00135,Preeti Banerjee,ST0213,Inventory,Associate,5/17/2024,562583.69,1
+EMP00136,Ajay Chandran,ST0054,Inventory,Assistant Manager,10/2/2020,271172.87,1
+EMP00137,Urmila Sethi,ST0149,Inventory,Associate,10/11/2018,637090.13,1
+EMP00138,Nitin Narayan,ST0200,Sales,Senior Associate,9/2/2017,504702.38,1
+EMP00139,Kiran Nayar,ST0016,Sales,Associate,11/27/2022,282641.85,0
+EMP00140,Hemant Chatterjee,ST0059,Cashier,Associate,1/25/2024,339742.26,1
+EMP00141,Ashok Menon,ST0031,Inventory,Senior Associate,10/23/2017,636595.66,1
+EMP00142,Chitra Sethi,ST0170,Cashier,Associate,11/30/2022,463690.8,0
+EMP00143,Manoj Nair,ST0202,Management,Associate,6/1/2021,290420.44,1
+EMP00144,Gauri Iyer,ST0032,Customer Service,Associate,7/19/2023,778726.27,1
+EMP00145,Dinesh Arora,ST0187,Inventory,Associate,11/19/2022,614831.26,1
+EMP00146,Aditya Narayan,ST0162,Cashier,Team Lead,4/30/2024,772137.64,1
+EMP00147,Sunil Babu,ST0009,Customer Service,Team Lead,6/16/2021,427618.28,0
+EMP00148,Sneha Kohli,ST0209,Inventory,Associate,1/28/2017,458815.22,0
+EMP00149,Yogesh Rao,ST0139,Sales,Associate,6/9/2022,733670.89,1
+EMP00150,Pallavi Babu,ST0010,Customer Service,Associate,4/10/2021,491282.07,1
+EMP00151,Lokesh Krishnan,ST0214,Inventory,Associate,2/27/2017,609731.29,1
+EMP00152,Shalini Das,ST0017,Sales,Senior Associate,3/2/2021,313912.37,1
+EMP00153,Anita Chauhan,ST0068,Sales,Senior Associate,10/24/2017,440372.2,1
+EMP00154,Gauri Chauhan,ST0048,Sales,Associate,12/22/2022,230242.41,1
+EMP00155,Swati Krishnan,ST0180,Sales,Associate,4/16/2023,283887.02,0
+EMP00156,Sunil Malhotra,ST0111,Sales,Associate,2/11/2024,150613.22,0
+EMP00157,Gaurav Nayar,ST0153,Customer Service,Team Lead,6/21/2019,175522.28,1
+EMP00158,Gaurav Kohli,ST0123,Cashier,Assistant Manager,5/19/2022,785234.49,1
+EMP00159,Esha Bhatt,ST0149,Customer Service,Associate,1/4/2020,307529.9,1
+EMP00160,Abhishek Sethi,ST0101,Sales,Associate,8/5/2021,581151.96,1
+EMP00161,Kiran Bose,ST0102,Sales,Team Lead,11/21/2024,695414.8,1
+EMP00162,Esha Ghosh,ST0065,Inventory,Assistant Manager,4/6/2020,507929.3,1
+EMP00163,Pallavi Arora,ST0191,Sales,Associate,2/10/2019,249543.93,1
+EMP00164,Mohan Kapoor,ST0217,Management,Associate,3/7/2021,623275.68,1
+EMP00165,Vandana Nayar,ST0051,Inventory,Associate,10/10/2020,540163.42,1
+EMP00166,Preeti Bhalla,ST0036,Management,Senior Associate,6/2/2020,625312.88,0
+EMP00167,Rakesh Agarwal,ST0081,Sales,Associate,4/4/2021,650335.3,1
+EMP00168,Madhuri Anand,ST0127,Inventory,Associate,5/26/2017,784016.74,1
+EMP00169,Sanjay Sharma,ST0088,Sales,Senior Associate,6/7/2022,522816.13,1
+EMP00170,Ashok Das,ST0194,Cashier,Associate,6/18/2020,372066.72,1
+EMP00171,Sneha Sethi,ST0104,Inventory,Team Lead,3/23/2022,571501.96,0
+EMP00172,Dhruv Shankar,ST0015,Sales,Associate,7/20/2023,194486.46,1
+EMP00173,Mukesh Pandey,ST0096,Sales,Associate,11/8/2021,733308.26,1
+EMP00174,Karthik Chandran,ST0167,Sales,Senior Associate,11/25/2019,227597.66,1
+EMP00175,Nisha Bhalla,ST0123,Inventory,Associate,7/12/2024,363097.84,1
+EMP00176,Leela Arora,ST0198,Sales,Assistant Manager,8/11/2022,680234.5,1
+EMP00177,Prakash Iyer,ST0001,Customer Service,Senior Associate,7/13/2022,538253.05,1
+EMP00178,Manoj Verma,ST0151,Sales,Associate,6/2/2017,405863.09,1
+EMP00179,Ojaswini Bose,ST0122,Inventory,Senior Associate,10/13/2023,457733.18,1
+EMP00180,Bharat Saxena,ST0167,Management,Associate,5/23/2018,705455.81,1
+EMP00181,Vinod Kapoor,ST0126,Management,Assistant Manager,5/6/2018,371002.85,1
+EMP00182,Nisha Das,ST0057,Management,Associate,12/11/2017,715272.3,1
+EMP00183,Arvind Bajaj,ST0081,Sales,Senior Associate,4/20/2022,207287.38,1
+EMP00184,Komal Agarwal,ST0162,Sales,Associate,10/28/2021,654918.98,1
+EMP00185,Shalini Narayan,ST0169,Inventory,Associate,8/9/2017,700905.96,1
+EMP00186,Rahul Bhatt,ST0073,Sales,Team Lead,4/23/2022,268181.47,1
+EMP00187,Vishal Mehta,ST0141,Customer Service,Team Lead,4/27/2022,429725.25,1
+EMP00188,Leela Rao,ST0070,Sales,Associate,12/24/2018,257574.85,1
+EMP00189,Suresh Bhatt,ST0006,Sales,Associate,6/12/2018,609292.68,1
+EMP00190,Jyoti Patel,ST0084,Sales,Team Lead,3/3/2021,497976.05,1
+EMP00191,Deepak Nayar,ST0052,Cashier,Assistant Manager,11/28/2024,562960.18,1
+EMP00192,Vinod Mukherjee,ST0003,Sales,Associate,7/23/2021,277716.53,1
+EMP00193,Girish Bhatt,ST0081,Customer Service,Senior Associate,4/26/2018,287634.81,1
+EMP00194,Rohit Rao,ST0063,Sales,Associate,2/15/2022,176973.26,1
+EMP00195,Vikram Sinha,ST0049,Inventory,Team Lead,12/29/2024,359343.9,1
+EMP00196,Suresh Sinha,ST0076,Sales,Associate,1/2/2021,513834.03,1
+EMP00197,Nandini Menon,ST0112,Cashier,Associate,11/26/2020,707657.69,1
+EMP00198,Karthik Bhatia,ST0175,Cashier,Team Lead,12/11/2017,583502.84,1
+EMP00199,Suman Agarwal,ST0109,Sales,Associate,2/14/2017,433007.61,0
+EMP00200,Shalini Mishra,ST0183,Cashier,Senior Associate,8/31/2022,769528.07,1
+EMP00201,Falguni Chatterjee,ST0192,Cashier,Associate,7/16/2021,617509.38,1
+EMP00202,Jagdish Khanna,ST0065,Management,Associate,3/3/2022,754607.38,1
+EMP00203,Kunal Pandey,ST0081,Management,Associate,12/30/2024,492932.18,1
+EMP00204,Kunal Anand,ST0195,Sales,Senior Associate,9/27/2022,318287.78,1
+EMP00205,Swati Khanna,ST0218,Customer Service,Associate,2/23/2021,184337.35,1
+EMP00206,Arjun Rao,ST0015,Sales,Senior Associate,2/12/2024,621955.15,1
+EMP00207,Imran Das,ST0100,Sales,Team Lead,5/24/2023,228846.95,1
+EMP00208,Yamini Desai,ST0032,Cashier,Team Lead,9/29/2019,346803.83,1
+EMP00209,Nisha Pillai,ST0096,Sales,Associate,10/31/2019,496106.09,1
+EMP00210,Deepa Krishnan,ST0128,Inventory,Associate,2/3/2024,516870.78,1
+EMP00211,Mohan Varma,ST0196,Management,Associate,8/3/2022,540379.08,1
+EMP00212,Girish Mehta,ST0146,Cashier,Associate,9/4/2024,258065.96,1
+EMP00213,Girish Sethi,ST0113,Cashier,Associate,10/1/2017,396829.31,1
+EMP00214,Rashmi Bose,ST0083,Sales,Senior Associate,8/14/2019,551176.25,1
+EMP00215,Manoj Tiwari,ST0043,Sales,Associate,4/1/2024,780382.26,1
+EMP00216,Anil Bhatia,ST0116,Customer Service,Associate,11/15/2021,622960.24,1
+EMP00217,Manoj Chatterjee,ST0163,Sales,Associate,1/16/2018,749692.44,1
+EMP00218,Suresh Ghosh,ST0078,Sales,Senior Associate,9/14/2020,645437.84,1
+EMP00219,Jyoti Kumar,ST0058,Sales,Associate,4/24/2018,534616.03,1
+EMP00220,Komal Mehta,ST0033,Management,Senior Associate,8/25/2022,274815.19,1
+EMP00221,Hemant Bhalla,ST0014,Customer Service,Associate,5/31/2018,583345.67,1
+EMP00222,Vishal Bhatt,ST0162,Sales,Team Lead,7/10/2017,555196.72,1
+EMP00223,Komal Kapoor,ST0189,Inventory,Team Lead,4/6/2020,541604.96,1
+EMP00224,Dhruv Rajan,ST0132,Sales,Associate,4/22/2024,468360.81,1
+EMP00225,Aditya Reddy,ST0216,Sales,Associate,3/6/2020,493626.79,1
+EMP00226,Aditya Desai,ST0059,Management,Associate,1/11/2023,367387.64,1
+EMP00227,Prakash Subramaniam,ST0157,Inventory,Associate,11/12/2020,487553.25,1
+EMP00228,Rashmi Babu,ST0083,Management,Senior Associate,9/29/2017,278411.34,1
+EMP00229,Tanvi Pillai,ST0134,Sales,Team Lead,5/23/2017,673363.36,1
+EMP00230,Chetan Bhatt,ST0121,Management,Senior Associate,3/28/2022,270755.02,1
+EMP00231,Sapna Kapoor,ST0177,Inventory,Team Lead,12/29/2019,205228.09,1
+EMP00232,Saurabh Das,ST0168,Customer Service,Associate,4/14/2023,433559.92,1
+EMP00233,Ashok Malhotra,ST0083,Inventory,Associate,2/27/2019,577899.84,1
+EMP00234,Swati Bhatt,ST0193,Cashier,Senior Associate,10/28/2022,434515.94,1
+EMP00235,Jagdish Reddy,ST0197,Customer Service,Associate,8/9/2021,329890.19,1
+EMP00236,Varun Bhalla,ST0027,Customer Service,Senior Associate,9/15/2018,512811.27,0
+EMP00237,Geeta Banerjee,ST0080,Cashier,Associate,1/17/2024,375551.52,1
+EMP00238,Nandini Nair,ST0134,Management,Associate,9/20/2024,756364,1
+EMP00239,Asha Banerjee,ST0013,Customer Service,Assistant Manager,7/27/2019,749719.34,1
+EMP00240,Suman Sethi,ST0064,Inventory,Associate,1/24/2020,476541.68,1
+EMP00241,Shalini Pillai,ST0190,Sales,Assistant Manager,9/9/2018,363124.6,1
+EMP00242,Suresh Rajan,ST0147,Sales,Assistant Manager,10/29/2019,629136.07,1
+EMP00243,Rakesh Pandey,ST0204,Customer Service,Team Lead,3/8/2017,173863.41,1
+EMP00244,Rahul Anand,ST0080,Cashier,Senior Associate,7/10/2017,458599.85,1
+EMP00245,Pallavi Ghosh,ST0123,Cashier,Senior Associate,9/16/2024,368610.21,1
+EMP00246,Sangeeta Saxena,ST0043,Sales,Team Lead,6/5/2018,748348.33,1
+EMP00247,Arjun Saxena,ST0202,Customer Service,Associate,9/17/2019,157801.97,1
+EMP00248,Deepak Nair,ST0089,Sales,Senior Associate,2/15/2020,509329.67,1
+EMP00249,Zara Sharma,ST0148,Cashier,Senior Associate,5/4/2023,631431.33,1
+EMP00250,Prakash Bajaj,ST0095,Cashier,Associate,6/23/2021,465261.69,1
+EMP00251,Sachin Agarwal,ST0196,Inventory,Associate,12/8/2023,205511.97,1
+EMP00252,Imran Nayar,ST0172,Management,Associate,4/2/2020,782099.9,0
+EMP00253,Vinod Bose,ST0151,Inventory,Senior Associate,1/11/2018,486706.78,1
+EMP00254,Kunal Chauhan,ST0002,Customer Service,Team Lead,10/15/2018,549221.06,1
+EMP00255,Anil Patel,ST0120,Sales,Associate,7/3/2018,303796.36,1
+EMP00256,Hemant Agarwal,ST0022,Customer Service,Assistant Manager,1/3/2020,464273.76,1
+EMP00257,Sunil Kapoor,ST0115,Inventory,Senior Associate,3/14/2017,428947.17,1
+EMP00258,Chitra Desai,ST0057,Inventory,Team Lead,6/14/2023,198682.3,1
+EMP00259,Arvind Nayar,ST0072,Sales,Senior Associate,7/18/2017,219004.23,1
+EMP00260,Asha Bhatia,ST0007,Cashier,Team Lead,11/17/2021,694357.14,0
+EMP00261,Gaurav Verma,ST0206,Sales,Associate,7/26/2018,305882.97,1
+EMP00262,Hema Rajan,ST0184,Customer Service,Team Lead,3/2/2019,276722.88,1
+EMP00263,Arjun Ghosh,ST0119,Inventory,Associate,6/27/2021,478192.44,1
+EMP00264,Sunaina Kohli,ST0195,Inventory,Team Lead,1/6/2022,649685.64,1
+EMP00265,Manoj Sethi,ST0114,Inventory,Assistant Manager,1/30/2022,190265.24,0
+EMP00266,Harish Krishnan,ST0016,Sales,Associate,2/19/2021,524925.15,1
+EMP00267,Aditya Pillai,ST0083,Sales,Associate,3/20/2020,227486.79,1
+EMP00268,Kiran Iyer,ST0179,Inventory,Team Lead,6/28/2017,173699.68,1
+EMP00269,Yamini Joshi,ST0210,Customer Service,Associate,2/23/2023,184283.57,1
+EMP00270,Ojaswini Malhotra,ST0208,Sales,Team Lead,1/5/2019,692206.67,1
+EMP00271,Anil Mehta,ST0072,Inventory,Associate,11/7/2022,226682.11,1
+EMP00272,Pooja Subramaniam,ST0124,Customer Service,Associate,3/10/2019,179348.39,1
+EMP00273,Anjali Das,ST0113,Inventory,Assistant Manager,2/27/2019,434634.93,1
+EMP00274,Sunil Mukherjee,ST0012,Management,Senior Associate,8/27/2024,698595.76,1
+EMP00275,Rajesh Iyer,ST0126,Sales,Team Lead,7/28/2017,320565.44,1
+EMP00276,Zara Varma,ST0053,Sales,Associate,5/8/2018,424113.2,0
+EMP00277,Pankaj Mehta,ST0075,Management,Senior Associate,6/5/2024,175949.65,1
+EMP00278,Suman Chauhan,ST0133,Inventory,Senior Associate,7/16/2021,441901.03,1
+EMP00279,Ramesh Chopra,ST0027,Inventory,Senior Associate,12/28/2024,525448.5,1
+EMP00280,Rajesh Khanna,ST0140,Management,Senior Associate,1/2/2019,521089.58,1
+EMP00281,Kiran Mishra,ST0145,Management,Senior Associate,2/4/2020,366077.35,1
+EMP00282,Kavita Anand,ST0134,Cashier,Associate,5/25/2021,355096.57,0
+EMP00283,Falguni Das,ST0097,Customer Service,Associate,7/8/2024,219305.35,1
+EMP00284,Anjali Pandey,ST0005,Customer Service,Team Lead,8/17/2018,388418.91,1
+EMP00285,Anil Saxena,ST0057,Customer Service,Associate,12/9/2024,214671.53,1
+EMP00286,Manoj Bose,ST0156,Sales,Senior Associate,4/30/2020,648287.36,1
+EMP00287,Manish Pillai,ST0078,Customer Service,Associate,11/21/2017,778078.29,0
+EMP00288,Bindu Mehta,ST0069,Sales,Senior Associate,9/6/2019,780548.4,1
+EMP00289,Tanvi Singh,ST0118,Cashier,Senior Associate,10/16/2021,712296.21,0
+EMP00290,Tanvi Bhalla,ST0120,Customer Service,Associate,1/25/2022,540514.9,1
+EMP00291,Nitin Saxena,ST0059,Customer Service,Associate,1/30/2021,605562.7,0
+EMP00292,Shalini Anand,ST0033,Sales,Associate,6/13/2019,335383.77,1
+EMP00293,Jagdish Kapoor,ST0062,Sales,Senior Associate,10/22/2020,560000.77,1
+EMP00294,Varun Pandey,ST0050,Sales,Team Lead,5/24/2017,446172.21,1
+EMP00295,Rahul Pillai,ST0112,Customer Service,Associate,1/19/2018,463311.27,1
+EMP00296,Nandini Singh,ST0019,Sales,Senior Associate,3/14/2023,642554.76,1
+EMP00297,Zara Agarwal,ST0214,Inventory,Associate,6/30/2023,333246.93,1
+EMP00298,Tanvi Singh,ST0197,Cashier,Senior Associate,8/5/2017,356725.75,1
+EMP00299,Bhavna Bose,ST0123,Cashier,Assistant Manager,2/24/2021,751017.16,1
+EMP00300,Prakash Saxena,ST0194,Inventory,Associate,2/9/2023,186545.79,1
+EMP00301,Sunil Anand,ST0047,Sales,Senior Associate,5/7/2023,465662.29,1
+EMP00302,Neha Pillai,ST0167,Cashier,Associate,1/30/2021,743320.52,1
+EMP00303,Priya Iyer,ST0196,Cashier,Associate,12/27/2024,546735.96,1
+EMP00304,Vikram Rao,ST0033,Sales,Associate,6/24/2021,505164.6,1
+EMP00305,Yamini Mukherjee,ST0141,Inventory,Associate,11/20/2023,312333.72,1
+EMP00306,Deepak Bose,ST0084,Sales,Senior Associate,6/11/2023,373129.07,1
+EMP00307,Vandana Desai,ST0182,Management,Associate,3/13/2020,703831.47,0
+EMP00308,Sangeeta Ghosh,ST0135,Cashier,Senior Associate,4/21/2017,513491.79,1
+EMP00309,Anita Joshi,ST0079,Sales,Associate,10/11/2019,484582.43,1
+EMP00310,Saurabh Mehta,ST0215,Cashier,Associate,8/20/2017,214726.81,1
+EMP00311,Preeti Das,ST0014,Inventory,Senior Associate,9/11/2021,160418.3,1
+EMP00312,Hemant Mukherjee,ST0215,Cashier,Assistant Manager,10/22/2021,776395.37,1
+EMP00313,Ajay Bose,ST0147,Customer Service,Associate,3/27/2024,395041.01,1
+EMP00314,Vijay Bhatt,ST0128,Management,Team Lead,4/27/2021,542088.49,1
+EMP00315,Sunil Sinha,ST0054,Sales,Senior Associate,7/20/2020,201814.8,1
+EMP00316,Dinesh Chandran,ST0148,Sales,Senior Associate,1/30/2023,594024.29,1
+EMP00317,Karthik Chopra,ST0029,Sales,Senior Associate,8/31/2019,756168.36,1
+EMP00318,Rashmi Menon,ST0024,Cashier,Associate,10/28/2019,524182.41,1
+EMP00319,Rekha Khanna,ST0082,Management,Associate,2/7/2024,231974.96,1
+EMP00320,Lakshmi Menon,ST0063,Cashier,Senior Associate,2/9/2024,528118.99,1
+EMP00321,Geeta Mukherjee,ST0202,Cashier,Associate,6/2/2018,648125.69,0
+EMP00322,Yogesh Nayar,ST0105,Sales,Assistant Manager,7/3/2019,414170.75,1
+EMP00323,Naveen Pandey,ST0057,Sales,Associate,3/13/2023,721894.54,1
+EMP00324,Gaurav Desai,ST0136,Sales,Associate,12/22/2022,571643.92,1
+EMP00325,Jyoti Pillai,ST0218,Sales,Senior Associate,5/22/2023,734511.8,0
+EMP00326,Pankaj Pillai,ST0062,Sales,Associate,4/29/2022,555278.45,0
+EMP00327,Suresh Anand,ST0157,Customer Service,Senior Associate,1/2/2021,235337.18,1
+EMP00328,Pallavi Chopra,ST0202,Sales,Senior Associate,2/16/2022,351299.61,1
+EMP00329,Prakash Tiwari,ST0017,Sales,Assistant Manager,6/26/2024,281166.72,1
+EMP00330,Zara Mishra,ST0066,Sales,Team Lead,7/7/2023,740737.22,1
+EMP00331,Ramesh Chopra,ST0006,Sales,Senior Associate,7/31/2020,644260.04,1
+EMP00332,Kiran Nair,ST0058,Cashier,Senior Associate,6/18/2019,589658.94,0
+EMP00333,Mukesh Verma,ST0069,Management,Assistant Manager,1/4/2020,345628.11,1
+EMP00334,Naveen Pillai,ST0156,Cashier,Associate,4/4/2020,269629.1,1
+EMP00335,Sangeeta Saxena,ST0062,Customer Service,Associate,4/27/2020,641693.21,1
+EMP00336,Priya Iyer,ST0169,Sales,Associate,10/27/2022,458202.66,1
+EMP00337,Imran Nayar,ST0197,Management,Associate,11/19/2018,296763.21,1
+EMP00338,Harish Chopra,ST0082,Sales,Senior Associate,8/31/2022,550804.29,1
+EMP00339,Pallavi Menon,ST0218,Sales,Senior Associate,7/20/2018,176217,0
+EMP00340,Deepika Agarwal,ST0212,Sales,Senior Associate,4/22/2020,362010.67,0
+EMP00341,Manisha Bhatt,ST0169,Sales,Associate,3/10/2022,454562.05,1
+EMP00342,Kavita Reddy,ST0177,Sales,Senior Associate,4/7/2019,246172.92,1
+EMP00343,Suresh Agarwal,ST0219,Sales,Associate,9/13/2020,790025.41,1
+EMP00344,Anjali Agarwal,ST0177,Inventory,Senior Associate,2/5/2023,285913.29,1
+EMP00345,Nitin Saxena,ST0204,Sales,Senior Associate,12/17/2021,234729.53,1
+EMP00346,Arvind Kumar,ST0071,Sales,Associate,12/19/2019,282297.67,1
+EMP00347,Dinesh Mehta,ST0131,Management,Associate,9/12/2020,649889.74,0
+EMP00348,Nandini Narayan,ST0010,Sales,Associate,7/3/2021,426578.68,1
+EMP00349,Arjun Patel,ST0098,Sales,Team Lead,6/9/2024,517520.36,1
+EMP00350,Suman Rajan,ST0089,Cashier,Assistant Manager,7/10/2017,163655.95,1
+EMP00351,Deepika Khanna,ST0035,Sales,Senior Associate,5/8/2020,172380.35,1
+EMP00352,Sunil Desai,ST0208,Sales,Associate,8/28/2020,439786.61,1
+EMP00353,Urmila Bhatt,ST0002,Customer Service,Associate,12/9/2018,680825.91,1
+EMP00354,Mohan Mukherjee,ST0124,Sales,Senior Associate,1/14/2018,725405.27,1
+EMP00355,Aarti Iyer,ST0024,Customer Service,Team Lead,1/22/2018,206359.27,1
+EMP00356,Saurabh Patel,ST0074,Management,Associate,4/4/2023,499936.02,1
+EMP00357,Kunal Rajan,ST0166,Sales,Associate,9/8/2018,743599.3,1
+EMP00358,Arvind Pillai,ST0022,Customer Service,Senior Associate,3/23/2021,402182.29,1
+EMP00359,Aarti Pillai,ST0154,Customer Service,Associate,5/20/2023,689217.79,1
+EMP00360,Kiran Sethi,ST0171,Sales,Associate,8/11/2022,236902.18,1
+EMP00361,Pallavi Ghosh,ST0183,Inventory,Associate,10/21/2021,758006.42,1
+EMP00362,Ramesh Chopra,ST0039,Sales,Senior Associate,4/9/2018,638425.16,1
+EMP00363,Anita Chopra,ST0219,Customer Service,Team Lead,8/25/2019,761867.36,0
+EMP00364,Sunil Bhalla,ST0157,Sales,Assistant Manager,6/21/2017,589801.2,1
+EMP00365,Meera Iyer,ST0020,Customer Service,Senior Associate,2/21/2020,386212.56,1
+EMP00366,Urmila Gupta,ST0219,Sales,Senior Associate,4/23/2019,759817.76,0
+EMP00367,Hema Khanna,ST0041,Management,Associate,8/14/2020,329118.4,1
+EMP00368,Chitra Nair,ST0182,Sales,Senior Associate,3/24/2022,365912.14,1
+EMP00369,Siddharth Chopra,ST0148,Customer Service,Associate,11/21/2018,605525.47,1
+EMP00370,Girish Arora,ST0108,Customer Service,Senior Associate,3/7/2024,647455.59,0
+EMP00371,Imran Bhatt,ST0147,Inventory,Associate,2/16/2021,754112.26,0
+EMP00372,Sunita Rao,ST0084,Customer Service,Associate,1/22/2023,283121.57,1
+EMP00373,Yogesh Malhotra,ST0111,Inventory,Associate,7/18/2022,668698.72,1
+EMP00374,Imran Anand,ST0066,Management,Associate,9/19/2021,630054.93,1
+EMP00375,Kunal Pandey,ST0158,Cashier,Associate,1/18/2018,191466.46,0
+EMP00376,Ashok Pillai,ST0053,Sales,Associate,3/7/2023,401695.04,0
+EMP00377,Deepika Pillai,ST0034,Customer Service,Assistant Manager,11/13/2020,333797.55,1
+EMP00378,Swati Shankar,ST0150,Management,Associate,5/3/2021,347918.78,1
+EMP00379,Sanjay Sethi,ST0067,Cashier,Senior Associate,3/22/2023,788915.47,1
+EMP00380,Nisha Anand,ST0134,Cashier,Team Lead,8/13/2022,567805.32,1
+EMP00381,Arjun Das,ST0207,Sales,Assistant Manager,1/7/2018,616489.5,1
+EMP00382,Deepika Mukherjee,ST0027,Sales,Senior Associate,9/7/2021,784801.46,1
+EMP00383,Esha Nayar,ST0010,Customer Service,Team Lead,1/9/2021,395181.16,1
+EMP00384,Pallavi Gupta,ST0073,Inventory,Associate,9/3/2018,671196.11,1
+EMP00385,Rajesh Khanna,ST0096,Customer Service,Associate,4/26/2017,432445.13,0
+EMP00386,Mukesh Kapoor,ST0048,Customer Service,Associate,3/23/2018,715196.89,1
+EMP00387,Falguni Babu,ST0070,Management,Senior Associate,10/23/2020,267427.4,1
+EMP00388,Manisha Anand,ST0187,Sales,Senior Associate,9/2/2020,765996.02,1
+EMP00389,Chetan Malhotra,ST0100,Cashier,Associate,2/19/2018,292201.61,0
+EMP00390,Girish Pillai,ST0059,Customer Service,Associate,12/14/2021,362043.33,1
+EMP00391,Pankaj Bhalla,ST0002,Sales,Senior Associate,11/14/2019,641524.95,1
+EMP00392,Anjali Verma,ST0157,Customer Service,Associate,6/3/2024,405940.84,1
+EMP00393,Sneha Pillai,ST0196,Management,Senior Associate,2/17/2022,545337.39,1
+EMP00394,Sunil Singh,ST0065,Sales,Senior Associate,12/10/2019,438972.78,1
+EMP00395,Komal Pandey,ST0083,Sales,Senior Associate,12/19/2018,632540.46,1
+EMP00396,Rahul Anand,ST0154,Cashier,Team Lead,9/20/2020,298415.31,0
+EMP00397,Suresh Banerjee,ST0217,Sales,Team Lead,5/25/2021,187997.69,1
+EMP00398,Priya Arora,ST0010,Customer Service,Senior Associate,5/8/2023,344954.11,1
+EMP00399,Manish Krishnan,ST0053,Customer Service,Senior Associate,7/16/2018,458300.63,1
+EMP00400,Chitra Bose,ST0079,Customer Service,Senior Associate,10/22/2024,259213.03,1
+EMP00401,Vishal Das,ST0059,Inventory,Associate,4/14/2023,380618.24,1
+EMP00402,Kunal Bhatia,ST0150,Sales,Associate,1/22/2018,409988.96,1
+EMP00403,Deepa Iyer,ST0179,Customer Service,Associate,12/3/2018,187304.7,1
+EMP00404,Harish Mukherjee,ST0048,Sales,Associate,2/20/2024,529149.71,1
+EMP00405,Suresh Bhatia,ST0149,Inventory,Senior Associate,8/31/2019,724823.23,1
+EMP00406,Manoj Mishra,ST0123,Sales,Team Lead,10/16/2020,248632.89,1
+EMP00407,Vikram Singh,ST0022,Customer Service,Associate,9/11/2019,538575.21,1
+EMP00408,Varun Das,ST0100,Sales,Associate,2/20/2021,582080.48,0
+EMP00409,Chetan Das,ST0098,Sales,Assistant Manager,12/18/2017,422567.54,1
+EMP00410,Lokesh Mehta,ST0158,Sales,Associate,9/21/2021,605713.43,1
+EMP00411,Sneha Mishra,ST0025,Sales,Senior Associate,5/6/2022,416975.5,1
+EMP00412,Mukesh Rajan,ST0028,Management,Senior Associate,7/3/2020,478014.24,1
+EMP00413,Tarun Chandran,ST0193,Sales,Senior Associate,3/23/2022,154779.48,1
+EMP00414,Sanjay Pillai,ST0113,Cashier,Associate,1/23/2019,599618.07,1
+EMP00415,Anita Arora,ST0045,Cashier,Associate,9/29/2024,579872.74,1
+EMP00416,Gopal Khanna,ST0068,Customer Service,Associate,10/22/2019,174960.57,1
+EMP00417,Madhuri Rao,ST0007,Sales,Senior Associate,6/30/2018,389362.57,1
+EMP00418,Pallavi Bhatia,ST0049,Sales,Senior Associate,1/9/2021,786370.7,1
+EMP00419,Girish Agarwal,ST0137,Management,Associate,3/20/2017,423478.77,1
+EMP00420,Sandeep Sethi,ST0164,Sales,Senior Associate,6/13/2020,476264.51,1
+EMP00421,Rahul Chauhan,ST0083,Sales,Team Lead,7/10/2023,741454.6,1
+EMP00422,Aarti Kapoor,ST0129,Customer Service,Associate,6/8/2019,616220.22,1
+EMP00423,Dhruv Kapoor,ST0138,Management,Senior Associate,1/11/2020,528345.59,1
+EMP00424,Nisha Rao,ST0164,Management,Senior Associate,12/25/2023,668573.04,1
+EMP00425,Aditya Sinha,ST0073,Sales,Associate,6/14/2022,711838.07,1
+EMP00426,Anita Arora,ST0046,Inventory,Associate,2/9/2021,446977.25,1
+EMP00427,Komal Sethi,ST0106,Sales,Senior Associate,9/13/2024,458820.44,1
+EMP00428,Jyoti Malhotra,ST0160,Sales,Team Lead,7/10/2019,400933.11,1
+EMP00429,Ritu Menon,ST0032,Cashier,Team Lead,7/4/2018,778358.99,0
+EMP00430,Deepak Iyer,ST0006,Sales,Senior Associate,8/24/2022,603158.07,1
+EMP00431,Gopal Banerjee,ST0176,Sales,Senior Associate,1/27/2018,204094.99,1
+EMP00432,Karthik Das,ST0166,Sales,Associate,6/16/2023,710923.76,1
+EMP00433,Swati Khanna,ST0145,Cashier,Senior Associate,8/31/2023,462363.96,1
+EMP00434,Deepak Singh,ST0074,Management,Senior Associate,10/12/2020,194690.04,1
+EMP00435,Manoj Narayan,ST0114,Inventory,Associate,9/1/2019,507316.22,1
+EMP00436,Pallavi Chopra,ST0027,Management,Senior Associate,12/6/2017,421156.78,1
+EMP00437,Arjun Narayan,ST0054,Sales,Senior Associate,3/29/2024,720537.11,1
+EMP00438,Asha Bajaj,ST0178,Customer Service,Associate,1/27/2019,282596.49,1
+EMP00439,Abhishek Mehta,ST0163,Sales,Assistant Manager,11/12/2019,687202,1
+EMP00440,Komal Mukherjee,ST0085,Sales,Associate,5/28/2023,512497.65,1
+EMP00441,Nitin Chandran,ST0127,Customer Service,Associate,6/12/2023,185496.7,1
+EMP00442,Ramesh Sethi,ST0153,Cashier,Associate,5/5/2024,781699.45,1
+EMP00443,Geeta Das,ST0156,Sales,Team Lead,4/26/2024,483199.91,1
+EMP00444,Imran Arora,ST0111,Sales,Senior Associate,7/28/2019,339069.96,1
+EMP00445,Urmila Bose,ST0015,Sales,Associate,4/28/2019,455114.45,1
+EMP00446,Naveen Iyer,ST0132,Sales,Senior Associate,3/18/2018,707607.56,1
+EMP00447,Sangeeta Narayan,ST0093,Cashier,Associate,12/26/2023,348187.03,1
+EMP00448,Gauri Iyer,ST0123,Customer Service,Team Lead,5/10/2017,275239.66,1
+EMP00449,Dinesh Verma,ST0073,Customer Service,Senior Associate,8/20/2018,233896.31,1
+EMP00450,Mohan Arora,ST0155,Management,Associate,5/13/2022,343608.61,1
+EMP00451,Falguni Subramaniam,ST0154,Sales,Assistant Manager,2/14/2021,657031.26,1
+EMP00452,Madhuri Tiwari,ST0147,Customer Service,Associate,5/12/2019,456557.14,1
+EMP00453,Vikram Krishnan,ST0092,Customer Service,Associate,3/25/2024,297863.04,1
+EMP00454,Deepak Subramaniam,ST0017,Customer Service,Senior Associate,9/26/2019,258020.25,1
+EMP00455,Pallavi Sinha,ST0043,Cashier,Assistant Manager,7/1/2023,366274.16,1
+EMP00456,Esha Mishra,ST0121,Management,Associate,11/1/2023,760950.84,1
+EMP00457,Karthik Kohli,ST0041,Sales,Associate,4/1/2021,372967.36,1
+EMP00458,Aarti Nayar,ST0170,Management,Associate,11/6/2024,792280.65,1
+EMP00459,Rohit Verma,ST0178,Sales,Senior Associate,6/29/2021,465399.8,1
+EMP00460,Sunaina Banerjee,ST0212,Sales,Associate,2/20/2021,266456.55,1
+EMP00461,Leela Shankar,ST0168,Sales,Senior Associate,10/3/2021,729241.06,0
+EMP00462,Deepa Pillai,ST0039,Sales,Assistant Manager,7/19/2024,449230.99,1
+EMP00463,Komal Bose,ST0113,Customer Service,Senior Associate,12/20/2020,611286.37,1
+EMP00464,Ojaswini Chandran,ST0151,Inventory,Associate,2/1/2022,789412.53,1
+EMP00465,Hemant Desai,ST0111,Cashier,Associate,9/22/2017,182613.98,0
+EMP00466,Pankaj Yadav,ST0180,Customer Service,Associate,4/13/2024,212851.46,1
+EMP00467,Tarun Iyer,ST0047,Customer Service,Team Lead,11/19/2024,618296.88,1
+EMP00468,Mohan Khanna,ST0063,Sales,Associate,6/14/2024,333186.25,1
+EMP00469,Urmila Menon,ST0110,Sales,Associate,1/2/2021,269795.91,1
+EMP00470,Prakash Sharma,ST0069,Customer Service,Senior Associate,6/6/2017,175585.22,1
+EMP00471,Rahul Rajan,ST0043,Customer Service,Associate,12/16/2020,164200.36,1
+EMP00472,Dinesh Sharma,ST0176,Management,Senior Associate,4/18/2023,653415.64,1
+EMP00473,Mohan Arora,ST0034,Sales,Associate,6/21/2021,237381.73,1
+EMP00474,Rahul Ghosh,ST0040,Sales,Team Lead,1/22/2024,454018.4,0
+EMP00475,Sandeep Desai,ST0203,Customer Service,Assistant Manager,7/3/2023,543832.93,1
+EMP00476,Siddharth Tiwari,ST0061,Sales,Senior Associate,6/14/2019,428428.67,0
+EMP00477,Nisha Kumar,ST0178,Sales,Assistant Manager,11/15/2022,167619.32,1
+EMP00478,Pankaj Shankar,ST0195,Inventory,Associate,5/28/2018,659275.98,1
+EMP00479,Suman Babu,ST0062,Sales,Senior Associate,8/4/2017,156833.6,1
+EMP00480,Gopal Chandran,ST0058,Inventory,Senior Associate,12/13/2022,645228.43,1
+EMP00481,Divya Krishnan,ST0161,Sales,Senior Associate,9/3/2021,730647.92,1
+EMP00482,Rekha Chauhan,ST0075,Sales,Associate,10/8/2022,431345.95,1
+EMP00483,Lokesh Anand,ST0016,Sales,Associate,4/17/2021,498102.61,1
+EMP00484,Nitin Joshi,ST0082,Management,Associate,1/18/2023,460039.21,1
+EMP00485,Kavita Shankar,ST0094,Sales,Associate,5/21/2023,402985.6,1
+EMP00486,Meera Malhotra,ST0048,Management,Associate,11/24/2022,726825.95,1
+EMP00487,Vishal Desai,ST0138,Sales,Senior Associate,2/3/2020,731056.78,1
+EMP00488,Ishita Singh,ST0082,Management,Associate,8/16/2017,368280.64,1
+EMP00489,Kunal Joshi,ST0038,Sales,Associate,6/24/2023,549795.34,0
+EMP00490,Kunal Tiwari,ST0127,Inventory,Senior Associate,1/27/2021,752489.92,1
+EMP00491,Abhishek Agarwal,ST0019,Customer Service,Senior Associate,3/13/2019,775338.02,1
+EMP00492,Preeti Sinha,ST0164,Cashier,Team Lead,6/11/2021,480823.38,1
+EMP00493,Pallavi Mehta,ST0187,Sales,Senior Associate,3/21/2022,444336.12,1
+EMP00494,Manish Anand,ST0063,Sales,Associate,12/31/2024,331151.31,0
+EMP00495,Rajesh Varma,ST0077,Sales,Team Lead,4/17/2018,773266.72,1
+EMP00496,Siddharth Saxena,ST0174,Management,Senior Associate,12/16/2019,242829.3,1
+EMP00497,Yogesh Malhotra,ST0131,Customer Service,Associate,4/26/2024,526889.22,1
+EMP00498,Anita Menon,ST0202,Management,Senior Associate,8/23/2022,333657.67,1
+EMP00499,Zara Gupta,ST0102,Sales,Assistant Manager,11/8/2019,331355.39,0
+EMP00500,Sangeeta Chandran,ST0065,Sales,Associate,7/4/2024,413229.58,1
+EMP00501,Saurabh Das,ST0120,Sales,Associate,12/1/2022,799215.41,1
+EMP00502,Divya Arora,ST0091,Cashier,Associate,8/17/2017,185728.1,1
+EMP00503,Deepak Varma,ST0008,Inventory,Associate,6/20/2017,526052.18,1
+EMP00504,Hema Sinha,ST0179,Cashier,Associate,10/22/2017,203671.9,1
+EMP00505,Sangeeta Rao,ST0209,Sales,Senior Associate,7/8/2017,250438.54,1
+EMP00506,Esha Pillai,ST0073,Inventory,Associate,3/2/2018,435715.91,1
+EMP00507,Karthik Menon,ST0134,Inventory,Assistant Manager,9/4/2019,481799.09,1
+EMP00508,Rashmi Narayan,ST0107,Sales,Team Lead,1/8/2020,318215.07,1
+EMP00509,Jagdish Ghosh,ST0089,Management,Senior Associate,5/29/2024,355697.14,1
+EMP00510,Arvind Bose,ST0039,Cashier,Team Lead,7/8/2019,206528.56,1
+EMP00511,Sanjay Desai,ST0113,Cashier,Associate,5/14/2018,347092.86,0
+EMP00512,Pallavi Reddy,ST0188,Inventory,Senior Associate,12/27/2021,778262.99,1
+EMP00513,Nandini Banerjee,ST0028,Sales,Senior Associate,9/10/2024,764059.8,1
+EMP00514,Falguni Sharma,ST0097,Sales,Team Lead,5/16/2019,367670.89,1
+EMP00515,Naveen Mukherjee,ST0182,Cashier,Team Lead,4/6/2019,521055.06,1
+EMP00516,Rakesh Pandey,ST0037,Sales,Associate,2/2/2022,741237,1
+EMP00517,Preeti Khanna,ST0137,Inventory,Assistant Manager,10/20/2022,154019.48,1
+EMP00518,Naveen Sinha,ST0082,Inventory,Associate,4/15/2023,676944.32,1
+EMP00519,Komal Malhotra,ST0056,Inventory,Team Lead,5/26/2017,766440.21,1
+EMP00520,Neha Bhalla,ST0187,Cashier,Assistant Manager,6/30/2021,209361.73,1
+EMP00521,Aditya Nayar,ST0085,Sales,Associate,8/12/2020,254941,1
+EMP00522,Rajesh Chatterjee,ST0002,Sales,Senior Associate,3/14/2024,774485.1,0
+EMP00523,Chetan Bose,ST0189,Sales,Associate,4/15/2018,499401.09,1
+EMP00524,Aarti Krishnan,ST0058,Customer Service,Associate,7/12/2017,159227.81,1
+EMP00525,Imran Krishnan,ST0107,Sales,Senior Associate,12/28/2019,317460.8,1
+EMP00526,Mukesh Mukherjee,ST0123,Sales,Senior Associate,12/17/2023,442463.39,1
+EMP00527,Rakesh Narayan,ST0188,Management,Assistant Manager,2/21/2017,600390.79,1
+EMP00528,Vinod Bose,ST0168,Cashier,Senior Associate,8/8/2023,626554.25,1
+EMP00529,Imran Mukherjee,ST0164,Sales,Senior Associate,12/26/2021,797023.98,1
+EMP00530,Nitin Tiwari,ST0114,Sales,Team Lead,11/27/2023,336882.28,1
+EMP00531,Yogesh Patel,ST0107,Cashier,Assistant Manager,2/13/2022,499843.07,1
+EMP00532,Rekha Anand,ST0037,Sales,Associate,1/13/2024,496660.31,1
+EMP00533,Gopal Nayar,ST0079,Sales,Assistant Manager,11/22/2021,413669.42,1
+EMP00534,Harish Das,ST0092,Sales,Associate,12/25/2020,259955.23,1
+EMP00535,Rashmi Arora,ST0018,Customer Service,Team Lead,2/11/2022,785346.77,1
+EMP00536,Ishita Banerjee,ST0098,Sales,Associate,7/1/2024,704656.17,1
+EMP00537,Abhishek Chauhan,ST0063,Cashier,Associate,1/24/2024,473916.47,1
+EMP00538,Saurabh Reddy,ST0150,Customer Service,Associate,7/1/2022,542109.52,1
+EMP00539,Harish Subramaniam,ST0139,Customer Service,Senior Associate,12/5/2020,297719.68,0
+EMP00540,Komal Shankar,ST0186,Sales,Associate,4/20/2019,503461.6,1
+EMP00541,Yamini Sethi,ST0185,Customer Service,Associate,8/29/2017,601730.59,1
+EMP00542,Ramesh Iyer,ST0205,Inventory,Senior Associate,6/20/2018,484858.57,1
+EMP00543,Sunaina Iyer,ST0004,Management,Assistant Manager,11/8/2020,793685.36,1
+EMP00544,Suresh Nayar,ST0214,Management,Associate,3/24/2017,547372.08,0
+EMP00545,Arvind Tiwari,ST0135,Customer Service,Associate,9/9/2019,391132.91,1
+EMP00546,Aditya Shankar,ST0061,Cashier,Associate,8/9/2019,651898.82,0
+EMP00547,Preeti Bhalla,ST0107,Management,Associate,9/3/2018,260800.63,1
+EMP00548,Varun Nayar,ST0054,Management,Team Lead,7/28/2018,399935.28,1
+EMP00549,Deepa Chauhan,ST0088,Sales,Team Lead,5/23/2023,375523.32,1
+EMP00550,Swati Joshi,ST0068,Sales,Senior Associate,9/16/2019,430674.61,1
+EMP00551,Madhuri Pillai,ST0220,Sales,Associate,4/4/2018,658156.89,1
+EMP00552,Varun Bhalla,ST0207,Inventory,Team Lead,12/14/2022,464712.47,1
+EMP00553,Asha Babu,ST0129,Customer Service,Senior Associate,3/3/2021,666109.39,0
+EMP00554,Urmila Menon,ST0055,Customer Service,Team Lead,10/9/2023,524717.79,1
+EMP00555,Ajay Nayar,ST0003,Cashier,Senior Associate,2/15/2024,372345.13,1
+EMP00556,Falguni Anand,ST0206,Cashier,Team Lead,4/11/2024,676486.18,1
+EMP00557,Priya Bhatia,ST0166,Cashier,Senior Associate,6/8/2022,304888.29,1
+EMP00558,Manisha Sinha,ST0121,Sales,Associate,4/16/2021,295848.94,1
+EMP00559,Yamini Yadav,ST0129,Inventory,Assistant Manager,11/30/2022,477926.9,1
+EMP00560,Bindu Patel,ST0102,Sales,Senior Associate,9/16/2023,319552.01,0
+EMP00561,Manoj Bhatt,ST0038,Sales,Senior Associate,5/2/2017,155906.57,1
+EMP00562,Swati Pandey,ST0085,Sales,Associate,9/30/2017,571393.39,1
+EMP00563,Bhavna Saxena,ST0157,Sales,Senior Associate,8/10/2020,482210.98,1
+EMP00564,Deepak Chopra,ST0133,Customer Service,Senior Associate,2/2/2018,439586.58,1
+EMP00565,Dinesh Agarwal,ST0202,Management,Associate,11/24/2023,778529.53,0
+EMP00566,Geeta Krishnan,ST0092,Sales,Associate,9/12/2019,521279.47,1
+EMP00567,Vishal Mishra,ST0021,Inventory,Senior Associate,5/15/2020,711230.53,1
+EMP00568,Neha Tiwari,ST0199,Customer Service,Team Lead,2/8/2020,240642.65,1
+EMP00569,Girish Varma,ST0195,Sales,Senior Associate,7/25/2020,519984.2,1
+EMP00570,Sangeeta Bajaj,ST0109,Customer Service,Associate,3/26/2022,714186.76,1
+EMP00571,Bindu Singh,ST0047,Sales,Senior Associate,3/1/2024,529018.74,1
+EMP00572,Dhruv Mehta,ST0084,Customer Service,Associate,2/14/2021,616709.22,1
+EMP00573,Suresh Bose,ST0083,Customer Service,Associate,4/1/2022,391828.32,1
+EMP00574,Varun Gupta,ST0035,Sales,Associate,3/31/2019,210092.19,1
+EMP00575,Gaurav Malhotra,ST0196,Sales,Associate,12/10/2024,447635.19,1
+EMP00576,Manisha Malhotra,ST0069,Customer Service,Associate,7/20/2024,406411.6,1
+EMP00577,Kavita Bhalla,ST0129,Cashier,Associate,5/11/2022,713589.12,1
+EMP00578,Ishita Narayan,ST0196,Sales,Associate,6/27/2023,308596.95,1
+EMP00579,Radha Sharma,ST0140,Inventory,Associate,6/28/2017,778377.25,1
+EMP00580,Meera Shankar,ST0188,Inventory,Senior Associate,6/16/2019,772789.78,1
+EMP00581,Esha Chauhan,ST0027,Cashier,Senior Associate,3/17/2023,310960.57,1
+EMP00582,Pankaj Kumar,ST0056,Management,Associate,10/7/2024,376233.77,1
+EMP00583,Gopal Bhatt,ST0023,Customer Service,Team Lead,5/27/2022,732111.23,0
+EMP00584,Madhuri Tiwari,ST0153,Inventory,Associate,4/1/2021,778304.44,1
+EMP00585,Naveen Banerjee,ST0021,Cashier,Senior Associate,5/7/2018,438235.42,1
+EMP00586,Mukesh Anand,ST0061,Sales,Associate,3/2/2017,358648.08,1
+EMP00587,Rashmi Varma,ST0063,Sales,Associate,12/14/2019,491961.11,1
+EMP00588,Bharat Nayar,ST0122,Sales,Senior Associate,8/31/2021,597049.98,1
+EMP00589,Meera Bajaj,ST0052,Management,Senior Associate,1/30/2024,327758.43,1
+EMP00590,Mukesh Das,ST0088,Management,Team Lead,12/5/2024,628707.56,0
+EMP00591,Vikram Bhalla,ST0153,Sales,Senior Associate,3/6/2017,183577.28,1
+EMP00592,Divya Chatterjee,ST0055,Customer Service,Assistant Manager,8/9/2018,182041.42,1
+EMP00593,Siddharth Saxena,ST0046,Customer Service,Associate,9/24/2021,401087.01,1
+EMP00594,Gauri Babu,ST0032,Sales,Associate,1/28/2023,379757.57,1
+EMP00595,Aarti Verma,ST0055,Cashier,Associate,6/19/2018,355161.59,1
+EMP00596,Pankaj Bose,ST0096,Sales,Associate,7/3/2024,469162.85,1
+EMP00597,Sachin Das,ST0133,Sales,Senior Associate,11/26/2022,358476.83,1
+EMP00598,Gopal Malhotra,ST0036,Customer Service,Senior Associate,2/14/2022,274967.65,1
+EMP00599,Deepika Bhatt,ST0110,Inventory,Associate,11/1/2024,351155.21,1
+EMP00600,Nandini Rao,ST0177,Sales,Assistant Manager,10/2/2019,783687.78,1
